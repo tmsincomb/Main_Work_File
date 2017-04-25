@@ -30,12 +30,15 @@ labels = [label for label in list(df.iloc[:, label_index]) if type(label) != flo
 #check
 nans = [label for label in list(df.iloc[:, label_index]) if type(label) == float]
 [print('crap') for value in nans if math.isnan(value) == False]
-print(len(labels))
-labels = list(map(str, labels))
-labels = list(enumerate(labels))
 
-write_n = open('labels_not_in_NIF.txt', 'w')
-#write_n = open('labels_in_NIF.txt', 'w')
+labels = list(map(str, labels))
+labels = [label for label in labels if 'Resource:' not in label]
+repeats = [(index, label) for index, label in list(enumerate(labels)) if labels.count(label) > 1]
+labels = list(set(labels))
+labels = list(enumerate(labels))
+print('Total # of labels:', len(labels))
+#write_n = open('labels_not_in_NIF.txt', 'w')
+write_n = open('labels_in_NIF.txt', 'w')
 
 def worker(label):
     count = label[0]
@@ -54,10 +57,10 @@ def worker(label):
     if count % 5 == 0: print(count)
 
     if 'NIF' not in ''.join(iris) and iris != []:
-        return label
+        return '$'
 
     else:
-        return '$'
+        return label
 
 p = Pool()
 no_list = p.map(worker, labels)
