@@ -1,7 +1,6 @@
 (R)N6-phenylisopropyladenosine
 1-D extent
 1J
-1J mouse
 2
 2-D extent
 3 dB Frequency
@@ -14,14 +13,10 @@
 A mating type (yeast)
 A.T. Still University; Arizona; USA
 A1 neuron
-A1 receptor
 A2 neuron
+A3 neuron
 A4 neuron
 A5 neuron
-A6 neuron
-A7 neuron
-A8 neuron
-ABA 2009 mouse brain parcel
 AC Couple
 ADP amplitude
 AHP amplitude
@@ -34,14 +29,9 @@ Abaxial to
 Abdominal 10 sensory neuron
 Abdominal 9 sensory neuron
 Abdominal neuron
-Abducens nerve fibers
-Abducens nerve root
-Abducens nucleus
-Abducens nucleus motor neuron
-Abducens nucleus of ABA 2009
+Abdominal posterior fascicle neuron
 Aberystwyth University; Wales; United Kingdom
 Abnormal
-Abnormality of the central nervous system
 Abnormality of the nervous system
 Abolished
 Abrased
@@ -51,22 +41,10 @@ Academia Sinica; Taipei; Taiwan
 Academic Free License
 Acamprosate
 Acarbose
-Accelerated growth
 Accelerating rotarod test
-Accessory abducens nucleus
-Accessory abducens nucleus of ABA 2009
-Accessory basal amygdaloid nucleus
-Accessory cuneate nucleus
-Accessory facial motor nucleus of ABA 2009
+Access resistance
 Accessory facial nucleus of PHT00
-Accessory medullary lamina
-Accessory nerve fiber bundle
 Accessory nucleus
-Accessory nucleus motor neuron
-Accessory olfactory bulb glomerular layer of ABA 2009
-Accessory olfactory bulb granular layer of ABA 2009
-Accessory olfactory bulb mitral layer of ABA 2009
-Accessory olfactory bulb of ABA 2009
 Accessory supraoptic group of ABA 2009
 Account required
 Acebutolol
@@ -80,25 +58,27 @@ Acetohydroxamic Acid
 Acetophenazine
 Acetyl Coenzyme A
 Acetylcholine
-Acetylcholine Receptor
 Aciclovir
 Acidity
 Acitretin
 Acknowledgement required
 Acoustic startle response test
+Acquisition Date
+Acquisition Matrix
+Acquisition Number
+Acquisition Start Condition
+Acquisition Time
+Acquisition Time Synchronized
+Acquisitions in Study
 Actin
-Actin Associated Protein
-Actin Binding Protein
-Actin Bundling Protein
 Actin Filament
 Actinodromous
 Actinomorphic
 Action Potential Initiation
 Action potential
+Action potential characteristic
 Activated
 Active
-Active Zone Dense Projection
-Active Zone Plasma Membrane
 Activity (of a radionuclide)
 Activity pattern
 Actual Human Performers Sequence
@@ -110,74 +90,59 @@ Adaptation ratio
 Adaxial to
 Addiction
 Adenine
-Adenine Nucleotide Transporter
 Adenohypophysis
 Adenomatous
 Adenosine
-Adenosine 3',5'-cyclic monophosphate
-Adenosine monophosphate
-Adenosine receptor
 Adenosine triphosphate
 Adequate stimulus
 Adhesivity
 Admitting Date
-Admitting Time
-Adrenergic system
 Adult
 Adult DN period neuron
 Adult Pdf neuron
 Adult anterior LK leucokinin neuron
 Adult dMP2 ILP7 neuron
 Adult drosophila
-Adult human
-Adult labial interneuron
-Adult labial motor neuron
 Adult labial sensory neuron
-Adult lateral horn LHKL leucokinin neuron
 Adult leucokinin SELK neuron of the subesophageal ganglion
 Adult leucokinin neuron of the central nervous system
-Adult mouse
 Adult neurogenesis
-Adult olfactory receptor neuron
-Adult olfactory receptor neuron Ir64a
 Adult pacemaker neuron
+Adult tachykinin neuron of the central nervous system
+Adult tachykinin neuron of the thoracic-abdominal ganglion
+Advanced phase
 Aerobic
 Aerobic (for occurrence)
 Afferent
 African Biobank
-Agalsidase beta
 Age
 Aged
-Aged mouse
+Aggregate field theory
 Aging
 Agonist role
 Agranular insular area dorsal part layer 1 of ABA 2009
-Agranular insular area dorsal part layer 2/3 of ABA 2009
 Agranular insular area dorsal part layer 5 of ABA 2009
 Agranular insular area dorsal part layer 6a of ABA 2009
 Agranular insular area dorsal part layer 6b of ABA 2009
 Agranular insular area dorsal part of ABA 2009
 Agranular insular area of ABA 2009
 Agranular insular area posterior part layer 1 of ABA 2009
-Agranular insular area posterior part layer 2/3 of ABA 2009
 Agranular insular area posterior part layer 5 of ABA 2009
 Agranular insular area posterior part layer 6a of ABA 2009
 Agranular insular area posterior part layer 6b of ABA 2009
 Agranular insular area posterior part of ABA 2009
 Agranular insular area ventral part layer 1 of ABA 2009
-Agranular insular area ventral part layer 2/3 of ABA 2009
 Agranular insular area ventral part layer 5 of ABA 2009
 Agranular insular area ventral part layer 6a of ABA 2009
 Agranular insular area ventral part layer 6b of ABA 2009
 Agranular insular area ventral part of ABA 2009
 Agricultural University of Athens; Athens; Greece
-Alar central lobule
+Aix-Marseille University; Provence-Alpes-Cote d'Azur; France
 Albedo
 Albendazole
 Aldesleukin
 Alfuzosin
 Alglucerase
-Alglucosidase alfa
 Algorithm
 Aligned with
 Alitretinoin
@@ -189,9 +154,6 @@ Allograft inflammatory factor 1
 Allopolyploidy
 Allopurinol
 Allow Media Splitting
-Alpha 3 Acetylcholine Receptor
-Alpha 7 Acetylcholine Receptor
-Alpha Tubulin
 Alpha mating type (yeast)
 Alpha wave
 Alpha-1-proteinase inhibitor
@@ -203,6 +165,7 @@ Alteplase
 Altered number of
 Alternate Representation Sequence
 Alternate placement
+Alternating runs paradigm
 Alternation
 Amantadine
 Amcinonide
@@ -210,13 +173,13 @@ Amdinocillin
 Amifostine
 Amikacin
 Amiloride
-Aminergic neuron
 Amino Acid
 Aminocaproic Acid
 Aminolevulinic acid
 Aminosalicylic Acid
 Amiodarone
 Amitriptyline
+Ammon's horn of ABA 2009
 Amobarbital
 Amodiaquine
 Amount
@@ -229,126 +192,71 @@ Amplitude
 Amprenavir
 Ampulla caudalis
 Amsacrine
+Amygdala of CIVM postnatal rat brain atlas
 Amygdalo-entorhinal transition area of RHA11
 Amyl Nitrite
-Anabolic agent
 Anabolic steroid
 Anaerobic
 Anaerobic (for occurrence)
 Anakinra
 Anaplastic
-Anatomical Pattern
-Anatomical cavity
-Anatomical entity
-Anesthetic drug
+Anatomic Region Modifier Sequence
+Anatomic Structure
+Anatomic Structure Space or Region Sequence
+Anchor Point
+Anchor Point Visibility
 Aneuploid
 Angiotensin
-Angiotensin receptor
 Angle Number
+Angular Position
+Angular gyrus
+Angular placement
+Angular velocity
 Animal Biobank
-Animal Temp Control
 Animal model
-Animal physiology
 Animal strain
 Anion
 Anisotropine Methylbromide
+Annotation Group Number
+Anode Target Material
 Anoxia
 Ansiform lobule of ABA 2009
 Antagonist role
 Antennal commissure
-Antennal lobe (Honey bee) interneuron
-Antennal lobe (Honey bee) principal neuron
-Antennal olfactory receptor neuron
 Anterior Funiculus
-Anterior amygdaloid area
-Anterior ascending limb of lateral sulcus
-Anterior calcarine sulcus
+Anterior amygdalar area of ABA 2009
 Anterior cingulate area dorsal part layer 1 of ABA 2009
-Anterior cingulate area dorsal part layer 2/3 of ABA 2009
 Anterior cingulate area dorsal part layer 5 of ABA 2009
 Anterior cingulate area dorsal part layer 6a of ABA 2009
 Anterior cingulate area dorsal part layer 6b of ABA 2009
-Anterior cingulate area dorsal part of ABA 2009
 Anterior cingulate area layer 1 of ABA 2009
-Anterior cingulate area layer 2/3 of ABA 2009
 Anterior cingulate area layer 5 of ABA 2009
 Anterior cingulate area layer 6a of ABA 2009
 Anterior cingulate area layer 6b of ABA 2009
 Anterior cingulate area of ABA 2009
 Anterior cingulate area ventral part layer 1 of ABA 2009
-Anterior cingulate area ventral part layer 2/3 of ABA 2009
 Anterior cingulate area ventral part layer 5 of ABA 2009
 Anterior cingulate area ventral part layer 6a of ABA 2009
 Anterior cingulate area ventral part layer 6b of ABA 2009
-Anterior cingulate area ventral part of ABA 2009
-Anterior cingulate cortex
-Anterior cingulate gyrus
-Anterior column of fornix
-Anterior commissure
-Anterior commissure anterior part
-Anterior commissure of WHS11
 Anterior commisure
 Anterior crossvein campaniform sensillum neuron
+Anterior fascicle sensory neuron
 Anterior forebrain
 Anterior group of the dorsal thalamus of ABA 2009
-Anterior horizontal limb of lateral sulcus
-Anterior horn of lateral ventricle
-Anterior hypothalamic area of ABA 2009
-Anterior hypothalamic commissure
-Anterior hypothalamic nucleus anterior part of ABA 2009
-Anterior hypothalamic nucleus central part of ABA 2009
-Anterior hypothalamic nucleus dorsal part of ABA 2009
-Anterior hypothalamic nucleus of ABA 2009
-Anterior hypothalamic nucleus posterior part of ABA 2009
-Anterior hypothalamic region
-Anterior hypothalamus
-Anterior limb of internal capsule
 Anterior lobe of the cerebellum
-Anterior median eminence
-Anterior median fissure
-Anterior median oculomotor nucleus
-Anterior middle temporal sulcus
-Anterior nuclear group
-Anterior nucleus of hypothalamus
-Anterior nucleus of hypothalamus central part
-Anterior nucleus of hypothalamus dorsal part
-Anterior nucleus of hypothalamus posterior part
-Anterior occipital sulcus
-Anterior olfactory nucleus
-Anterior olfactory nucleus dorsal part of ABA 2009
-Anterior olfactory nucleus external part of ABA 2009
-Anterior olfactory nucleus lateral part of ABA 2009
-Anterior olfactory nucleus layer 1 of ABA 2009
-Anterior olfactory nucleus layer 2 of ABA 2009
-Anterior olfactory nucleus medial part of ABA 2009
-Anterior olfactory nucleus of ABA 2009
-Anterior olfactory nucleus pars externa
-Anterior olfactory nucleus pars principalis
-Anterior preoptic area
-Anterior pretectal nucleus
-Anterior pretectal nucleus of ABA 2009
-Anterior quadrangular lobule
-Anterior superior frontal sulcus
-Anterior tegmental nucleus of ABA 2009
 Anterior to
-Anterior transverse temporal gyrus
 Anterior-posterior diameter
-Anterior-posterior polarity
 Anterioralized
 Anteriorly rotated
 Anterolateral visual area layer 1 of ABA 2009
-Anterolateral visual area layer 2/3 of ABA 2009
 Anterolateral visual area layer 4 of ABA 2009
 Anterolateral visual area layer 5 of ABA 2009
 Anterolateral visual area layer 6a of ABA 2009
 Anterolateral visual area layer 6b of ABA 2009
 Anterolateral visual area of ABA 2009
-Anteromedial nucleus
 Anteromedial nucleus dorsal part of ABA 2009
-Anteromedial nucleus of ABA 2009
 Anteromedial nucleus ventral part of ABA 2009
 Anteromedial visual area layer 1 of ABA 2009
-Anteromedial visual area layer 2/3 of ABA 2009
 Anteromedial visual area layer 4 of ABA 2009
 Anteromedial visual area layer 5 of ABA 2009
 Anteromedial visual area layer 6a of ABA 2009
@@ -357,42 +265,27 @@ Anteromedial visual area of ABA 2009
 Anteverted
 Anti-Muellerian hormone type-2 receptor
 Antibody
-Anticonvulsant drug
 Antihemophilic Factor
 Antioxidant
 Antithymocyte globulin
 Antwerp University Hospital; Antwerp; Belgium
 Anucleate
-Apex of cervical spinal cord dorsal horn
-Apex of cochlea
-Apex of lumbar spinal cord dorsal horn
-Apex of spinal cord dorsal horn (birnlex 2670)
-Apex of the cochlear canal
-Apex of thoracic spinal cord dorsal horn
-Apical Pole Of Neuron
-Apical-basal polarity
 Aplastic
-Aplastic growth
+Aplysia buccal 4
+Aplysia buccal 51
+Aplysia buccal 61
+Aplysia buccal 8
 Apolipoprotein
-Apolipoprotein E
 Apomorphine
 Apoptotic
 Applicable Frame Range
 Applicator Sequence
-Applicator Type
 Arachidonic acid
 Arbitrary
 Arbutamine
 Arched
 Arcopallium
-Arcuate hypothalamic nucleus of ABA 2009
-Arcuate nucleus of hypothalamus
-Arcuate nucleus of medulla
-Arcuate sulcus
 Area
-Area 4 of cortex primary motor of PHT00
-Area X
-Area density
 Area prostriata of DMVH2003
 Argatroban
 Aripiprazole
@@ -412,18 +305,16 @@ Aspartame
 Aspartate
 Aspirin
 Assay
+Assistance Publique - Hopitaux de Paris
 Associated with
 Association cortex
 Aston University; Birmingham; United Kingdom
 Astrocyte
-Astrocyte Process
-Astrocyte Sheath
 Astrocyte specific marker
 Astrocytoma
 Asymmetrically curved
 Asynchronous
 Atazanavir
-Atlanta Cancer Care; Georgia; USA
 Atlas
 Atom
 Atomic force microscopy
@@ -432,42 +323,34 @@ Atorvastatin
 Atresia
 Atrophied
 Atropine
+Attention networks test
 Attenuate
 Attenuation
 Attractor Neural Network
+Attribute entity role
 Auburn University; Alabama; USA
 Auburn University; Harrison School of Pharmacy
 Audition
 Auditory areas of ABA 2009
 Auditory cortex
-Auditory ganglion
-Auditory map
 Auditory memory
 Auditory modality
-Auditory system
-Auditory system function
 Auriculate
 Australian Biobank
 Authorization Equipment Certification Number
 Autofluorescence
-Autonomic Nervous System Disease
-Autonomic nervous system function
 Autonomous University of Barcelona; Barcelona; Spain
 Autonomous University of Madrid; Madrid; Spain
 Autopolyploid
 Auxotrophic
+Average Pulse Width
 Aversion
 Axial Acceptance
+Axial Hindbrain of CIVM postnatal rat brain atlas
 Axial Mash
-Axial regional part of spinal cord
 Axial to
-Axoaxonic synapse
 Axodendritic synapse
 Axon
-Axon Collateral
-Axon Quality
-Axon Terminal
-Axon bundle
 Axon transport
 Axosomatic synapse
 Azacitidine
@@ -477,18 +360,10 @@ Azithromycin
 Azlocillin
 Aztreonam
 B6
-B6129SF1/Tac mouse
-B6;129-/Slc6a3tm2Mca
-B6;129-/Slc6a3tm2Mca mouse
-B6;C3-Tg(Prnp-MAPT*P301S)PS19Vle/J mouse
-B6;C3-Tg(Prnp-SNCA*A53T)83Vle/J mouse
 B6;D2-Tg(PDGFB-SNCA)NNEma mouse
 B6;D2-Tg(Thy-1-SNCA)61Ema mouse
 B6;D2-Tg(Thy-1-SNCA*A30P)44Ema
 B6;D2-Tg(Thy-1-SNCA*A30P)44Ema mouse
-B6CBA-Tg(HDexon1)62Gpb/1J mouse
-B6SJL-Tg(APPSwFILon,PSEN1*M146L*L286V)6799Vas mouse
-B6SJL-Tg(SOD1*G93A)1Gur/J mouse
 BC Childrens Hospital; Vancouver; Canada
 BMP receptor type-1A
 Bacampicillin
@@ -507,56 +382,44 @@ Barcode Value
 Baroreceptor
 Barrel
 Barrel cortex
-Basal Ganglia of PAXFR01
+Barrington's nucleus
+Barrington's nucleus of ABA 2009
 Basal Lamina
-Basal Pole Of Neuron
-Basal amygdaloid nucleus
-Basal forebrain
-Basal ganglia
-Basal ganglia of PHT00
 Basal hypothalamus
-Basal nuclear complex
-Basal nucleus
-Basal part of pons
-Basal pons
 Basal telencephalon
-Base of the cochlear canal
-Basilar membrane
+Basic cell groups and regions of ABA 2009
 Basilea Pharmaceutica
-Basolateral nuclear complex
+Basomedial amygdalar nucleus anterior part of ABA 2009
+Basomedial amygdalar nucleus posterior part of ABA 2009
 Baylor University; Texas; USA
 Beam Dose
+Beam Dose Specification Point
 Beam Meterset
 Beam Number
 Beam Sequence
 Beam Stopper Position
-Beam Type
 Beat Rejection Flag
 Beaumont Hospital; Dublin; Ireland
 Becaplermin
-Becker Muscular Dystrophy
 Beclomethasone
 Bed nuclei of the stria terminalis anterior division anterolateral area of ABA 2009
 Bed nuclei of the stria terminalis anterior division dorsomedial nucleus of ABA 2009
+Bed nuclei of the stria terminalis anterior division fusiform nucleus of ABA 2009
 Bed nuclei of the stria terminalis anterior division juxtacapsular nucleus of ABA 2009
 Bed nuclei of the stria terminalis anterior division magnocellular nucleus of ABA 2009
 Bed nuclei of the stria terminalis anterior division of ABA 2009
 Bed nuclei of the stria terminalis anterior division rhomboid nucleus of ABA 2009
 Bed nuclei of the stria terminalis anterior division ventral nucleus of ABA 2009
-Bed nuclei of the stria terminalis of ABA 2009
 Bed nuclei of the stria terminalis posterior division dorsal nucleus of ABA 2009
+Bed nuclei of the stria terminalis posterior division interfascicular nucleus of ABA 2009
 Bed nuclei of the stria terminalis posterior division of ABA 2009
 Bed nuclei of the stria terminalis posterior division principal nucleus of ABA 2009
 Bed nuclei of the stria terminalis posterior division strial extension of ABA 2009
 Bed nuclei of the stria terminalis posterior division transverse nucleus of ABA 2009
-Bed nucleus of stria terminalis
-Bed nucleus of the accessory olfactory tract of ABA 2009
-Bed nucleus of the anterior commissure of ABA 2009
-Bed nucleus of the stria terminalis small pyramidal neuron
+Behavioral quality
 Ben-Gurion University of the Negev; Beer-Sheva; Israel
 Benazepril
 Benign essential blepharospasm
-Bennett Cancer Center; Connecticut; USA
 Bent
 Benton facial recognition test
 Benzene
@@ -569,7 +432,6 @@ Benzquinamide
 Benzyl Benzoate
 Bepridil
 Beryllium
-Beta Tubulin
 Beta wave
 Betamethasone
 Bethanidine
@@ -585,18 +447,16 @@ Bidirectional
 Bielefeld University; Bielefeld; Germany
 Bifurcated
 Bilateral
-Bilateral intrinsic neuron
 Bilateral symmetry
 Bilkent University; Ankara; Turkey
 Bimatoprost
 Binary executable
-Bind a ligand
 Binucleate
 Biobank
 Biological process
 Biological rhythm
-Biological sex
 Biosensing Analyzer
+Bipolar Cell Morphology
 Birkbeck University of London; London; United Kingdom
 Birmingham object recognition battery
 Bisoprolol
@@ -608,24 +468,22 @@ Blaise Pascal University; Clermont-Ferrand; France
 Blastula dog
 Blastula ferret
 Blastula human
-Blastula mouse
 Bleomycin
 Blistered
+Block Data
+Block Mounting Position
+Block Name
+Block tapping test
 Blood
 Blood Pressure Monitor
-Blood brain barrier
 Blood vessel
 Blotchy
+Blue Palette Color Lookup Table Data
+Blue Palette Color Lookup Table Descriptor
 Blunt
 Body
 Body Part Examined
 Body Part Thickness
-Body membrane
-Body of caudate nucleus
-Body of fornix
-Body of lateral ventricle
-Body system
-Body system model
 Boldenone
 Bone Screw
 Bone Thermal Index
@@ -635,6 +493,9 @@ Bosentan
 Boston Childrens Hospital; Massachusetts; USA
 Boston University; Massachusetts; USA
 Botryoidal
+Bounding Box Bottom Right Hand Corner
+Bounding Box Text Horizontal Justification
+Bounding Box Top Left Hand Corner
 Brachy Accessory Device Nominal Thickness
 Brachy Accessory Device Nominal Transmission
 Brachy Accessory Device Number
@@ -644,47 +505,23 @@ Bracket
 Bradley University; Illinois; USA
 Brain
 Brain Matrics
-Brain Subdivisions based on automated term selection
 Brain of WHS11
-Brain region role
-Brain stem of ABA 2009
 Branch of Service
 Branched (PATO 0000402)
-Branched Dendritic Spine
-Branched Spine Quality
 Branchiness
 Brandeis University; Massachusetts; USA
 Breath-holding
 Brimonidine
 Brinzolamide
 Brixton spatial anticipation test
+Broca's area
 Brochidodromous
-Brodmann (1909) area 1
-Brodmann (1909) area 10
-Brodmann (1909) area 11
-Brodmann (1909) area 12
-Brodmann (1909) area 13
-Brodmann (1909) area 14
-Brodmann (1909) area 17
-Brodmann (1909) area 2
-Brodmann (1909) area 3
-Brodmann (1909) area 4
-Brodmann (1909) area 5
-Brodmann (1909) area 6
-Brodmann (1909) area 7
-Brodmann (1909) area 8
-Brodmann (1909) area 9
-Brodmann 1909 area 4 human
-Brodmann area 17
-Brodmann area 9
 Broken
 Bromocriptine
 Brood quality
-Brood size
 Brood viability
 Brown
 Brown University; Rhode Island; USA
-Brown-Vialetto-Van Laere syndrome
 Brugada
 Buclizine
 Budesonide
@@ -708,26 +545,20 @@ CA2 of RHA11
 CA3
 CA3 of RHA11
 CRG; Barcelona; Spain
-CUMBO term
 Cadmium
 Caffeine
-Calcarine sulcus
 Calcidiol
 Calcified
 Calcitriol
 Calcium Acetate
-Calcium Activated Potassium Channel
 Calcium Channel
 Calcium Chloride
 Calcium Gluceptate
-Calcium binding protein
 Calcium calmodulin protein kinase II
-Calcium channel - type 1
-Calcium channel - type 2
-Calcium channel - type 3
 Calcium(2+)
 Calibration Data Sequence
 Calibration Image
+California State University Channel Islands; California; USA
 Calmodulin
 Calpain 1
 Calyx
@@ -736,18 +567,13 @@ Campaniform sensillum L3-1 of wing vein L3 neuron
 Campaniform sensillum L3-2 of wing vein L3 neuron
 Campaniform sensillum L3-3 of wing vein L3 neuron
 Cancer
-Cancer Care Centers of South Texas; Texas; USA
 Cancer Care Northwest; Washington; USA
-Cancer Center of Kansas; Kansas; USA
 Candesartan
 Candicidin
 Capecitabine
 Capillary
-Capillary Endothelial Cell
 Capra
 Capreomycin
-Capsule of medial geniculate body
-Capsule of red nucleus
 Captopril
 Carbachol
 Carbenicillin
@@ -775,30 +601,17 @@ Catalog
 Catalytic (activity) concentration
 Catalytic activity
 Catecholamine
-Catecholamine system
 Catholic University of Leuven; Flemish Brabant; Belgium
 Catholic University of Louvain; Louvain-la-Neuve; Belgium
 Catholic University of the Sacred Heart; Milan; Italy
 Cation
 Cattell culture fair intelligence test
-Caudal anterior cingulate cortex
-Caudal central oculomotor nucleus
 Caudal cerebellum
-Caudal globus pallidus
 Caudal hypothalamus
-Caudal medulla oblongata
 Caudal midbrain
-Caudal middle frontal gyrus
 Caudal nucleus tractus solitarius
-Caudal part of spinal trigeminal nucleus
-Caudal part of ventral lateral nucleus
-Caudal part of ventral posterolateral nucleus
-Caudal pons
-Caudal pontine reticular nucleus
-Caudal spinal cord
 Caudal superior temporal gyrus
 Caudal thalamus
-Caudal trigeminal nucleus
 Caudal vestibular nuclei
 Caudate
 Caudate nucleus
@@ -815,23 +628,16 @@ Ceftriaxone
 Cefuroxime
 Celecoxib
 Cell
-Cell Adhesion Molecule
 Cell Capacitance
-Cell Cell Contact Zone
 Cell Process
 Cell diameter
 Cell group
 Cell layer
-Cell line
-Cell role
-Cell surface area
 Cell viability assay
 Cell-specific marker
 Cellular Excitation
-Cellular Space
 Cellular adhesivity
 Cellular component
-Cellular membrane
 Cellular motility
 Cellular potency
 Cellular quality
@@ -841,62 +647,32 @@ Center Hospital of Porto; Porto; Portugal
 Center for Genomic Regulation; Barcelona; Spain
 Center of Circular Collimator
 Center of Rotation Offset
-Centers for Medicare and Medicaid Services
-Central Nervous System Bacterial Infection
-Central Nervous System Infection
-Central Nervous System Viral Infection
-Central amygdaloid nucleus
+Central amygdalar nucleus capsular part of ABA 2009
+Central amygdalar nucleus lateral part of ABA 2009
+Central amygdalar nucleus medial part of ABA 2009
 Central cervical nucleus
 Central cervical nucleus of PHT00
-Central dorsal nucleus
-Central gray substance of medulla
-Central gray substance of pons
-Central lateral nucleus
 Central lateral nucleus of the thalamus of ABA 2009
 Central lobule
 Central lobule of ABA 2009
-Central medial nucleus
-Central medial nucleus of the thalamus of ABA 2009
 Central nervous system
 Central nervous system depressant
+Central nervous system of primate
+Central nervous system of rodent
 Central nervous system stimulant
-Central nucleus of inferior colliculus
-Central oculomotor nucleus
 Central pattern generator
 Central retina
-Central sulcus
-Central tegmental tract
-Central tegmental tract of midbrain
-Central tegmental tract of pons
 Centre Hospitalier Universitaire Vaudois; Lausanne; Switzerland
 Centre for Genomic Regulation; Barcelona; Spain
 Centrosome
-Cerebellar Afferents From The Lateral Reticular Nucleus
-Cerebellar Afferents From The Paramedian Reticular Nucleus
-Cerebellar Pontocerebellar Projection
-Cerebellar Primary Vestibular Afferents
-Cerebellar Secondary Vestibular Afferents
-Cerebellar cortex
-Cerebellar cortex Purkinje layer of ABA 2009
-Cerebellar cortex granular layer of ABA 2009
-Cerebellar cortex of ABA 2009
-Cerebellar deep nucleus principal neuron
 Cerebellar hemisphere
-Cerebellar nuclei of ABA 2009
-Cerebellar white matter
 Cerebellum
-Cerebellum Golgi cell
-Cerebellum Purkinje cell
-Cerebellum granule cell
-Cerebellum granule cell axon
-Cerebellum nucleus reciprocal projections neuron
 Cerebellum of ABA 2009
 Cerebellum of WHS11
-Cerebral Spinal Fluid
-Cerebral aqueduct
 Cerebral cortex
 Cerebral cortex layer 1 of ABA 2009
 Cerebral cortex layer 2 of ABA 2009
+Cerebral cortex layer 2-3 of ABA 2009
 Cerebral cortex layer 3 of ABA 2009
 Cerebral cortex layer 4 of ABA 2009
 Cerebral cortex layer 5 of ABA 2009
@@ -905,54 +681,33 @@ Cerebral cortex layer 6a of ABA 2009
 Cerebral cortex layers 1-6b of ABA 2009
 Cerebral cortex of ABA 2009
 Cerebral cortex of PHT00
-Cerebral crus
 Cerebral nuclei
 Cerebral nuclei of ABA 2009
-Cerebral peduncle
-Cerebral white matter
 Cerebrospinal axis
-Cervical dorsal root ganglion
 Cervical spinal cord
-Cervical spinal cord central canal
-Cervical spinal cord dorsal column
-Cervical spinal cord dorsal horn
-Cervical spinal cord gray commissure
-Cervical spinal cord gray matter
-Cervical spinal cord lateral column
-Cervical spinal cord lateral horn
-Cervical spinal cord ventral column
-Cervical spinal cord ventral commissure
-Cervical spinal cord ventral horn
-Cervical spinal cord white matter
 Cetirizine
 Cevimeline
 Chang Gung University; Taoyuan; Taiwan
 Channel Baseline
-Channel Definition Sequence
-Channel Length
 Channel Number
 Channel Offset
-Channel Sample Skew
 Channel Sensitivity
-Channel Sequence
-Channel Shield Nominal Thickness
-Channel Shield Nominal Transmission
+Channel Shield Name
 Channel Shield Number
-Channel Shield Sequence
-Channel Time Skew
 Charite - Universitatsmedizin Berlin; Berlin; Germany
-Charles III University of Madrid; Madrid; Spain
 Charles University; Prague; Czech Republic
 Chemical Shift Sequence
-Chemical Synapse
-Chemical Synapse Quality
-Chemical separation instrument
-Chemical stimulus transduction
-Chemical structural analysis instrument
+Chemical Shifts Minimum Integration Limit in Hz
+Chemical Shifts Minimum Integration Limit in ppm
 Chemokine
 Chemokine receptor
 Chemoreceptor
+Chemosensory neuron of adult labial sensillum 7
+Chemosensory neuron of adult labial sensillum 8
+Chemosensory neuron of adult labial sensillum 9
 Chemotropism
+Childhood disintegrative disorder
+Children's Hospital of Philadelphia; Pennsylvania; USA
 China Agricultural University; Beijing; China
 Chinese University of Hong Kong; Hong Kong; China
 Chloramphenicol
@@ -969,15 +724,10 @@ Chlorthalidone
 Cholecalciferol
 Cholic
 Choline
-Choline Acetyltransferase
 Cholinergic agonist role
-Cholinergic neuron (FBbt Term)
-Cholinergic system
-Chondroitin sulfate proteoglycan
 Chordin
 Chordoma
 Choriogonadotropin alfa
-Choroid Epithelial Cell
 Choroid plexus
 Choroid plexus of fourth ventricle
 Choroid plexus of lateral ventricle
@@ -985,31 +735,22 @@ Choroid plexus of third ventricle
 Christopher Newport University; Virginia; USA
 Chromaffin cell
 Chromatin
-Chromium(VI) oxide
 Chromium, hexavalent
 Chronic
-Chronological age
 Chung-Ang University; Seoul; South Korea
 Chx10
-Cibarial pump muscle neuron
-Ciliary ganglion cell
-Ciliated photoreceptor cell
 Ciliatedness
 Cilium
-Cilium basal body
 Cimetidine
 Cinacalcet
-Cingulate cortex
 Cingulate gyrus
-Cingulate sulcus
+Cingulum of CIVM postnatal rat brain atlas
 Cinnarizine
 Circadian rhythm
 Circinate
 Circling
-Circular sulcus of insula
 Circumference
 Cisplatin
-Cistern of lamina terminalis
 Citalopram
 City University of New York; New York; USA
 City of Hope; California; USA
@@ -1027,7 +768,6 @@ Clavulanate
 Cleavage dog
 Cleavage ferret
 Cleavage human
-Cleavage mouse
 Cleft
 Clemson University; South Carolina; USA
 Clicks
@@ -1040,41 +780,27 @@ Closure incomplete
 Clotrimazole
 Cloxacillin
 Clozapine
-Club drug
 Clubbed
 Coagulation Factor IX
+Coagulation factor VIIa
 Coarse
 Coasting
-Coated Tip
-Coated pit
 Coating
 Cobalt
 Cocaine
 Cochlea
-Cochlea duct
-Cochlea inner hair cell
-Cochlea outer hair cell
-Cochlear canal
-Cochlear nuclear complex
 Cochlear nuclei of ABA 2009
-Cochlear nucleus (dorsal) Golgi cell
-Cochlear nucleus (dorsal) giant cell
-Cochlear nucleus (dorsal) pyramidal neuron
-Cochlear nucleus subpedunclular granular region of ABA 2009
+Code Meaning
+Code Value
 Codeine
-Coincidence detection
+Coincidence Window Width
 Colchicine
 Collagenase
 Collapsed
-Collateral sulcus
 Collection
-Colliculus inferior intrinsic cell
-Colliculus inferior principal cell
-Colliculus superior inverted pyramidal cell
-Colliculus superior pyramidal cell
-Colliculus superior type I ganglion cell
+Collimator Left Vertical Edge
 Collimator Lower Horizontal Edge
-Collimator Type
+Collimator Right Vertical Edge
 Collimator Upper Horizontal Edge
 Color
 Color Image Printing Flag
@@ -1082,17 +808,14 @@ Color brightness
 Color hue
 Color pattern
 Color saturation
-Color trails test
 Colored
 Colorless
 Columbia University; New York; USA
 Column Angulation
 Columnar
 Columns
+Comments on Radiation Dose
 Commissure
-Commissure of fornix
-Commissure of inferior colliculus
-Commissure of superior colliculus
 Common data element
 Compatibility
 Compatible
@@ -1103,9 +826,6 @@ Compensator Number
 Compensator Position
 Compensator Rows
 Compensator Sequence
-Compensator Thickness Data
-Compensator Transmission Data
-Compensator Type
 Completion Flag
 Complex
 Complex Image Component
@@ -1114,7 +834,6 @@ Complutense University of Madrid; Madrid; Spain
 Compound acidity
 Compressed
 Concatenation Frame Offset Number
-Concatenation UID
 Concave
 Concavity
 Concentration of
@@ -1128,14 +847,14 @@ Connected spatiotemporal region
 Connected temporal region
 Connectional specificity
 Connectionist model
+Connectivity matrix
 Consistency
 Consortium
 Conspicuous
 Conspicuousness
-Constraint Weight
 Constricted
 Consumption quality
-Contact Site
+Content Creators Name
 Content Date
 Content Qualification
 Content Sequence
@@ -1145,21 +864,18 @@ Context Group Extension Creator UID
 Context Group Extension Flag
 Context Identifier
 Contour Data
-Contour Geometric Type
-Contour Image Sequence
 Contour Number
 Contour Sequence
-Contour Slab Thickness
 Contour Uncertainty Radius
 Contractile
 Contractile vacuole
 Contractility
-Contrast/Bolus Agent Number
 Contributing Equipment Sequence
 Contribution DateTime
-Control role
+Control Point Index
+Control Point Relative Position
+Control Point Sequence
 Convergence
-Conversion Type
 Convex
 Convex angle
 Convolute
@@ -1169,26 +885,41 @@ Copula pyramidis of ABA 2009
 Cord blood stem cell
 Cornell University; New York; USA
 Corpora quadrigema
+Corpus Callosum of CIVM postnatal rat brain atlas
 Corpus callosum
 Corrected Image
-Cortical amygdaloid nucleus
+Cortical amygdalar area anterior part layer 1 of ABA 2009
+Cortical amygdalar area anterior part layer 2 of ABA 2009
+Cortical amygdalar area anterior part layer 3 of ABA 2009
+Cortical amygdalar area anterior part of ABA 2009
+Cortical amygdalar area of ABA 2009
+Cortical amygdalar area posterior part lateral zone layer 1 of ABA 2009
+Cortical amygdalar area posterior part lateral zone layer 1-2 of ABA 2009
+Cortical amygdalar area posterior part lateral zone layer 1-3 of ABA 2009
+Cortical amygdalar area posterior part lateral zone layer 2 of ABA 2009
+Cortical amygdalar area posterior part lateral zone layer 3 of ABA 2009
+Cortical amygdalar area posterior part lateral zone of ABA 2009
+Cortical amygdalar area posterior part medial zone layer 1 of ABA 2009
+Cortical amygdalar area posterior part medial zone layer 1-2 of ABA 2009
+Cortical amygdalar area posterior part medial zone layer 1-3 of ABA 2009
+Cortical amygdalar area posterior part medial zone layer 2 of ABA 2009
+Cortical amygdalar area posterior part medial zone layer 3 of ABA 2009
+Cortical amygdalar area posterior part medial zone of ABA 2009
+Cortical amygdalar area posterior part of ABA 2009
 Cortical flat map
 Cortical parcel
 Cortical plate of ABA 2009
 Cortical subplate of ABA 2009
 Count
-Count Rate
 Count in organism
 Country of Residence
 Counts Included
 Craig Hospital; Colorado; USA
 Cranial Thermal Index
-Cranial ganglion part of peripheral nervous system
 Cranial nerve nucleus
 Craspedodromous
 Creatine
 Creation Date
-Creation Time
 Creative Commons Attribution License
 Creative Commons Attribution-NoDerivs License
 Creative Commons Attribution-NonCommercial License
@@ -1197,29 +928,22 @@ Creative Commons Attribution-NonCommercial-ShareAlike License
 Creative Commons Attribution-ShareAlike License
 Creative Commons License
 Creative Commons Zero License
-Creator-Version UID
 Creeping
 Creighton University; Nebraska; USA
 Crescent-shaped
 Cricothyroid muscle
-Crista Junction
-Cristae Quality
 Critical period
 Crowded
 Crus 1 of ABA 2009
 Crus 2 of ABA 2009
 Cuboid
 Cullin
-Cumulative Meterset Weight
-Cumulative Time Weight
 Cuneate
-Cuneate fasciculus of medulla
 Cuneate fasciculus of spinal cord
 Cuneate nucleus
 Cuneate nucleus of ABA 2009
-Cuneiform nucleus
-Cuneiform nucleus of ABA 2009
 Curled
+Current carrier
 Curtin University; Western Australia; Australia
 Curvature
 Curve Activation Layer
@@ -1244,65 +968,42 @@ Cycloserine
 Cylinder Axis
 Cylinder Lens Power
 Cylindrical
-Cystatin C
 Cysteamine
 Cystic
 Cytarabine
 Cytochrome c
 Cytokine
-Cytoplasmic Surface
 Cytosol
-DICOM term
-DN1 neuron
-DN1a neuron
-DN1p neuron
-DN2 neuron
-DN3 neuron
-DN3a neuron
+DDD, P,P'-
+DDE, P,P'-
+DDT, O,P'-
+DDT, P,P'-
 DNA
 DNA methylation
 DNA microarray
-DNA specific probe
 DVH Data
 DVH Dose Scaling
 DVH Mean Dose
 DVH Normalization Dose Value
+DVH Normalization Point
 DVH Number of Bins
-DVH ROI Contribution Type
 DVH Sequence
-DVH Type
 Dacarbazine
 Damage
 Damaged
 Danazol
 Dapiprazole
 Dappled
-Darbepoetin alfa
+Dark yellow
 Dasatinib
 Data Element Template
 Data Information Sequence
+Data Point Rows
 Data Representation
-Data Set Subtype
-Data Set Type
-Data analysis service
-Data analysis software
-Data analytics software
-Data analyzer
-Data object
-Data processing software
-Data role
 Data sensor feed
-Data set
-Data storage software
-Data transfer software
-Data transformation
-Data transformation objective
 Date of Last Calibration
 Date of Last Detector Calibration
 Daunorubicin
-Dch3 / 1 neuron
-Dch3 neuron
-De-coupled Nucleus
 De-coupling Frequency
 De-coupling Method
 Dead
@@ -1312,25 +1013,20 @@ Decamethonium
 Decay Factor
 Decayed
 Deciduous (generic)
-Decimate/Crop Result
 Decitabine
-Declarative memory
 Declive (VI) of ABA 2009
 Decreased
 Decreased Area
 Decreased Osmolality
 Decreased acidity
-Decreased age
 Decreased circumference
 Decreased concentration
 Decreased consumption
 Decreased contractility
 Decreased curvature
-Decreased density
 Decreased depth
 Decreased diameter
 Decreased elevation
-Decreased expression
 Decreased fatigability
 Decreased fecundity
 Decreased female fertility
@@ -1360,8 +1056,6 @@ Decreased photosensitivity
 Decreased position
 Decreased pressure
 Decreased radioactivity
-Decreased rate
-Decreased relaxation
 Decreased resistance to
 Decreased sensitivity of occurrent
 Decreased sensitivity of occurrent to oxygen
@@ -1370,8 +1064,6 @@ Decreased sensitivity toward
 Decreased size
 Decreased solubility
 Decreased susceptibility toward
-Decreased temperature
-Decreased thickness
 Decreased threshold
 Decreased time
 Decreased tonicity
@@ -1382,22 +1074,15 @@ Decreased variability of rate
 Decreased variability of size
 Decreased variability of temperature
 Decreased viscosity
-Decreased volume
 Decreased weight
 Decreased wetness
 Decurrent
 Decussate
 Decussation
-Decussation of medial lemniscus
-Decussation of superior cerebellar peduncle
-Decussation of trochlear nerve
 Deep
 Deep brain stimulation
-Deep cerebellar nuclear complex
 Deep pink
 Defasciculated
-Default Magnification Type
-Default Smoothing Type
 Deferasirox
 Deformed
 Degenerate
@@ -1411,47 +1096,21 @@ Delivered Number of Pulses
 Delivered Primary Meterset
 Delivered Pulse Repetition Interval
 Delivered Secondary Meterset
-Delta receptor
 Delta wave
 Demecarium bromide
 Dendritic
-Dendritic Branch
-Dendritic Growth Cone
-Dendritic Microtubule
-Dendritic Shaft
-Dendritic Tree
 Dendritic action potential
 Dendritic arborizing neuron
-Dendritic spine
-Dendroaxonic synapse
 Dense
-Dense Body
-Dense Core Vesicle
 Density
 Density (PATO 0001019)
 Dentate gyrus
-Dentate gyrus HICAP cell
-Dentate gyrus crest granule cell layer of ABA 2009
-Dentate gyrus crest molecular layer of ABA 2009
 Dentate gyrus crest of ABA 2009
 Dentate gyrus crest polymorph layer of ABA 2009
-Dentate gyrus granule cell
-Dentate gyrus granule cell layer
-Dentate gyrus granule cell layer inner blade
-Dentate gyrus granule cell layer of ABA 2009
-Dentate gyrus granule cell layer outer blade
-Dentate gyrus lateral blade granule cell layer of ABA 2009
-Dentate gyrus lateral blade molecular layer of ABA 2009
 Dentate gyrus lateral blade of ABA 2009
 Dentate gyrus lateral blade polymorph layer of ABA 2009
-Dentate gyrus medial blade granule cell layer of ABA 2009
-Dentate gyrus medial blade molecular layer of ABA 2009
 Dentate gyrus medial blade of ABA 2009
 Dentate gyrus medial blade polymorph layer of ABA 2009
-Dentate gyrus molecular layer
-Dentate gyrus molecular layer inner
-Dentate gyrus molecular layer middle
-Dentate gyrus molecular layer outer
 Dentate gyrus of ABA 2009
 Dentate gyrus of RHA11
 Dentate nucleus
@@ -1460,20 +1119,9 @@ Dentated
 Depolarization
 Depth
 Depth of Scan Field
-Des1 neuron
-Des3 neuron
-Des3+1 neuron
-Des3+1+1 neuron
-DesA neuron
-DesB neuron
-DesC neuron
-DesD neuron
-DesE neuron
-Desaturated brown
 Desaturated magenta
 Desaturated orange
 Desaturated purple
-Desaturated red
 Desaturated violet
 Desaturated yellow
 Desensitization
@@ -1481,27 +1129,23 @@ Deserpidine
 Desflurane
 Design-based stereology
 Desipramine
-Desn neuron
 Desogestrel
 Desoxycorticosterone Pivalate
-Destination AE
 Detached from
 Detailed neuronal model
 Detector Activation Offset From Exposure
-Detector Active Dimensions
 Detector Active Origin
 Detector Active Time
 Detector Binning
-Detector Element Size
 Detector Element Spacing
-Detector Information Sequence
+Detector Manufacturer Name
+Detector Manufacturers Model Name
 Detector Mode
 Detector Primary Angle
 Detector Secondary Angle
-Detector Temperature
 Detector Time Since Last Exposure
-Detector Type
-Detector role
+Developmental induction
+Developmentally Diverse Structures of CIVM postnatal rat brain atlas
 Device
 Device component
 Device parameter
@@ -1511,9 +1155,7 @@ Dexrazoxane
 Dextroamphetamine sulfate
 Dextromethorphan
 Di-n-butyl phthalate
-Diagonal band
-Diagonal band nucleus of ABA 2009
-Diagonal sulcus
+Diagonal Domain of CIVM postnatal rat brain atlas
 Dialysis Clinic Inc.
 Diameter
 Diaphragm
@@ -1525,6 +1167,7 @@ Dibenzo(a,h)anthracene
 Diclofenac
 Dicloxacillin
 Diencephalon
+Diencephalon of CIVM postnatal rat brain atlas
 Diencephalon of WHS11
 Dienestrol
 Diethylcarbamazine
@@ -1533,7 +1176,6 @@ Differentiated
 Diflunisal
 Digital Image Format Acquired
 Digital Object Identifier
-Digital entity
 Digitate
 Digitoxin
 Digoxin Immune Fab
@@ -1545,14 +1187,10 @@ Diluted
 Dimension Index Pointer
 Dimension Index Private Creator
 Dimension Index Sequence
-Dimension Organization Sequence
-Dimension Organization UID
 Dimethyl sulfoxide
 Diphenidol
 Diploid
 Dipyridamole
-Direct flight muscle motor neuron
-Directive information entity
 Disassembled
 Discharge Date
 Discharge Time
@@ -1575,13 +1213,12 @@ Disposition to shed
 Disrupted
 Dissociated from
 Dissolved
-Distal End
-Distal part of hypophysis
 Distal to
 Distended
 Distichous
 Distributed
 Distributed processing
+Distribution Name
 Disulfiram
 Divalproex sodium
 Divergence
@@ -1592,80 +1229,35 @@ Dog
 Dolasetron
 Domed
 Dopamine
-Dopamine Transporter Type 1
 Dopamine agonist role
 Dopamine antagonist role
 Dopamine beta-hydroxylase
-Dopamine transporter
 Dopaminergic A13 group of ABA 2009
-Dopaminergic PAL neuron
-Dopaminergic PAM neuron
-Dopaminergic PPL1 neuron
-Dopaminergic PPL2ab neuron
-Dopaminergic PPL2c neuron
-Dopaminergic PPM1 neuron
-Dopaminergic PPM2 neuron
-Dopaminergic PPM3 neuron
 Dopaminergic cell group A10
 Dopaminergic cell group A13
 Dopaminergic cell group A9
-Dopaminergic dorso-lateral neuron
-Dopaminergic neuron (FBbt Term)
-Dopaminergic system
 Doppler Sample Volume X Position
 Doppler Sample Volume Y Position
 Dornase Alfa
-Dorsal accessory olive
-Dorsal acoustic stria
-Dorsal anterior lateral neuron of the protocerebrum
 Dorsal auditory area layer 1 of ABA 2009
-Dorsal auditory area layer 2/3 of ABA 2009
 Dorsal auditory area layer 4 of ABA 2009
 Dorsal auditory area layer 5 of ABA 2009
 Dorsal auditory area layer 6a of ABA 2009
 Dorsal auditory area layer 6b of ABA 2009
 Dorsal auditory area of ABA 2009
-Dorsal cibarial sense organ neuron
-Dorsal cochlear nuclei
-Dorsal cochlear nucleus
-Dorsal cochlear nucleus deep layer
-Dorsal cochlear nucleus of ABA 2009
-Dorsal cochlear nucleus pyramidal cell layer
 Dorsal column nuclei of ABA 2009
 Dorsal column nucleus
 Dorsal commissure
 Dorsal cortex
-Dorsal external arcuate fiber bundle
-Dorsal globus pallidus
-Dorsal hippocampus
-Dorsal humeral crossvein campaniform sensillum neuron
-Dorsal hypothalamic area
-Dorsal hypothalamus
+Dorsal intermediate entorhinal area of RHA11
 Dorsal lateral septum
-Dorsal longitudinal fasciculus
-Dorsal longitudinal fasciculus of PHT00
-Dorsal longitudinal fasciculus of hypothalamus
-Dorsal longitudinal fasciculus of medulla
-Dorsal longitudinal fasciculus of midbrain
-Dorsal longitudinal fasciculus of pons
-Dorsal motor nucleus of the vagus nerve of ABA 2009
-Dorsal motor nucleus of vagus caudointermediate part of PHT00
-Dorsal motor nucleus of vagus motor neuron
-Dorsal motor nucleus of vagus nerve
-Dorsal nerve root of cervical spinal cord
-Dorsal nerve root of lumbar spinal cord
-Dorsal nerve root of sacral spinal cord
-Dorsal nerve root of thoracic spinal cord
-Dorsal nucleus of lateral geniculate body
-Dorsal nucleus of lateral lemniscus
-Dorsal nucleus of medial geniculate body
-Dorsal nucleus of trapezoid body
 Dorsal nucleus raphÃ© of ABA 2009
-Dorsal oculomotor nucleus
 Dorsal part of the lateral geniculate complex of ABA 2009
-Dorsal pons
-Dorsal raphe nucleus
-Dorsal raphe nucleus of PHT00
+Dorsal peduncular area layer 1 of ABA 2009
+Dorsal peduncular area layer 2 of ABA 2009
+Dorsal peduncular area layer 5 of ABA 2009
+Dorsal peduncular area layer 6a of ABA 2009
+Dorsal peduncular area of ABA 2009
 Dorsal root ganglion
 Dorsal root ganglion A alpha-beta nociceptive neuron
 Dorsal root ganglion A alpha-beta non-nociceptive neuron
@@ -1673,44 +1265,16 @@ Dorsal root ganglion A delta nociceptive neuron
 Dorsal root ganglion A delta non-nociceptive neuron
 Dorsal root ganglion C nociceptive neuron
 Dorsal root ganglion C non-nociceptive neuron
-Dorsal septal nucleus
-Dorsal septum
 Dorsal spinal cord
-Dorsal supraoptic decussation
-Dorsal tegmental decussation
-Dorsal tegmental nucleus
-Dorsal tegmental nucleus medium cell
-Dorsal tegmental nucleus of ABA 2009
-Dorsal tegmental nucleus small cell
 Dorsal terminal nucleus of the accessory optic tract of ABA 2009
 Dorsal to
-Dorsal trigeminal tract
-Dorsal-ventral polarity
 Dorsalized
 Dorsally rotated
-Dorso-lateral dopaminergic neuron
+Dorsolateral entorhinal area of RHA11
 Dorsolateral pons
-Dorsolateral pontine tegmentum
-Dorsolateral prefrontal cortex
-Dorsolateral prefrontal cortex layer 1
-Dorsolateral prefrontal cortex layer 2
-Dorsolateral prefrontal cortex layer 3
-Dorsolateral prefrontal cortex layer 4
-Dorsolateral prefrontal cortex layer 5
-Dorsolateral prefrontal cortex layer 6
 Dorsolateral septum
 Dorsomedial cortex
-Dorsomedial hypothalamic region
-Dorsomedial nucleus of hypothalamus
-Dorsomedial nucleus of the hypothalamus anterior part of ABA 2009
-Dorsomedial nucleus of the hypothalamus of ABA 2009
-Dorsomedial nucleus of the hypothalamus posterior part of ABA 2009
-Dorsomedial nucleus of the hypothalamus ventral part of ABA 2009
 Dose Calibration Factor
-Dose Rate Delivered
-Dose Rate Set
-Dose Summation Type
-Dose Type
 Dose Value
 Doxacurium chloride
 Doxazosin
@@ -1723,11 +1287,8 @@ Drexel University; Pennsylvania; USA
 Drooping
 Drosophila
 Drospirenone
-Drotrecogin alfa
 Drug
 Dublin City University; Dublin; Ireland
-Duchenne Muscular Dystrophy
-Duct part of cochlear canal
 Duke University; North Carolina; USA
 Duloxetine
 Dumbbell-shaped
@@ -1742,48 +1303,32 @@ Dysplastic
 Dystonicity
 Dystrophic
 Dystrophin
-E-1 neuron
 E3 ubiquitin ligase SFC complex Skp1 subunit
 EPA
 ETH Zurich; Zurich; Switzerland
 Ealing Hospital; London; United Kingdom
 Ear
-Early adult
-Early adult human
-Early endosome
 East Carolina University; Carolina; USA
-Eb-no neuron
-Eb-pb-vbo neuron
 Echothiophate Iodide
 Ecole Polytechnique Federale de Lausanne; Lausanne; Switzerland
 Econazole
 Ectorhinal area of ABA 2009
-Ectorhinal area/Layer 1 of ABA 2009
-Ectorhinal area/Layer 2/3 of ABA 2009
-Ectorhinal area/Layer 5 of ABA 2009
-Ectorhinal area/Layer 6a of ABA 2009
-Ectorhinal area/Layer 6b of ABA 2009
 Edematous
 Edetic Acid
 Edibility
 Edinger-Westphal nucleus of ABA 2009
 Edinger-Westphal nucleus of PHT00
-Efferent vestibular nucleus of ABA 2009
-Eighth cervical dorsal root ganglion
-Eighth cervical spinal cord segment
-Eighth thoracic dorsal root ganglion
-Eighth thoracic spinal cord segment
 Elastic
 Elasticity
-Electrogenic Pump
-Electromotive force
-Electron microscope
-Electrophoresis instrument
+Electric potential
+Electrical conduction
+Electrical offset
+Electrical saturation
+Electrophysiology concept
 Electrosurgical instrument
+Electrotonic conduction
 Elevated plus maze test
 Elevation
-Eleventh thoracic dorsal root ganglion
-Eleventh thoracic spinal cord segment
 Eli Lilly and Company
 Elliptic
 Elongated
@@ -1791,10 +1336,9 @@ Embedded figures test
 Embryo dog
 Embryo human
 Embryo mouse
+Embryo rat
 Embryogenesis
 Embryonic
-Embryonic / larval central nervous system
-Embryonic / larval olfactory receptor neuron
 Embryonic dog
 Embryonic drosophila
 Embryonic ferret
@@ -1802,11 +1346,7 @@ Embryonic human
 Embryonic mouse
 Embryonic stem cell
 Emory University; Georgia; USA
-Empty Image Density
 Encephalon
-Encrypted Content
-Encrypted Content Transfer Syntax UID
-End Cumulative Meterset Weight
 End Meterset
 End-plate potential
 Endocrine neuron
@@ -1817,22 +1357,49 @@ Endopolyploid
 Endosome
 Endosulfan
 Endosulfan sulfate
-Endosulfan, alpha
 Endothelial Cell
 Endrin ketone
 Energy
 Energy Window Centerline
 Energy Window Information Sequence
+Energy Window Lower Limit
+Energy Window Name
 Energy Window Number
 Energy Window Range Sequence
+Energy Window Total Width
+Energy Window Upper Limit
 Enflurane
 Enoxaparin
 Entacapone
 Entopeduncular nucleus
+Entorhinal area lateral part layer 1 of ABA 2009
+Entorhinal area lateral part layer 2 of ABA 2009
+Entorhinal area lateral part layer 2a of ABA 2009
+Entorhinal area lateral part layer 2b of ABA 2009
+Entorhinal area lateral part layer 3 of ABA 2009
+Entorhinal area lateral part layer 4 of ABA 2009
+Entorhinal area lateral part layer 5 of ABA 2009
+Entorhinal area lateral part layer 6a of ABA 2009
+Entorhinal area lateral part layer 6b of ABA 2009
+Entorhinal area lateral part of ABA 2009
+Entorhinal area medial part dorsal zone layer 1 of ABA 2009
+Entorhinal area medial part dorsal zone layer 2 of ABA 2009
+Entorhinal area medial part dorsal zone layer 2a of ABA 2009
+Entorhinal area medial part dorsal zone layer 2b of ABA 2009
+Entorhinal area medial part dorsal zone layer 3 of ABA 2009
+Entorhinal area medial part dorsal zone layer 4 of ABA 2009
+Entorhinal area medial part dorsal zone layer 5 of ABA 2009
+Entorhinal area medial part dorsal zone layer 6 of ABA 2009
+Entorhinal area medial part dorsal zone of ABA 2009
+Entorhinal area medial part ventral zone layer 1 of ABA 2009
+Entorhinal area medial part ventral zone layer 2 of ABA 2009
+Entorhinal area medial part ventral zone layer 3 of ABA 2009
+Entorhinal area medial part ventral zone layer 4 of ABA 2009
+Entorhinal area medial part ventral zone of ABA 2009
+Entorhinal area of ABA 2009
 Entrance Dose
 Entrance Dose in mGy
 Enzyme
-Eo neuron
 Eotvos Lorand University; Budapest; Hungary
 Epiglottis
 Epinastic
@@ -1841,11 +1408,9 @@ Epithelial Cell
 Eplerenone
 Epoetin alfa
 Eprosartan
-Erasmus MC; Rotterdam; Netherlands
 Erasmus University Rotterdam; Rotterdam; Netherlands
 Erect
 Ergocalciferol
-Ergoloid mesylate
 Erose
 Erythrityl Tetranitrate
 Erythromycin
@@ -1873,8 +1438,6 @@ Euploid
 Everted
 Ewha Womans University; Seoul; South Korea
 Excitatory
-Excitatory amino acid
-Excitatory neurotransmitter
 Excitotoxicity
 Expected Completion Date and Time
 Exposed Area
@@ -1885,20 +1448,11 @@ Exposure Time in ms
 Exposure Time in uS
 Exposures on Detector Since Last Calibration
 Expression atlas
-Expression level
 Exserted
 External angle
-External capsule
 External cuneate nucleus of ABA 2009
-External lateral parabrachial nucleus
-External nucleus of inferior colliculus
-Extra LNd neuron
 Extra or missing processual parts
 Extracellular Amplifier
-Extracellular Matrix Protein
-Extracellular Space
-Extracellular Structure
-Extracellular Surface
 Extracellular field potential
 Extracellular matrix
 Extraction
@@ -1908,37 +1462,19 @@ Extrinsic neuron
 Extrinsic no neuron
 Extrinsic pb neuron
 Eye
-Eye disease
-Eye movement
 Ezetimibe
 F mating type
 F minus mating type
 FI slope
 FM4-64
-FVB.Cg-Tg(SMN2)89Ahmb Smn1tm1Msd/J mouse
-FVB.Cg-Tg(SMN2*delta7)4299Ahmb Tg(SMN2)89Ahmb Smn1tm1Msd/J
-FVB.Cg-Tg(SMN2*delta7)4299Ahmb Tg(SMN2)89Ahmb Smn1tm1Msd/J mouse
 Face monitor-discrimination
 Facial (accessory) nucleus
-Facial motor nucleus of ABA 2009
 Facial nerve root
-Facial nucleus
-Facial nucleus motor neuron
 Facilitation
-Facioscapulohumeral Muscular Dystrophy
 Failed SOP Instance UID List
 Failed SOP Sequence
-Familial juvenile macular degeneration
-Familial macular degeneration
-Familial role
 Famotidine
-Fan-shaped neuron
 Fan-shaped neuron F1
-Fan-shaped neuron F2
-Fan-shaped neuron F3
-Fan-shaped neuron F4
-Fan-shaped neuron F5
-Fan-shaped neuron F6
 Fasciated
 Fasciculated
 Fasciculation
@@ -1955,11 +1491,8 @@ Fast twitch skeletal muscle cell
 Fast twitch type A skeletal muscle cell
 Fatigability
 Fatty acid
-Fb-eb neuron
-Fb-eb-no neuron
-Fb-ltr neuron
-Fb-no neuron
 Fecundity
+Federal University of Rio de Janeiro; Rio de Janeiro; Brazil
 Feed
 Feed-forward inhibition
 Female
@@ -1976,57 +1509,38 @@ Fenoldopam
 Ferret
 Fertile
 Fertility
-Fetal alcohol syndrome
 Fetus dog
 Fetus human
-Fetus mouse
 Fexofenadine
-Fiat object part
 Fiat process part
-Fibrous Astrocyte
 Fiducial Identifier
 Fiducial Sequence
 Fiducial Set Sequence
-Fiducial UID
 Field CA1 of ABA 2009
-Field CA1 pyramidal layer of ABA 2009
 Field CA1 stratum lacunosum-moleculare of ABA 2009
 Field CA2 of ABA 2009
-Field CA2 pyramidal layer of ABA 2009
 Field CA2 stratum lacunosum-moleculare of ABA 2009
 Field CA3 of ABA 2009
-Field CA3 pyramidal layer of ABA 2009
 Field CA3 stratum lacunosum-moleculare of ABA 2009
 Fields of Forel of ABA 2009
-Fifth cervical dorsal root ganglion
-Fifth cervical spinal cord segment
-Fifth lumbar dorsal root ganglion
-Fifth lumbar spinal cord segment
-Fifth sacral dorsal root ganglion
-Fifth sacral spinal cord segment
-Fifth thoracic dorsal root ganglion
-Fifth thoracic spinal cord segment
 Filament
 Filamentous (PATO 0001360)
 Filgrastim
-Film Box Content Sequence
+Film Session Label
+Filter High Frequency
+Filter Low Frequency
+Filter test assay of aggregation
+Fimbria Fornix of CIVM postnatal rat brain atlas
 Fimbria of WHS11
-Fimbria of hippocampus
-Final Cumulative Meterset Weight
-Final Cumulative Time Weight
 Finasteride
 Finger
 Finnish Ministry of Employment and the Economy
 Firing frequency
-First cervical dorsal root ganglion
-First cervical spinal cord segment
-First lumbar dorsal root ganglion
-First lumbar spinal cord segment
-First sacral dorsal root ganglion
-First sacral spinal cord segment
 First spike latency
-First thoracic dorsal root ganglion
-First thoracic spinal cord segment
+Fixation Device Label
+Fixation Device Position
+Fixation Device Sequence
+Fixation Device Type
 Flaky
 Flashing checkerboard
 Flat
@@ -2037,7 +1551,6 @@ Flexibility
 Flexible
 Flinders University; Adelaide; Australia
 Florida Agricultural and Mechanical University; Florida; USA
-Florida Cancer Affiliates; Florida; USA
 Flow
 Flow Compensation
 Flucloxacillin
@@ -2045,7 +1558,6 @@ Fluconazole
 Flucytosine
 Fludrocortisone
 Fluence Data Scale
-Fluence Map Sequence
 Flumazenil
 Flumethasone Pivalate
 Flunisolide
@@ -2072,6 +1584,7 @@ Fondaparinux sodium
 Force
 Force Transducers
 Forebrain
+Forebrain of CIVM postnatal rat brain atlas
 Forebrain of WHS11
 Forelimb
 Formalin test
@@ -2080,46 +1593,40 @@ Fornix of WHS11
 Forward scatter
 FosB
 Fosfomycin
-Fourth cervical dorsal root ganglion
 Fourth ventricle
 Fourth ventricle of WHS11
 Fovea
+Fraction Group Number
+Fraction Group Sequence
+Fraction Group Summary Sequence
+Fraction Pattern
 Fractured
 Fragility
-Frame Content Sequence
 Frame Dimension Pointer
 Frame Increment Pointer
-Frame Type
 Frame VOI LUT Sequence
-Framing Type
 Framycetin
 Free
 Free University of Berlin; Berlin; Germany
 Free University of Brussels; Brussels; Belgium
-Free fatty acid receptor
 Free radical
 Frequency
 Friedrich Schiller University Jena; Jena; Germany
 Front
-Frontal cortex
 Frontal eye field
 Frontal lobe
 Frontal lobe of human
-Frontal operculum
-Frontal pole
-Frontal pole cerebral cortex of ABA 2009
-Frontal pole layer 1 of ABA 2009
-Frontal pole layer 2/3 of ABA 2009
 Fudan University; Shanghai; China
 Fujian Agriculture and Forestry University; Fujian; China
 Fulvestrant
 Function
+Functional Group Pointer
+Functional Group Private Creator
 Functionality
 Funiculi
 Fura-2
 Furosemide
 Furrowed
-Fused Vesicle Quality
 Fused with
 G-Protein
 G-protein coupled receptor
@@ -2135,7 +1642,6 @@ GABRB2
 GABRB3
 GAD67
 GHB
-Gabrail Cancer Center; Ohio; USA
 Gachon University; Seongnam; South Korea
 Gadobenate Dimeglumine
 Gadodiamide
@@ -2146,27 +1652,18 @@ Galantamine
 Gamma Hydroxybutyric Acid
 Gamma wave
 Gamma-Homolinolenic acid
-Ganglion cell
-Ganglion part of peripheral nervous system
 Ganglioside
 Gantry Angle
 Gantry Angle Tolerance
-Gas neurotransmitter
-Gastric inhibitory polypeptide
 Gastrula dog
 Gastrula human
-Gastrula mouse
+Gated Information Sequence
 Gefitinib
-Gel electrophoresis instrument
 Gemcitabine
 Gemfibrozil
 Gene
 Gene expression
-Gene regulatory network model
-Gene specific probe
 Generator potential
-Geniculate group dorsal thalamus of ABA 2009
-Geniculate group ventral thalamus of ABA 2009
 Gentamicin
 Gentian Violet
 Genu of corpus callosum
@@ -2176,69 +1673,44 @@ Georgetown University; Washington D.C.; USA
 Georgia Regents University; Georgia; USA
 Ghent University; Ghent; Belgium
 Gi
-Giant fiber neuron
-Giant sensillum of the dorsal radius neuron
 Gifu University; Gifu; Japan
 Gigantic
 Glabrous
 Glass Capillary
 Glaucoma
 Glial Cell
-Glial Filament
-Glial cell derived neurotrophic factor
 Glial specific marker
 Gliclazide
 Glimepiride
 Gliogenesis
 Glistening
 Globus pallidus
-Globus pallidus external segment
-Globus pallidus external segment of ABA 2009
-Globus pallidus internal segment
-Globus pallidus internal segment of ABA 2009
-Globus pallidus intrinsic cell
 Globus pallidus of WHS11
-Globus pallidus principal cell
-Glossopharyngeal nerve fiber bundle
 GluR3
 Glucocorticoid
 Glucose
 Glucose Sensor
 Glutamate
-Glutamate Transporter
-Glutamate decarboxylase 2
 Glutamate receptor
 Glutamic acid decarboxylase
 Glutathione
 Glutinous
 Glycine
 Glycogen
-Glycogen Granule
 Glycogen body
 Glycogen synthase kinase-3 alpha
 Glycogen synthase kinase-3 beta
 Glycoprotein
-Glycoprotein hormone receptor
 Goat
 Goldman equation
-Golgi Lumen
 Golgi tendon organ
 Gracile fasciculus
-Gracile fasciculus of medulla
 Gracile fasiculus of the spinal cord
-Gracile nucleus
-Gracile nucleus of ABA 2009
-Gracilis nucleus intrinsic cell
-Gracilis nucleus principal cell
-Gramicidin D
 Granular
-Granular Vesicle
-Granular cortex
 Granular insula
-Granular lamina of the cochlear nuclei of ABA 2009
-Granular layer of cerebellar cortex
 Granule
 Granule Cell Morphology
+Graphic Coordinates Data Sequence
 Graphic Data
 Graphic Dimensions
 Graphic Filled
@@ -2246,51 +1718,45 @@ Graphic Layer
 Graphic Layer Recommended Display Grayscale Value
 Graphic Layer Recommended Display RGB Value
 Graphic Layer Sequence
-Graphic Object Sequence
-Graphic Type
 Gravity sensitive Johnston organ neuron
 Gray Lookup Table Data
 Gray Lookup Table Descriptor
 Gray Scale
 Gray matter
 Greasy
+Green Palette Color Lookup Table Data
+Green Palette Color Lookup Table Descriptor
+Grid Aspect Ratio
+Gridded numeric data
 Griseofulvin
+Ground state depletion microscopy
 Group
 Growth Factor
 Growth quality of occurrent
-Growth rate
 Gs
 Guanadrel Sulfate
 Guanethidine
 Guanidine
 Guru Gobind Singh Indraprastha University; Delhi; India
 Gustatory areas layer 1 of ABA 2009
-Gustatory areas layer 2/3 of ABA 2009
 Gustatory areas layer 4 of ABA 2009
 Gustatory areas layer 5 of ABA 2009
 Gustatory areas layer 6a of ABA 2009
 Gustatory areas layer 6b of ABA 2009
 Gustatory areas of ABA 2009
-Gustatory epithelium (nifext 12)
-Gustatory memory
 Gustatory modality
 Gustatory receptor neuron
 Gustatory receptor neuron of terminal organ
-Gustatory receptor neuron of the dorsal organ
 Gustatory receptor neuron of the epiphysis
 Gustatory receptor neuron of the hypopharyngeal sense organ
 Gustatory receptor neuron of the hypophysis
-Gustatory receptor neuron of the ventral organ
-Gustatory stimulus transduction
-Gustatory system
-Gustatory system function
 Guys Hospital; London; United Kingdom
-Gyrus rectus
 H minus
 H plus
 HLH DNA-binding protein inhibitor
 Habituation
 Hairy
+Half Value Layer
 Hallucinogen
 Halobetasol Propionate
 Haloperidol
@@ -2303,27 +1769,21 @@ Hardcopy Creation Device
 Hardcopy Device Manufacturer
 Hardness
 Harvard University; Massachusetts; USA
-Has extra parts of type
-Has fewer parts of type
 Has number of
 Having decreased function
-Having decreased processual parts
 Having extra function
-Having extra processual parts
 Hayling sentence completion test
 Head
-Head of caudate nucleus
 Heart Rate
 Heat conduction
 Heat sensitization-adaptation
 Heat stimulation
-Hebb synapse
 Hebrew University of Jerusalem; Jerusalem; Israel
+Heidelberg Institute for Theoretical Studies; Heidelberg; Germany
 Heidelberg University; Heidelberg; Germany
 Height
 Heinrich Heine University of DÃ_sseldorf; DÃ_sseldorf; Germany
 Hematopoietic stem cell
-Hemisphere of cerebral cortex
 Henry Ford Hospital; Michigan; USA
 Heparin
 Hepatitis C virus
@@ -2335,7 +1795,6 @@ Herpes simplex virus I
 Hesperetin
 Hetacillin
 Heterochronic
-Heterochronic growth
 Heterophilic
 Heterotrimeric G proteins
 Hexachlorocyclohexane, beta-
@@ -2347,31 +1806,18 @@ Hexobarbital
 High Bit
 High brightness
 High saturation
-High-Dose Technique Type
-Hilum of dentate nucleus
 Hindbrain
 Hindbrain of ABA 2009
+Hindbrain of CIVM postnatal rat brain atlas
 Hindbrain of WHS11
 Hippocampal commissure
-Hippocampal formation
-Hippocampal formation of ABA 2009
-Hippocampal formation of RHA11
-Hippocampal formation of WHS11
-Hippocampal molecular layer
 Hippocampal region of ABA 2009
 Hippocampal region of RHA11
-Hippocampal sulcus
 Hippocampus
-Hippocampus CA1 LM(R) PP neuron
-Hippocampus CA1 pyramidal cell
-Hippocampus CA2 pyramidal neuron
-Hippocampus CA3 pyramidal cell
-Hippocampus CA3 pyramidal cell axon
 Hippocampus of PHT00
-Hippocampus proper of RHA11
 Histamine
 Histamine Phosphate
-Histamine receptor
+Histogram Bin Width
 Histogram Data
 Histogram Explanation
 Histogram First Bin Value
@@ -2388,7 +1834,6 @@ Hook
 Hooper visual organization test
 Horizontal
 Horizontal (PATO 0001855)
-Horizontal Cell Morphology
 Horizontal fiber system neuron
 Horizontal fiber system neuron pb1
 Horizontal fiber system neuron pb2
@@ -2398,13 +1843,11 @@ Horizontal fiber system neuron pb5
 Horizontal fiber system neuron pb6
 Horizontal fiber system neuron pb7
 Horizontal fiber system neuron pb8
-Horizontal fissure
-Horizontal limb of the diagonal band
 Hormone
 Hospital
 Hot
 Human
-Human Performers Organization
+Human Performer Code Sequence
 Human Serum Albumin
 Human immunodeficiency virus
 Humboldt University of Berlin; Berlin; Germany
@@ -2428,82 +1871,53 @@ Hydroxystilbamidine Isethionate
 Hydroxyurea
 Hydroxyzine
 Hygeia Hospital; Athens; Greece
-Hygrosensitive neuron
 Hyoscyamine
 Hyperactive
-Hypermorphic growth
-Hyperphosphorylated Molecular Quality
 Hyperplastic
 Hyperresponsive to
 Hypertonia
 Hypertrophic
 Hypertrophic growth
 Hypoactive
-Hypoglossal nerve fiber bundle
-Hypoglossal nucleus
-Hypoglossal nucleus motor neuron
-Hypoglossal nucleus of ABA 2009
 Hypophysis
 Hypoplastic
 Hyporesponsive to
-Hypothalamic lateral zone of ABA 2009
-Hypothalamic medial zone of ABA 2009
 Hypothalamus
 Hypothalamus of ABA 2009
 Hypothalamus of WHS11
 Hypotrophic
-Hypotrophic growth
-I A, slow
 I CAN
 I CNG
 I Cl,Ca
 I K,Ca
 I M
-I Mixed
 I N
 I T low threshold
 I h
 I p,q
-I1 motor neuron
-III1 motor neuron
-III3 motor neuron
-IP neuron
-IVUS Pullback Rate
+IVUS Pullback Start Frame Number
 IVUS Pullback Stop Frame Number
 Ibuprofen
-Icon Image Sequence
 Ictal
 Idarubicin
 Identifying value
 Idursulfase
-Illinois Cancer Specialists; Illinois; USA
 Illumination
 Image
-Image Box Content Sequence
 Image Box Presentation LUT Flag
 Image Dimensions
 Image Format
 Image Frame Origin
-Image Geometry Type
 Image Index
 Image Origin
-Image Overlay Box Content Sequence
 Image Overlay Flag
 Image Position
 Image Positionâ€“Patient
 Image Rotation
-Image Transformation Matrix
-Image Type
-Image analysis software
 Image collection
 Image creation
-Image processing software
-Imaged Nucleus
-Imagined movement
 Imagined objects-scenes
 Imaging Frequency
-Imaging assay
-Imaging instrument
 Imaging role
 Imatinib
 Imiglucerase
@@ -2515,6 +1929,7 @@ Immature Insulin Granule
 Immature dog
 Immature human
 Immature mouse
+Immature rat
 Immobile
 Immortal
 Immune globulin
@@ -2528,23 +1943,19 @@ In contact with
 In-concatenation Number
 In-stack Position Number
 Inactive
-Include Non-DICOM Objects
 Incompatible
 Inconspicuous
 Increased Area
 Increased Osmolality
 Increased acidity
-Increased age
 Increased circumference
 Increased concentration
 Increased consumption
 Increased contractility
 Increased curvature
-Increased density
 Increased depth
 Increased diameter
 Increased elevation
-Increased expression
 Increased fatigability
 Increased fecundity
 Increased female fertility
@@ -2574,8 +1985,6 @@ Increased photosensitivity
 Increased position
 Increased pressure
 Increased radioactivity
-Increased rate
-Increased relaxation
 Increased resistance to
 Increased sensitivity of occurrent
 Increased sensitivity of occurrent to oxygen
@@ -2585,7 +1994,6 @@ Increased size
 Increased solubility
 Increased susceptibility toward
 Increased temperature
-Increased thickness
 Increased threshold
 Increased time
 Increased tonicity
@@ -2596,80 +2004,40 @@ Increased variability of rate
 Increased variability of size
 Increased variability of temperature
 Increased viscosity
-Increased volume
 Increased weight
 Increased wetness
 Indiana University Bloomington; Indiana; USA
 Indiana University; Indiana; USA
 Indifference
 Indinavir
-Indirect flight muscle motor neuron
-Indirect flight muscle motor neuron MN1
-Indirect flight muscle motor neuron MN2
-Indirect flight muscle motor neuron MN3
-Indirect flight muscle motor neuron MN4
-Indirect flight muscle motor neuron MN5
 Indiscriminate
-Individual body part movement
 Indomethacin
 Induseum griseum
 Induseum griseum of ABA 2009
 Inelastic
 Infectious disease
-Inferior Parietal Sulcus
-Inferior antennal lobe commissure
-Inferior calcarine sulcus
-Inferior central nucleus
-Inferior cerebellar peduncle
 Inferior colliculus
-Inferior colliculus central nucleus of ABA 2009
-Inferior colliculus dorsal nucleus of ABA 2009
-Inferior colliculus external nucleus of ABA 2009
 Inferior colliculus of ABA 2009
 Inferior colliculus of WHS11
 Inferior frontal gyrus
-Inferior frontal sulcus
-Inferior horn of the lateral ventricle
 Inferior oblique extraocular muscle
-Inferior occipital gyrus
-Inferior occipital sulcus
-Inferior olivary complex
-Inferior olivary complex of ABA 2009
 Inferior olivary nucleus interneuron
-Inferior olivary nucleus principal neuron
-Inferior parietal cortex
-Inferior part of vestibular ganglion
-Inferior postcentral sulcus
-Inferior precentral sulcus
-Inferior pulvinar nucleus
-Inferior ramus of arcuate sulcus
 Inferior retina
-Inferior rostral gyrus
-Inferior rostral sulcus
 Inferior temporal gyrus
-Inferior temporal sulcus
-Inferior vestibular nucleus
 Infiltrative
 Inflexible
-Influence of dendritic geometry
-Information content entity
-Information entity
 Information exchange
 Infracerebellar nucleus
 Infracerebellar nucleus of ABA 2009
 Infralimbic area layer 1 of ABA 2009
 Infralimbic area layer 2 of ABA 2009
-Infralimbic area layer 2/3 of ABA 2009
 Infralimbic area layer 5 of ABA 2009
 Infralimbic area layer 6a of ABA 2009
 Infralimbic area layer 6b of ABA 2009
 Infralimbic area of ABA 2009
 Inha University; Incheon; South Korea
 Inhibitory
-Inhibitory neurotransmitter
 Inner ear
-Inner granular layer of cerebellar cortex
-Innovation Norway
 Inorganic cation
 Input Availability Flag
 Input InformationSequence
@@ -2682,6 +2050,7 @@ Instance Creation Date
 Instance Creation Time
 Instance Creator UID
 Instance Number
+Institute of Museum and Library Services
 Instituto Gulbenkian de Ciencia; Oeiras; Portugal
 Instituto Superior de Psicologia Aplicada; Lisbon; Portugal
 Instrument role
@@ -2691,23 +2060,18 @@ Insulin
 Insulin Granule
 Insulin like growth factor 1
 Insulin, porcine
-Insulin-like peptide
-Insulin-like peptide 5
 Insusceptible toward
-Integral membrane protein
 Integrin
 Intended Recipients of Results Identification Sequence
-Intensifier Size
 Intensity
 Interaction
 Interanterodorsal nucleus of the thalamus
 Interanterodorsal nucleus of the thalamus of ABA 2009
 Interanteromedial nucleus of the thalamus of ABA 2009
 Interbrain of ABA 2009
-Intercellular Junction
-Intercellular Junction Site
 Interchange format
 Interdigitated
+Interfascicular nucleus raphe of ABA 2009
 Interferon alfa-n1
 Interferon alfa-n3
 Interferon alfacon-1
@@ -2717,23 +2081,14 @@ Interferon gamma-1b
 Intergeniculate leaflet of the lateral geniculate complex
 Intergeniculate leaflet of the lateral geniculate complex of ABA 2009
 Interleukin-1
-Intermediate acoustic stria
-Intermediate filament
-Intermediate hypothalamic region
 Intermediate lateral septum
-Intermediate nuclei of the lateral lemniscus
-Intermediate oculomotor nucleus
-Intermediate orbital gyrus
-Intermediate part of hypophysis
-Intermediate periventricular nucleus
 Intermediate reticular nucleus of ABA 2009
 Intermediodorsal nucleus of the thalamus
 Intermediodorsal nucleus of the thalamus of ABA 2009
+Internal Capsule of CIVM postnatal rat brain atlas
 Internal angle
-Internal arcuate fiber bundle
 Internal capsule
 Internal capsule of WHS11
-Internal medullary lamina of thalamus
 Internalization assay
 Interneuron (FBbt Term)
 Interoceptive modality
@@ -2741,44 +2096,33 @@ Interposed nucleus of ABA 2009
 Interpretation Approval Date
 Interpretation Approval Time
 Interpretation Approver Sequence
+Interpretation Recorded Date
 Interpretation Recorder
 Interpretation Text
 Interpretation Transcriber
 Interpretation Transcription Date
-Interpretation Transcription Time
-Interstitial nucleus of the posterior limb of the anterior commissure
 Interstitial nucleus of the vestibular nerve of ABA 2009
-Interthalamic adhesion
 Interval Number
 Intervention
-Intervention Drug Dose
 Intervention Drug Information Sequence
+Intervention Drug Name
+Intervention Drug Start Time
 Intervention Drug Stop Time
 Intervention Sequence
 Intracellular Amplifier
-Intracellular Calcium Channel
-Intracellular Membrane
 Intrafusal fiber
 Intrasonic
-Intrinsic neuron
-Intrinsic neuron (FBbt Term)
-Intrinsic neuron role
-Intrinsic pb neuron
-Intrinsic vbo neuron
 Introverted
 Inulin
 Invaginated
 Invariant
 Invariant color
-Invariant temperature
+Inversion Time
+Inversion Times
 Inverted
 Inverted Light Microscope
 Involute
 Ion
-Ion Channel
-Ion channel
-Ion channel (nifext 2508)
-Ion channel kinetics
 Iontophoresis system
 Ipratropium
 Irbesartan
@@ -2787,22 +2131,18 @@ Iron
 Irregular rhythm
 Irregular sleep pattern
 Irregular spatial pattern
-Irregular thickness
 Ishihara plates for color blindness
 Isobutyl nitrite
 Isocenter Position
 Isocortex of ABA 2009
 Isocortex of PHT00
 Isoflurane
-Isometric force
 Isometrical
 Isoniazid
 Isosorbide Dinitrate
 Isosorbide Mononitrate
 Isotope Number
 Isotretinoin
-Isthmus of cingulate gyrus
-Isthmus of cingulate of KA2000
 Itraconazole
 Jacobs University Bremen; Bremen; Germany
 Jadavpur University; West Bengal; India
@@ -2816,10 +2156,8 @@ Johnston organ neuron
 Johnston organ neuron phasically activated by arista deflection
 Johnston organ neuron tonically activated by arista deflection
 Ju and Swanson 1989
-Junction Complex
+Junctional fold
 Juvenile
-Juvenile human
-Juvenile mouse
 Kanamycin
 Kanizsa figures
 Kantonsspital St. Gallen; St. Gallen; Switzerland
@@ -2827,7 +2165,6 @@ Kasetsart University; Bangkok; Thailand
 Katanin
 Kawasaki disease
 Keio University; Tokyo; Japan
-Kenyon cell
 Ketoprofen
 Kinase
 Kindling
@@ -2867,76 +2204,37 @@ L1
 L1 GRN
 L2 GRN
 LN period neuron
-LNd neuron
-LNv neuron
-LP neuron
-LP1 neuron
-LP2 neuron
 LPC receptor
 LSD
 LUT Data
 LUT Descriptor
 La Trobe University; Victoria; Australia
+Label Style Selection
+Label Text
+Label Using Information Extracted From Instances
 Labetalol
 Labral sense organ neuron
 Lacking function
 Lacking processual parts
 Lacks all parts of type
-Lacks parts or has fewer parts of type
 Lactation
-Lamina I of gray matter of spinal cord
 Laminar
-Lamprey motor neuron
 Lanceolate
 Lansoprazole
 Lapatinib
-Large Vesicle
-Large adult Pdf neuron of abdominal neuromere
-Large field neuron
-Large field neuron of the central complex
 Larval
 Larval Pdf neuron
 Larval drosophila
-Larval olfactory receptor neuron Or13a
-Larval olfactory receptor neuron Or1a
-Larval olfactory receptor neuron Or22c
-Larval olfactory receptor neuron Or24a
-Larval olfactory receptor neuron Or30a
-Larval olfactory receptor neuron Or33a
-Larval olfactory receptor neuron Or33b / Or47a
-Larval olfactory receptor neuron Or35a
-Larval olfactory receptor neuron Or42a
-Larval olfactory receptor neuron Or42b
-Larval olfactory receptor neuron Or45a
-Larval olfactory receptor neuron Or45b
-Larval olfactory receptor neuron Or49a
-Larval olfactory receptor neuron Or59a
-Larval olfactory receptor neuron Or63a
-Larval olfactory receptor neuron Or67b
-Larval olfactory receptor neuron Or74a
-Larval olfactory receptor neuron Or82a
-Larval olfactory receptor neuron Or83a
-Larval olfactory receptor neuron Or85c
-Larval olfactory receptor neuron Or94b
 Larval pacemaker neuron
 Last Menstrual Date
 Latanoprost
-Late Endosome
-Late adult
-Late adult human
 Latency
 Lateral Faniculus
 Lateral agranular field
-Lateral amygdaloid nucleus
-Lateral amygdaloid nucleus, dorsolateral part
-Lateral amygdaloid nucleus, ventrolateral part
 Lateral and rotational curvature
-Lateral bed nucleus of the stria terminalis
 Lateral cervical nucleus
-Lateral cortex
-Lateral corticospinal tract
 Lateral dorsal nucleus of thalamus of ABA 2009
-Lateral eminence of hypophysis
+Lateral entorhinal area
 Lateral fan-shaped neuron ExFl1
 Lateral fan-shaped neuron FE1
 Lateral fan-shaped neuron Fl
@@ -2945,83 +2243,31 @@ Lateral fan-shaped neuron Fl2
 Lateral fan-shaped neuron Fl3
 Lateral fan-shaped neuron Fl4
 Lateral geniculate nucleus
+Lateral geniculate nucleus parvocellular layer
 Lateral group of the dorsal thalamus of ABA 2009
-Lateral hypothalamic area
-Lateral hypothalamic area of ABA 2009
-Lateral hypothalamic nucleus
-Lateral hypothalamic region
 Lateral lemniscus (birnlex 976)
-Lateral mammillary nucleus
-Lateral mammillary nucleus of ABA 2009
-Lateral medullary lamina
-Lateral nuclear group
-Lateral nucleus of stria terminalis
-Lateral occipital cortex
-Lateral occipital sulcus
-Lateral olfactory tract
-Lateral orbital frontal cortex
-Lateral orbital gyrus
-Lateral orbital sulcus
-Lateral parabrachial nucleus
 Lateral paragigantocellular nucleus
 Lateral paragigantocellular nucleus of PHT00
-Lateral part of basal amygdaloid nucleus
-Lateral part of medial mammillary nucleus
-Lateral part of the anterior interposed nucleus
-Lateral pes lemniscus
-Lateral posterior nucleus
-Lateral posterior nucleus of the thalamus of ABA 2009
-Lateral preoptic area of ABA 2009
-Lateral preoptic nucleus
-Lateral pulvinar nucleus
-Lateral reticular nucleus
-Lateral reticular nucleus magnocellular part of ABA 2009
-Lateral reticular nucleus of ABA 2009
-Lateral reticular nucleus parvicellular part of ABA 2009
-Lateral septal complex of ABA 2009
-Lateral septal nuclei
-Lateral septal nucleus
-Lateral septal nucleus caudal (caudodorsal) part of ABA 2009
-Lateral septal nucleus of ABA 2009
-Lateral septal nucleus rostral (rostroventral) part of ABA 2009
-Lateral septal nucleus ventral part of ABA 2009
 Lateral septum
 Lateral spinal nucleus
-Lateral sulcus
-Lateral superior colliculus
-Lateral superior olivary nucleus
-Lateral tegmental nucleus
-Lateral tegmental nucleus of ABA 2009
-Lateral tegmentum
 Lateral terminal nucleus of the accessory optic tract of ABA 2009
-Lateral thalamus
 Lateral to
 Lateral ventricle
-Lateral vestibular nucleus
-Lateral vestibular nucleus of ABA 2009
-Lateral vestibular nucleus of PHT00
 Lateral visual area layer 1 of ABA 2009
-Lateral visual area layer 2/3 of ABA 2009
 Lateral visual area layer 4 of ABA 2009
 Lateral visual area layer 5 of ABA 2009
 Lateral visual area layer 6a of ABA 2009
 Lateral visual area layer 6b of ABA 2009
 Lateral visual area of ABA 2009
 Laterally compressed
-Laterodorsal tegmental nucleus
-Laterodorsal tegmental nucleus of ABA 2009
 Laval University; Quebec; Canada
 Layer 6b isocortex of ABA 2009
 Layola University Chicago; Illinois; USA
-Lch1 neuron
-Lch3 neuron
 Leaf Position Boundaries
-Leaf/Jaw Positions
 Leakage conductance
 Lectin
 Leflunomide
 Left
-Left Image Sequence
 Left cerebral hemisphere
 Left frontal lobe
 Left occipital lobe
@@ -3033,22 +2279,13 @@ Leiden University; Leiden; Netherlands
 Lemniscus
 Length
 Length (PATO 0000122)
-Les4 neuron
-LesA neuron
-LesB neuron
-LesC neuron
-LesD neuron
-Lesch-Nyhan syndrome
 Lesion
 Lesion Number
-Lethal (sensu genetics)
 Lethargic
 Letrozole
 Letter comparison
 Letter number sequencing
-Leucokinin neuron
 Leukotriene
-Leukotriene C4
 Levator auris longus muscle
 Levobunolol
 Levobupivacaine
@@ -3059,23 +2296,18 @@ Levosimendan
 Library of Congress
 License
 Lidocaine
-Light brown
 Light deep pink
 Light magenta
 Light orange
-Light phase
 Light purple
 Light red
 Light red brown
-Light stimulus transduction
 Light violet
 Light yellow
 Lilac
 Limaciform
-Limb-girdle Muscular Dystrophy
+Limbic lobe
 Lincomycin
-Lingual gyrus
-Lingual papilla
 Lingula
 Lingula (I) of ABA 2009
 Linkoping University; Linkoping; Sweden
@@ -3086,34 +2318,20 @@ Lipoic Acid
 Lipopolysaccharide
 Lipoprotein
 Lisinopril
+Lissauer's tract of spinal cord
 Lissauers tract
 List
 Lisuride
 Lobate
-Lobe of cerebral cortex
-Lobe parts of the cerebellar cortex
 Lobed
-Lobular parts of the cerebellar cortex
-Lobule II of ABA 2009
-Lobule III of ABA 2009
-Lobule IV of ABA 2009
-Lobule V of ABA 2009
 Lobules IV-V of ABA 2009
-Local interneuron of adult antennal lobe
 Localised
 Localization theory
 Locomotion
-Locomotor activity
-Locomotor function
 Loma Linda University; California; USA
 Long Island University; Arnold & Marie Schwartz College of Pharmacy & Health Sciences
 Long Island University; New York; USA
-Long term depression
 Long-term Synaptic Plasticity
-Longitudinal fissure
-Longitudinal pontine fibers
-Longitudinal relaxation time
-Longitudinal study design
 Lookup Table Number
 Loose
 Looseness
@@ -3130,70 +2348,36 @@ Lower thoracic spinal cord
 Loxapine
 Loyola University Chicago; Illinois; USA
 Luer and Fitting
-Lumbar dorsal root ganglion
 Lumbar spinal cord
-Lumbar spinal cord central canal
-Lumbar spinal cord dorsal column
-Lumbar spinal cord dorsal horn
-Lumbar spinal cord gray commissure
-Lumbar spinal cord gray matter
-Lumbar spinal cord lateral column
-Lumbar spinal cord lateral horn
-Lumbar spinal cord ventral column
-Lumbar spinal cord ventral commissure
-Lumbar spinal cord ventral horn
-Lumbar spinal cord white matter
-Lumenal Surface
 Lumenized
 Luminance
 Luminous flux
-Lunate sulcus
 Lund University; Lund; Sweden
 Lutropin alfa
 Lymph
 Lytic vacuole
 MAP kinase
-MAP04001 optic nerve
-MAP04002 oculomotor nerve or its root
 MAP04003 oculomotor nerve (inferior branch)
 MAP04004 third ventricle
 MAP1A
 MDMA
 MR Averages Sequence
-MR FOV/Geometry Sequence
-MR Image Frame Type Sequence
-MR Imaging Modifier Sequence
 MR Metabolite Map Sequence
 MR Modifier Sequence
 MR Spatial Saturation Sequence
+MR Timing and Related Parameters Sequence
+MR Velocity Encoding Sequence
 MRNA
 MTT assay
 Maastricht University; Maastricht; Netherlands
 Macquarie University; Sydney; Australia
 Macromolecule
 Macrophage
-Macrophage derived lectin
 Macula of eye
-Macular degeneration
 Magenta
 Magnesium Sulfate
 Magnesium(2+)
 Magnetism
-Magnocellular basal nucleus
-Magnocellular nucleus of ABA 2009
-Magnocellular nucleus of medial geniculate body
-Magnocellular part of medial dorsal nucleus
-Magnocellular part of red nucleus
-Magnocellular part of ventral anterior nucleus
-Magnocellular preoptic nucleus
-Magnocellular reticular nucleus of ABA 2009
-Maimonides Cancer Center; New York; USA
-Main Axon
-Main olfactory bulb glomerular layer of ABA 2009
-Main olfactory bulb granule layer of ABA 2009
-Main olfactory bulb inner plexiform layer of ABA 2009
-Main olfactory bulb of ABA 2009
-Main olfactory bulb outer plexiform layer of ABA 2009
 Maisonneuve-Rosemont Hospital; Quebec; Canada
 Malathion
 Male
@@ -3205,18 +2389,12 @@ Male semi-fertile
 Male semi-sterile
 Male sterile
 Malformed
-Mammillary body
-Mammillary body of ABA 2009
-Mammillary peduncle
-Mammillary peduncle of PHT00
 Man
 Manipulated Image
 Manual Micromanipulator
 Manufacturer
 Map
 Map reorganization
-Marginal Astrocyte
-Marginal sulcus
 Marimastat
 Maroon
 Marques de Valdecilla University Hospital; Santander; Spain
@@ -3230,29 +2408,26 @@ Mask Sub-pixel Shift
 Mask Subtraction Sequence
 Masking Image
 Mass
-Mass density
-Mass spectrometry assay
-Mass spectrometry instrument
+Matching familiar figures test
+Material entity
+Material separation device
 Mathematical entity
 Mathematical expression
 Mating
 Mating type
+Matrix Registration Sequence
 Matrix Sequence
-Matrix compartment of caudate nucleus
-Matrix part of body of caudate nucleus
-Matrix part of head of caudate nucleus
-Matrix part of tail of caudate nucleus
 Mature
 Mature Insulin Granule
 Mature human
 Mature mouse
 Maturity
-Mauthner cell
+Max Planck Institute for Biological Cybernetics; Tubingen; Germany
+Maximum entropy models
 Mayo Clinic Florida; Florida; USA
 McGill University; Montreal; Canada
 McLean Hospital; Massachusetts; USA
 McMaster University; Ontario; Canada
-Measured Dose Type
 Measured Dose Value
 Measured Value Sequence
 Measurement
@@ -3260,9 +2435,7 @@ Measurement device
 Mebendazole
 Mechanical Index
 Mechanical stimulation
-Mechanical stimulus transduction
 Mechanoreceptor
-Mechanosensory neuron
 Mechanosensory neuron of adult labial sensillum 1
 Mechanosensory neuron of adult labial sensillum 2
 Mechanosensory neuron of adult labial sensillum 3
@@ -3275,114 +2448,44 @@ Mechlorethamine
 Meclofenamic acid
 Media Disposition
 Media Installed Sequence
-Medial accessory olive
 Medial agranular insular area
-Medial basal hypothalamus
-Medial cortex
-Medial corticohypothalamic tract
+Medial amygdala
+Medial amygdalar nucleus anteroventral part of ABA 2009
+Medial amygdalar nucleus posteroventral part of ABA 2009
 Medial dorsal nucleus
-Medial forebrain
-Medial forebrain bundle
-Medial geniculate body
+Medial entorhinal area
 Medial geniculate body lateral nucleus
-Medial geniculate body ovoid nucleus
-Medial geniculate complex dorsal part of ABA 2009
-Medial geniculate complex medial part of ABA 2009
 Medial geniculate complex of ABA 2009
-Medial geniculate complex ventral part of ABA 2009
 Medial group of the dorsal thalamus of ABA 2009
 Medial lemniscus
-Medial lemniscus of medulla
-Medial lemniscus of midbrain
-Medial lemniscus of pons
 Medial longitudinal fasciculus
 Medial longitudinal fasciculus of PHT00
-Medial longitudinal fasciculus of medulla
-Medial longitudinal fasciculus of midbrain
-Medial longitudinal fasciculus of pons
-Medial mammillary nucleus
-Medial mammillary nucleus median part of ABA 2009
-Medial mammillary nucleus of ABA 2009
 Medial mediodorsal nucleus
-Medial medullary lamina
-Medial nucleus of medial geniculate body
-Medial nucleus of stria terminalis
-Medial nucleus of the solitary tract
-Medial nucleus of trapezoid body
-Medial oculomotor nucleus
-Medial olfactory gyrus
-Medial orbital frontal cortex
-Medial orbital gyrus
-Medial orbital sulcus
-Medial parabrachial nucleus
-Medial part of basal amygdaloid nucleus
-Medial part of medial mammillary nucleus
-Medial part of the medial preoptic nucleus
-Medial part of the nucleus of the solitary tract
-Medial part of ventral lateral nucleus
-Medial pes lemniscus
-Medial pontine reticular formation
-Medial precentral sulcus
-Medial prefrontal cortex
-Medial preoptic area of ABA 2009
-Medial preoptic nucleus
-Medial preoptic nucleus central part of ABA 2009
-Medial preoptic nucleus lateral part of ABA 2009
-Medial preoptic nucleus medial part of ABA 2009
-Medial preoptic nucleus of ABA 2009
-Medial preoptic region
-Medial pretectal area of ABA 2009
-Medial pulvinar
-Medial pulvinar nucleus
 Medial septal complex of ABA 2009
-Medial septal nucleus
-Medial septal nucleus of ABA 2009
 Medial septum
-Medial superior colliculus
-Medial superior olivary nucleus
 Medial terminal nucleus of the accessory optic tract of ABA 2009
-Medial thalamus
 Medial to
-Medial ventral tegmental area
-Medial vestibular nucleus
-Medial vestibular nucleus of ABA 2009
-Median eminence
 Median fan-shaped neuron Fm
 Median fan-shaped neuron Fm1
 Median fan-shaped neuron Fm2
 Median fan-shaped neuron Fm3
-Median preoptic nucleus
-Median preoptic nucleus of ABA 2009
 Mediobasal hypothalamus
 Mediodorsal nucleus of thalamus of ABA 2009
 Mediodorsal nucleus of the thalamus central part of ABA 2009
-Mediodorsal nucleus of the thalamus lateral part of ABA 2009
-Mediodorsal nucleus of the thalamus medial part of ABA 2009
 Mediodorsal thalamus
 Medium acidity
 Medroxyprogesterone
 Medulla oblongata
 Medulla of ABA 2009
 Medulla of WHS11
-Medullary anterior horn
 Medullary collateral inhibitory neuron
-Medullary raphe nuclear complex
-Medullary reticular formation
-Medullary reticular nucleus dorsal part of ABA 2009
 Medullary reticular nucleus of ABA 2009
-Medullary reticular nucleus ventral part of ABA 2009
-Medullary white matter
 Mefenamic acid
 Megestrol
-Membrane Pump
-Membrane Surface
-Membrane bound organelle
 Membrane osmometers
 Membrane potential
-Memorial Sloan Kettering Cancer Center; New York; USA
 Memory
 Memory Bit Depth
-Memory process
 Menadione
 Meningioma
 Mental disease
@@ -3395,11 +2498,9 @@ Mercury
 Meropenem
 Mesalazine
 Mescaline
-Mesencephalic nucleus of trigeminal nerve
-Mesencephalic tract of trigeminal nerve
 Mesenchymal stem cell
+Mesial temporal sclerosis
 Mesopallium intermediomediale
-Metabolic Nervous System Disease
 Metal
 Metaraminol
 Meterset Exposure
@@ -3430,52 +2531,33 @@ Microelectrode Beveler
 Microelectrode Holder
 Micromanipulator Stand
 Microscope
-Microsyringe Pump
 Microtome
 Microtubule
 Microtubule (sao1846835077)
-Microtubule Associated Protein
-Microtubule Polarity
 Microubule destabilizing protein
 Mid Slab Position
 Midbrain
 Midbrain of ABA 2009
+Midbrain of CIVM postnatal rat brain atlas
 Midbrain of WHS11
-Midbrain raphe nuclei
-Midbrain raphe nuclei of ABA 2009
-Midbrain reticular formation
-Midbrain reticular nucleus magnocellular part of ABA 2009
-Midbrain reticular nucleus of ABA 2009
-Midbrain reticular nucleus parvicellular part of ABA 2009
-Midbrain tectum
-Midbrain tegmentum
+Midbrain sensory related of ABA 2009
 Midbrain trigeminal nucleus of ABA 2009
 Middle East Biobank
 Middle Eastern Hospital
-Middle adult
-Middle adult human
-Middle adult mouse
-Middle cerebellar peduncle
 Middle ear
 Middle frontal gyrus
-Middle frontal sulcus
-Middle temporal area
-Middle temporal area (Rhesus macaque)
 Middle temporal gyrus
-Middle temporal sulcus
-Midline group of the dorsal thalamus of ABA 2009
 Midline neuron
-Midline nuclear group
 Midodrine
 Mifepristone
 Miglustat
+Mild increased temperature
 Milrinone
 Mimosine
 Minaprine
 Miniature end-plate potential
 Minocycline
 Minoxidil
-Minus To Plus
 Mirtazapine
 Misaligned with
 Miscibility
@@ -3487,21 +2569,11 @@ Mislocalised medially
 Mislocalised posteriorly
 Mislocalised ventrally
 Misrouted
-Mitochondrial Chromosome
 Mitochondrial DNA
-Mitochondrial Lumen
-Mitochondrial Matrix
 Mitochondrial Membrane
-Mitochondrial Membrane Inner
-Mitochondrial Membrane Outer
-Mitochondrial Quality
-Mitochondrial Site
-Mitochondrial Space
 Mitochondrion
 Mitomycin
 Mitoxantrone
-Mixed Synapse
-Mixed sex
 Miyoshi Myopathy
 Mobile
 Mobile app
@@ -3509,23 +2581,15 @@ Mobility
 Modalities in Study
 Modality
 Modality LUT Sequence
-Modality LUT Type
 Model
 Model organism role
 Model-based stereology
+Moderate increased temperature
 Modified Image Date
 Modified Image Time
 Modifying Device Manufacturer
 Molar mass
-Molar volume
-Molecular Motor
-Molecular Quality
 Molecular entity
-Molecular layer of cerebellar cortex
-Molecular layer of dorsal cochlear nucleus
-Molecular system
-Molecule flow stimulus transduction
-Molecule role
 Momentum
 Mometasone
 Monash University; Melbourne; Australia
@@ -3546,17 +2610,7 @@ Morris water maze
 Mosaic trisomy
 Mosaicism
 Motley
-Motor Neuron Disease
 Motor activity
-Motor cortex
-Motor map
-Motor neuron (FBbt Term)
-Motor nucleus of trigeminal nerve
-Motor nucleus of trigeminal of ABA 2009
-Motor role of nerve cell
-Motor root of trigeminal nerve
-Motor system
-Motor system function
 Motorized Micromanipulator
 Mount Allison University; New Brunswick; Canada
 Mount Sinai Hospital; Ontario; Canada
@@ -3565,15 +2619,13 @@ Movement quality
 Moving image
 Mucoid
 Multi-Coil Definition Sequence
-Multi-cellular organismal disposition
 Multi-colored
 Multi-localised
 Multi-planar Excitation
 Multicellular
-Multidendritic neuron
 Multinucleate
 Multiple Copies Flag
-Multiple System Atrophy
+Multiplex Group Label
 Multiplex Group Time Offset
 Multipotent
 Murdoch University; Perth; Australia
@@ -3581,8 +2633,8 @@ Muscle Cell
 Muscle Testers
 Muscle organ
 Muscle spindle
-Muscular Disease
-Muscular Dystrophy
+Mushroom body pedunculus-medial lobe and vertical lobe arborizing neuron 1
+Mushroom body pedunculus-medial lobe and vertical lobe arborizing neuron 2
 Music comprehension-production
 Mustela putorius furo
 Mustelidae
@@ -3592,11 +2644,9 @@ Mycophenolic acid
 Myobath Tissue Bath
 Myongji University; Gyeonggi-do; South Korea
 Myosin
-Myotonic Dystrophy
 N-Acetyl-D-glucosamine
 N-acylglucosamine 2-epimerase
 N6-(2(3,5-dimethoxyphenyl)-2-(2-methylphenyl)ethyl)-adenosine
-NHLBI Division of Lung Diseases
 NMDAR2A
 NMDAR2B
 NMDAR2D
@@ -3607,6 +2657,9 @@ Nalbuphine
 Nalidixic Acid
 Naloxone
 Naltrexone
+Names of Intended Recipients of Results
+Naming (Overt)
+Naming service
 Nandrolone
 Nantes University Hospital; Nantes; France
 Nanyang Technological University; Singapore; Singapore
@@ -3618,48 +2671,26 @@ Necrotic
 Nedocromil
 Needle and Holder
 Nefazodone
-Negative control role
 Negative result
 Neomycin
 Neoplasm disposition
 Neostigmine
-Neotenous growth
 Nernst Equation
-Nerve Sheath Neoplasms
-Nerve cell structural model
 Nerve conduction
-Nerve root part of cervical spinal cord
-Nerve root part of lumbar spinal cord
-Nerve root part of sacral spinal cord
-Nerve root part of thoracic spinal cord
 Nerve tract
 Nervous system
-Nervous system cell
-Nervous system disease
-Nervous system function
 Nestin
 Netherlands Ministry of Economic Affairs
 Netilmicin
 Netrin
 Netted
-Network analysis software
-Network interaction model
 Networks of Centres of Excellence of Canada
-Neural Cell Adhesion Molecule
-Neural Stem Cell
 Neural system
 Neuraxis
-Neuraxis cavity
-NeuroElectro Term
-Neurodevelopmental disease
-Neuroendocrine motor cell role
 Neurohypophysis
 Neuroligin-3
 Neuron
-Neuron Process
 Neuron of aristal sensillum
-Neuron specific marker
-Neuronal Cell Body
 Neuronal acetylcholine receptor subunit alpha-1
 Neuronal acetylcholine receptor subunit alpha-10
 Neuronal acetylcholine receptor subunit alpha-2
@@ -3676,12 +2707,10 @@ Neuronal nuclear antigen
 Neuropathy
 Neurotoxin
 Neurotransmitter
-Neurotransmitter Receptor
 Neurotransmitter secretion
 Neurotrophin
 Neurula dog
 Neurula human
-Neurula mouse
 New York University; New York; USA
 Newcastle University; Newcastle upon Tyne; United Kingdom
 Newton-Wellesley Hospital; Massachusetts; USA
@@ -3689,109 +2718,62 @@ Nickel
 Nifedipine
 Nihon University; Tokyo; Japan
 Nilutamide
-Ninth thoracic dorsal root ganglion
-Ninth thoracic spinal cord segment
 Nitisinone
 Nitric Oxide
 Nitric Oxide Sensor
-Nitric oxide synthase
-Nitric oxide synthase brain
 Nitrofurantoin
 Nitroglycerin
 Nitroprusside
-Nitrous oxide
-No change in expression
-Nociceptive role of nerve cell
-Nodal Complex
 Nodular
 Nodulus
 Nodulus (X) of ABA 2009
 Noise Sensitivity
-Nominal Beam Energy
 Nominal Interval
 Nominal Prior Dose
+Non-DICOM Output Code Sequence
 Non-commercial
 Non-contractile
 Non-deciduous (any body part)
 Non-functional
-Non-gated channel
 Non-glutinous
 Non-ictal
 Non-magnetic
-Non-membrane bound organelle
+Non-painful electrical stimulation
 Non-painful thermal stimulation
 Non-progressive
-Nondeclarative memory
-Nonprofit Organization
 Nonsynaptic conduction
 Norethindrone
 Norgestimate
 Norgestrel
 Northeast Forest University; Harbin; China
 Northeastern University; Massachusetts; USA
+Northern Antibiotics
 Northwestern University; Illinois; USA
 Nortriptyline
 Notched
 Novelty suppressed feeding test.
 Novo Nordisk
 Novobiocin
-Nuclear Body
-Nuclear DNA
-Nuclear Lamina
 Nuclear envelope
-Nuclear inner membrane
 Nuclear membrane
-Nuclear outer membrane
 Nuclear pore
 Nucleate quality
-Nuclei of the diagonal band
-Nuclei of the lateral lemniscus
 Nuclei of the thalamus
 Nucleic Acid
 Nucleic acid extraction
-Nucleic acid sequencing instrument
 Nucleolus
 Nucleoside
 Nucleotide
 Nucleus
-Nucleus Quality
 Nucleus centrobasalis
 Nucleus circularis of ABA 2009
 Nucleus incertus
 Nucleus incertus of ABA 2009
 Nucleus of Roller of ABA 2009
-Nucleus of anterior commissure
-Nucleus of diagonal band
 Nucleus of field H of Forel
-Nucleus of lateral olfactory tract
-Nucleus of medial eminence
-Nucleus of optic tract
-Nucleus of posterior commissure
-Nucleus of pretectal area
 Nucleus of reunions of ABA 2009
-Nucleus of the lateral lemniscus dorsal part of ABA 2009
-Nucleus of the lateral lemniscus horizontal part of ABA 2009
-Nucleus of the lateral lemniscus of ABA 2009
-Nucleus of the lateral lemniscus ventral part of ABA 2009
-Nucleus of the lateral olfactory tract layer 3 of ABA 2009
-Nucleus of the lateral olfactory tract layers 1-3 of ABA 2009
-Nucleus of the lateral olfactory tract molecular layer of ABA 2009
-Nucleus of the lateral olfactory tract of ABA 2009
-Nucleus of the lateral olfactory tract pyramidal layer of ABA 2009
-Nucleus of the optic tract of ABA 2009
-Nucleus of the posterior commissure of ABA 2009
-Nucleus of the solitary tract central part of ABA 2009
-Nucleus of the solitary tract gelatinous part of ABA 2009
-Nucleus of the solitary tract lateral part of ABA 2009
-Nucleus of the solitary tract medial part of ABA 2009
-Nucleus of the solitary tract of ABA 2009
-Nucleus of the stria terminalis
-Nucleus of the trapezoid body of ABA 2009
 Nucleus proprius
-Nucleus raphe magnus
-Nucleus raphe magnus of ABA 2009
-Nucleus raphe pallidus
-Nucleus raphe pallidus of ABA 2009
+Nucleus raphe pontis of ABA 2009
 Nucleus retroambigualis
 Nucleus rotundus of thalamus
 Nucleus sagulum of ABA 2009
@@ -3808,18 +2790,15 @@ Number of Frames
 Number of Frames in Overlay
 Number of Frames in Phase
 Number of Frames in Rotation
-Number of Leaf/Jaw Pairs
-Number of Phases
 Number of Pulses
 Number of R-R Intervals
 Number of Rotations
 Number of Stages
+Number of Study Related Instances
 Number of Table Entries
 Number of Temporal Positions
-Number of Time Slots
 Number of Triggers in Phase
 Number of Waveform Channels
-Number of Waveform Samples
 Number of Wedges
 Number of Zero fills
 ODC Attribution License
@@ -3827,31 +2806,21 @@ Obese
 Obex
 Object
 Object boundary
-Objective specification
 Oblate
 Oblique
 Oblong
 Obovate
+Observation Date Time
 Obstructed
 Obtuse
 Obtuse angle
-Occipital cortex
-Occipital cortex of human
-Occipital gyrus
 Occipital lobe
-Occipital pole
 Occurrence quality
 Occurrent
 Ocellus retinula cell
 Ochre
-Octopaminergic neuron
 Octreotide
 Oculocutaneous albinism
-Oculomotor delayed response
-Oculomotor function
-Oculomotor nerve fibers
-Oculomotor nuclear complex
-Oculomotor nucleus motor neuron
 Oculomotor nucleus of ABA 2009
 Oculomotor system
 Odor
@@ -3860,127 +2829,67 @@ Odorous
 Ohio University; Ohio; USA
 Ohms law
 Olanzapine
-Olfactory bulb
-Olfactory bulb (accessory) external plexiform layer
-Olfactory bulb (accessory) glomerular layer cell
-Olfactory bulb (accessory) granule cell
-Olfactory bulb (accessory) granule cell layer
-Olfactory bulb (accessory) mitral cell
-Olfactory bulb (accessory) mitral cell body layer
-Olfactory bulb (main) granule cell
-Olfactory bulb (main) internal plexiform layer
-Olfactory bulb (main) internal plexiform layer outer part
-Olfactory bulb (main) mitral cell
-Olfactory bulb accessory nucleus
-Olfactory bulb main external plexiform layer
-Olfactory bulb main glomerular layer
-Olfactory bulb main granule cell layer
-Olfactory bulb main mitral cell body layer
-Olfactory bulb main olfactory nerve layer
-Olfactory bulb of ABA 2009
-Olfactory bulb of WHS11
-Olfactory cortex
-Olfactory cortex deep pyramidal cell
-Olfactory cortex horizontal cell
-Olfactory cortex layer 1
-Olfactory cortex layer 1a
-Olfactory cortex layer 2
-Olfactory cortex layer 3
-Olfactory cortex superficial pyramidal cell
-Olfactory epithelium main sensory cell
+Olfactory Structures of CIVM postnatal rat brain atlas
 Olfactory modality
 Olfactory monitor-discrimination
 Olfactory peduncle
-Olfactory receptor neuron (FBbt Term)
-Olfactory receptor neuron of dorsal organ
-Olfactory stimulus transduction
-Olfactory sulcus
-Olfactory system
-Olfactory system function
-Olfactory trigone
-Olfactory tubercle
-Olfactory tubercle layers 1-3 of ABA 2009
-Olfactory tubercle molecular layer of ABA 2009
-Olfactory tubercle of ABA 2009
-Olfactory tubercle polymorph layer of ABA 2009
-Olfactory tubercle pyramidal layer of ABA 2009
 Oligopotent
-Olivary pretectal nucleus
-Olivary pretectal nucleus of ABA 2009
 Olmesartan
 Omeprazole
 One dimensional region
-Ongur, Price, and Ferry (2003) area 9
-Ongur, Price, and Ferry (2003) area G
-Ontario Ministry of Agriculture Food and Rural Affairs
-Ontario Ministry of Economic Development Employment and Infrastructure
+Onuf's nucleus
 Opacity
 Opaque
 Open
 Open Data Commons License
 Open University; Milton Keynes; United Kingdom
 Open field test
-Opercular part of inferior frontal gyrus
+Open unspecified license
+Operators Name
 Opposite
 Oprelvekin
-Optic chiasm
+Optic Pathways of CIVM postnatal rat brain atlas
 Optic lobe neuron
-Optic recess of third ventricle
 Optic tract
 Optic tract of WHS11
-Oral part of spinal trigeminal nucleus
-Oral part of ventral lateral nucleus
-Oral part of ventral posterolateral nucleus
-Oral pontine reticular nucleus
-Oral pulvinar nucleus
+Optical quality
 Orange
 Orbicular
 Orbital area lateral part layer 1 of ABA 2009
+Orbital area lateral part layer 2-3 of ABA 2009
 Orbital area lateral part layer 5 of ABA 2009
 Orbital area lateral part layer 6a of ABA 2009
 Orbital area lateral part layer 6b of ABA 2009
 Orbital area lateral part of ABA 2009
 Orbital area layer 1 of ABA 2009
-Orbital area layer 2/3 of ABA 2009
 Orbital area layer 5 of ABA 2009
 Orbital area layer 6a of ABA 2009
 Orbital area layer 6b of ABA 2009
 Orbital area medial part layer 1 of ABA 2009
 Orbital area medial part layer 2 of ABA 2009
-Orbital area medial part layer 2/3 of ABA 2009
 Orbital area medial part layer 5 of ABA 2009
 Orbital area medial part layer 6a of ABA 2009
 Orbital area medial part of ABA 2009
 Orbital area of ABA 2009
 Orbital area ventral part of ABA 2009
 Orbital area ventrolateral part layer 1 of ABA 2009
-Orbital area ventrolateral part layer 2/3 of ABA 2009
 Orbital area ventrolateral part layer 5 of ABA 2009
 Orbital area ventrolateral part layer 6a of ABA 2009
 Orbital area ventrolateral part layer 6b of ABA 2009
 Orbital area ventrolateral part of ABA 2009
-Orbital frontal cortex
-Orbital gyri complex
-Orbital operculum
-Orbital part of inferior frontal gyrus
-Orbital sulcus
 Organ
 Organ Dose
 Organ Exposed
 Organ at Risk Full-volume Dose
-Organ cavity
 Organelle
 Organism
 Organism role
-Organism-related portal
 Organismal quality
 Organization
-Organization portal
 Organized
 Oriented
 Original Image Identification
 Original Image Identification Nomenclature
-Original Image Sequence
 Original Specialized SOP Class UID
 Originator
 Ornithorhynchus anatinus
@@ -3994,13 +2903,10 @@ OspA lipoprotein
 Ossified
 Osteoglossomorpha
 Other Magnification Types Available
-Other Media Available Sequence
 Other Smoothing Types Available
 Other Study Numbers
 Otto-von-Guericke University Magdeburg; Saxony-Anhalt; Germany
 Ouabain
-Outer ear
-Outer granular layer of cerebellar cortex
 Output Information Sequence
 Output Power
 Ovate
@@ -4022,13 +2928,9 @@ Overlay Plane Origin
 Overlay Planes
 Overlay Rows
 Overlay Subtype
-Overlay Time
-Overlay Type
 Overlays - Gray
-Overlays - Red
 Override Parameter Pointer
 Override Sequence
-Oversampling Phase
 Oxacillin
 Oxaliplatin
 Oxandrolone
@@ -4048,95 +2950,51 @@ P2x7
 PCT
 PH Sensor
 PHF-tau
-PROV term
 PVC Rejection
-Pacemaker neuron
 Paclitaxel
-Paedomorphic growth
+Pain disorder
 Palate
 Pale pink
 Paleocortex
 Paleopolyploid
 Palette Color Lookup Table UID
+Pallidum caudal region of ABA 2009
+Pallidum dorsal region of ABA 2009
+Pallidum medial region of ABA 2009
+Pallidum of CIVM postnatal rat brain atlas
 Pallium
-Pancreatic polypeptide
+Pallium of CIVM postnatal rat brain atlas
 Pantoprazole
 Papaverine
 Parabrachial nucleus
-Parabrachial nucleus lateral division central lateral part of ABA 2009
-Parabrachial nucleus lateral division dorsal lateral part of ABA 2009
-Parabrachial nucleus lateral division external lateral part of ABA 2009
 Parabrachial nucleus lateral division of ABA 2009
-Parabrachial nucleus lateral division superior lateral part of ABA 2009
-Parabrachial nucleus lateral division ventral lateral part of ABA 2009
-Parabrachial nucleus medial division external medial part of ABA 2009
-Parabrachial nucleus medial division medial medial part of ABA 2009
-Parabrachial nucleus medial division of ABA 2009
-Parabrachial nucleus medial division ventral medial part of ABA 2009
 Parabrachial nucleus of ABA 2009
-Parabrachial pigmented nucleus
-Parabrachial pigmented nucleus of PHT00
-Paracentral nucleus
-Paracentral nucleus of ABA 2009
-Paracentral sulcus
 Paraflocculus of ABA 2009
 Paragigantocellular reticular nucleus dorsal part of ABA 2009
 Paragigantocellular reticular nucleus lateral part of ABA 2009
 Paragigantocellular reticular nucleus of ABA 2009
 Parahippocampal area
 Parahippocampal cortex of RHA11
-Parahippocampal gyrus
+Parallel Reduction Factor In-plane
+Parallel Reduction Factor Second In-plane
+Parallel Reduction Factor out-of-plane
 Parallelodromous
 Paralysed
 Paramedian lobule of ABA 2009
-Paramedian reticular nucleus
-Paramedian reticular nucleus of ABA 2009
-Paramedian reticular nucleus of PHT00
 Parameter Fitting
 Parameter sensitivity
 Paramethasone
 Parapyramidal nucleus deep part of ABA 2009
 Parapyramidal nucleus of ABA 2009
-Parapyramidal nucleus superficial part of ABA 2009
 Parastrial nucleus of ABA 2009
 Parasubthalamic nucleus of ABA 2009
-Parasympathetic Nervous System Disease
-Parasympathetic nervous system function
 Parataenial nucleus of ABA 2009
-Parathyroid hormone
-Paraventricular hypothalamic nucleus descending division dorsal parvicellular part of ABA 2009
-Paraventricular hypothalamic nucleus descending division lateral parvicellular part of ABA 2009
-Paraventricular hypothalamic nucleus descending division medial parvicellular part ventral zone of ABA 2009
-Paraventricular hypothalamic nucleus descending division of ABA 2009
-Paraventricular hypothalamic nucleus magnocellular division anterior magnocellular part of ABA 2009
-Paraventricular hypothalamic nucleus magnocellular division medial magnocellular part of ABA 2009
-Paraventricular hypothalamic nucleus magnocellular division of ABA 2009
-Paraventricular hypothalamic nucleus magnocellular division posterior magnocellular part of ABA 2009
 Paraventricular hypothalamic nucleus of ABA 2009
-Paraventricular hypothalamic nucleus parvicellular division anterior parvicellular part of ABA 2009
-Paraventricular hypothalamic nucleus parvicellular division medial parvicellular part dorsal zone of ABA 2009
-Paraventricular hypothalamic nucleus parvicellular division of ABA 2009
-Paraventricular hypothalamic nucleus parvicellular division periventricular part of ABA 2009
 Paraventricular hypothalamic region
 Paraventricular nucleus of hypothalamus
-Paraventricular nucleus of thalamus
-Paraventricular nucleus of the hypothalamus descending division
-Paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part
-Paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone
-Paraventricular nucleus of the hypothalamus magnocellular division
-Paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part
-Paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part
-Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part
-Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part lateral zone
-Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part medial zone
-Paraventricular nucleus of the hypothalamus parvicellular division
-Paraventricular nucleus of the thalamus of ABA 2009
 Parencephalon
-Parental behavior
 Paricalcitol
-Parietal cortex
 Parietal lobe
-Parietal operculum
 Paris Diderot University; Paris; France
 Paris-Sud University; Paris; France
 Paromomycin
@@ -4148,26 +3006,21 @@ Partially dislocated
 Partially paralysed
 Participant
 Participant Group
-Parvicellular part of medial dorsal nucleus
-Parvicellular part of ventral anterior nucleus
-Parvicellular part of ventral posteromedial nucleus
 Parvicellular reticular nucleus of ABA 2009
 Pass band
 Passive
 Patchy
 Pathway
-Pathway model
+Patient Additional Position
+Patient Orientation Modifier Code Sequence
+Patient Position
+Patient role
+Patients Primary Language Code Modifier Sequence
+Patients Religious Preference
 Pattern
 Pattern Recognition
 Pattern comparison
-Paul Sabatier University - Toulouse III; Toulouse; France
 Pause Between Frames
-Pb-eb-eb neuron
-Pb-eb-no neuron
-Pb-fb-eb neuron
-Pb-fb-fb neuron
-Pb-no neuron
-Pdf neuron
 Pdf neuron of abdominal neuromere
 Pedicellate
 Pefloxacin
@@ -4182,10 +3035,12 @@ Pentaploid
 Pentazocine
 Pentobarbital
 Peptide
-Peramorphic growth
-Percent Sampling
 Perceptual Categories
 Perfoliate
+Performed Station AE Title
+Performed Station Class Code Sequence
+Performed Station Geographic Location Code Sequence
+Performed Station Name
 Performing Physician Identification Sequence
 Perhexiline
 Periaqueductal gray
@@ -4194,18 +3049,13 @@ Perihypoglossal nuclei of ABA 2009
 Perimeter
 Perindopril
 Period
-Peripapillary glial cell
 Peripheral
-Peripheral Astrocyte Process
 Peripheral nervous system
-Peripheral retinal degeneration
-Peripherally synapsing interneuron
 Perireunensis nucleus of ABA 2009
-Peristaltic Pump
-Periventricular hypothalamic nucleus anterior part of ABA 2009
-Periventricular hypothalamic nucleus intermediate part of ABA 2009
-Periventricular hypothalamic nucleus posterior part of ABA 2009
-Periventricular hypothalamic nucleus preoptic part of ABA 2009
+Perirhinal area layer 1 of ABA 2009
+Perirhinal area layer 5 of ABA 2009
+Perirhinal area layer 6a of ABA 2009
+Perirhinal area layer 6b of ABA 2009
 Periventricular region of ABA 2009
 Periventricular zone of ABA 2009
 Permeability
@@ -4215,21 +3065,18 @@ Peroxisome
 Perphenazine
 Persistence
 Person
+Person Identification Code Sequence
+Person's Address
+Person's Telephone Numbers
 Persons Address
 Persons Telephone Numbers
-Pertinent Other Evidence Sequence
-Peter MacCallum Cancer Centre; Victoria; Australia
 Pharmacological role
 Phase
-Phase Delay
-Phase Information Sequence
 Phase Number
 Phase shift
 Phaseolus vulgaris leucoagglutinin
-Phelan-McDermid Syndrome
 Phenobarbital
 Phenotypic abnormality
-Phenotypic sex
 Phenprocoumon
 Phentermine
 Phenylalanine-4-hydroxylase
@@ -4240,36 +3087,35 @@ Philipps-University Marburg; Marburg; Germany
 Phosphatidylserine
 Phospholipid
 Phosphorescence
-Phosphorus, white
-Phosphorylated Molecular Quality
 Photoactivated localization microscopy
 Photograph
 Photoinsensitive
 Photometric Interpretation
-Photoreceptor cell (FBbt Term)
-Photoreceptor cell of Bolwig organ
 Photoreceptor role
 Photosensitive
 Photosensitivity
 Phototimer Setting
 Phototoxic
 Phrenic nucleus
+Physical Delta Y
+Physical artifact collection
+Physical object
+Physical object quality
+Physical quality
+Physical quality of a process
 Physician Approving Interpretation
+Physicians of Record Identification Sequence
+Physiological role
 Physiology
 Physiology Instrument
 Physostigmine
 Phytonadione
 Picture set test
 Pigment
-Pigment Epithelial Cell
 Pilocarpine
 Pilosity
 Pimozide
 Pindolol
-Pineal body
-Pineal body of ABA 2009
-Pineal gland of PHT00
-Pineal gland of WHS11
 Pinealocyte
 Pink
 Pinnate
@@ -4279,28 +3125,28 @@ Piperacillin
 Piperazine
 Pipette
 Pirenzepine
+Piriform area of ABA 2009
 Piriform-amygdalar area layers 1-3 of ABA 2009
-Piriform-amygdalar area molecular layer of ABA 2009
 Piriform-amygdalar area of ABA 2009
 Piriform-amygdalar area polymorph layer of ABA 2009
-Piriform-amygdalar area pyramidal layer of ABA 2009
 Piroxicam
 Pitch monitor-discrimination
-Pituitary Adenylate Cyclase activating polypeptide
+Pituitary of CIVM postnatal rat brain atlas
 Pivampicillin
 Pivmecillinam
+Pixel Aspect Ratio
+Pixel Component Range Start
+Pixel Intensity Relationship
+Pixel Intensity Relationship Sign
+Pixel Padding Value
+Place preference paradigm
 Plane Position Sequence
 Planes
-Plantar Test/Tail Flick Meter
 Plasma
 Plasma membrane
-Plasmalemmal precursor vesicle
 Plasmid purification
-Platelet Derived Growth Factor
 Ploidy
 Pluripotent
-Plus To Minus
-Pneumatic Pump
 Podofilox
 Pogonophora group
 Pointleted
@@ -4319,16 +3165,9 @@ Pondicherry University; Puducherry; India
 Pons
 Pons of ABA 2009
 Pons of WHS11
+Pons sensory related of ABA 2009
 Pontifical Catholic University of Argentina; Buenos Aires; Argentina
-Pontine central gray of ABA 2009
-Pontine gray of ABA 2009
-Pontine nuclear complex
-Pontine raphe nucleus
-Pontine reticular formation
-Pontine reticular nucleus caudal part of ABA 2009
-Pontine reticular nucleus of ABA 2009
-Pontine reticular nucleus ventral part of ABA 2009
-Pontine tegmentum
+Population spike
 Porosity
 Porous
 Portal
@@ -4339,72 +3178,40 @@ Positioner Primary Angle
 Positioner Primary Angle Increment
 Positioner Secondary Angle
 Positioner Secondary Angle Increment
-Positioner Type
-Positive and negative affect scale
 Postcentral gyrus
-Postcentral sulcus
-Postdisplaced growth
-Posterior ascending limb of lateral sulcus
 Posterior auditory area layer 1 of ABA 2009
-Posterior auditory area layer 2/3 of ABA 2009
 Posterior auditory area layer 4 of ABA 2009
 Posterior auditory area layer 5 of ABA 2009
 Posterior auditory area layer 6a of ABA 2009
 Posterior auditory area layer 6b of ABA 2009
 Posterior auditory area of ABA 2009
-Posterior calcarine sulcus
-Posterior cingulate cortex
-Posterior cingulate gyrus
-Posterior column of fornix
 Posterior commissure
 Posterior complex of the thalamus of ABA 2009
-Posterior cortex
 Posterior cricoarytenoid muscle
+Posterior fascicle sensory neuron
 Posterior funiculus
-Posterior horn lateral ventricle
-Posterior hypothalamic nucleus of ABA 2009
-Posterior hypothalamic region
-Posterior limb of internal capsule
 Posterior lobe of the cerebellum
-Posterior median eminence
-Posterior median sulcus
-Posterior middle temporal sulcus
-Posterior middle temporal sulcus of PHT00
-Posterior nuclear complex
-Posterior nucleus of hypothalamus
-Posterior nucleus of thalamus
-Posterior orbital gyrus
-Posterior parahippocampal gyrus
 Posterior parietal association areas layer 1 of ABA 2009
-Posterior parietal association areas layer 2/3 of ABA 2009
 Posterior parietal association areas layer 4 of ABA 2009
 Posterior parietal association areas layer 5 of ABA 2009
 Posterior parietal association areas layer 6a of ABA 2009
 Posterior parietal association areas layer 6b of ABA 2009
 Posterior parietal association areas of ABA 2009
-Posterior part of anterior commissure
-Posterior periventricular nucleus
-Posterior pirifirom cortex
 Posterior pretectal nucleus of ABA 2009
-Posterior superior fIssure
-Posterior superior frontal sulcus
+Posterior spinocerebellar tract
 Posterior superior temporal gyrus
 Posterior thalamic region
 Posterior thalamus
 Posterior to
-Posterior transverse temporal gyrus
 Posterioralized
 Posteriorly rotated
-Posterolateral fissure
 Posterolateral visual area layer 1 of ABA 2009
-Posterolateral visual area layer 2/3 of ABA 2009
 Posterolateral visual area layer 4 of ABA 2009
 Posterolateral visual area layer 5 of ABA 2009
 Posterolateral visual area layer 6a of ABA 2009
 Posterolateral visual area layer 6b of ABA 2009
 Posterolateral visual area of ABA 2009
 Posteromedial visual area layer 1 of ABA 2009
-Posteromedial visual area layer 2/3 of ABA 2009
 Posteromedial visual area layer 4 of ABA 2009
 Posteromedial visual area layer 5 of ABA 2009
 Posteromedial visual area layer 6a of ABA 2009
@@ -4413,11 +3220,11 @@ Posteromedial visual area of ABA 2009
 Postpiriform transition area layers 1 of ABA 2009
 Postpiriform transition area layers 1-3 of ABA 2009
 Postpiriform transition area layers 2 of ABA 2009
-Postpiriform transition area layers 3 of ABA 2009
 Postpiriform transition area of ABA 2009
 Postprocessing Function
 Postsubiculum
 Postsubiculum of ABA 2009
+Postsynaptic inhibition
 Potassium Channel
 Potassium Chloride
 Power
@@ -4426,30 +3233,21 @@ Pramipexole
 Praziquantel
 Prazosin
 PreBotzinger complex
-PreBotzinger complex neuron
-Precentral fissure
 Precentral gyrus
-Precentral operculum
-Precentral sulcus
 Precerebellar nucleus
 Precursor
 Precursor Cell
-Predisplaced growth
 Prednisolone
 Prednisone
 Preference
-Prefrontal cortex
 Prelimbic area layer 1 of ABA 2009
 Prelimbic area layer 2 of ABA 2009
-Prelimbic area layer 2/3 of ABA 2009
 Prelimbic area layer 5 of ABA 2009
 Prelimbic area layer 6a of ABA 2009
 Prelimbic area layer 6b of ABA 2009
 Prelimbic area of ABA 2009
 Premature
 Premotor cortex
-Preoptic area
-Preoptic periventricular nucleus
 Preparasubthalamic nucleus of ABA 2009
 Prepubescent
 Prepubescent human
@@ -4461,38 +3259,28 @@ Present in organism
 Presentation Creation Date
 Presentation Creation Time
 Presentation Intent Type
-Presentation LUT Content Sequence
 Presentation LUT Flag
 Presentation LUT Sequence
+Presentation LUT Shape
 Presentation Size Mode
 Pressure
-Pressure stimulus transduction
 Prestin
-Pretectal region of ABA 2009
+Presynaptic inhibition
 Pretectum
+Primary Anatomic Structure Modifier Sequence
 Primary auditory area layer 1 of ABA 2009
-Primary auditory area layer 2/3 of ABA 2009
 Primary auditory area layer 4 of ABA 2009
 Primary auditory area layer 5 of ABA 2009
 Primary auditory area layer 6a of ABA 2009
 Primary auditory area layer 6b of ABA 2009
 Primary auditory area of ABA 2009
-Primary fissure
 Primary motor area Layer 1 of ABA 2009
-Primary motor area Layer 2/3 of ABA 2009
 Primary motor area Layer 5 of ABA 2009
 Primary motor area Layer 6a of ABA 2009
 Primary motor area Layer 6b of ABA 2009
 Primary motor area of ABA 2009
-Primary motor cortex
-Primary motor cortex layer 1
-Primary motor cortex layer 5
-Primary motor cortex layer 6
-Primary olfactory cortex
 Primary somatosensory area barrel field layer 1
 Primary somatosensory area barrel field layer 1 of ABA 2009
-Primary somatosensory area barrel field layer 2/3
-Primary somatosensory area barrel field layer 2/3 of ABA 2009
 Primary somatosensory area barrel field layer 4
 Primary somatosensory area barrel field layer 4 of ABA 2009
 Primary somatosensory area barrel field layer 5
@@ -4503,27 +3291,23 @@ Primary somatosensory area barrel field layer 6b
 Primary somatosensory area barrel field layer 6b of ABA 2009
 Primary somatosensory area barrel field of ABA 2009
 Primary somatosensory area layer 1 of ABA 2009
-Primary somatosensory area layer 2/3 of ABA 2009
 Primary somatosensory area layer 4 of ABA 2009
 Primary somatosensory area layer 5 of ABA 2009
 Primary somatosensory area layer 6a of ABA 2009
 Primary somatosensory area layer 6b of ABA 2009
 Primary somatosensory area lower limb layer 1 of ABA 2009
-Primary somatosensory area lower limb layer 2/3 of ABA 2009
 Primary somatosensory area lower limb layer 4 of ABA 2009
 Primary somatosensory area lower limb layer 5 of ABA 2009
 Primary somatosensory area lower limb layer 6a of ABA 2009
 Primary somatosensory area lower limb layer 6b of ABA 2009
 Primary somatosensory area lower limb of ABA 2009
 Primary somatosensory area mouth layer 1 of ABA 2009
-Primary somatosensory area mouth layer 2/3 of ABA 2009
 Primary somatosensory area mouth layer 4 of ABA 2009
 Primary somatosensory area mouth layer 5 of ABA 2009
 Primary somatosensory area mouth layer 6a of ABA 2009
 Primary somatosensory area mouth layer 6b of ABA 2009
 Primary somatosensory area mouth of ABA 2009
 Primary somatosensory area nose layer 1 of ABA 2009
-Primary somatosensory area nose layer 2/3 of ABA 2009
 Primary somatosensory area nose layer 4 of ABA 2009
 Primary somatosensory area nose layer 5 of ABA 2009
 Primary somatosensory area nose layer 6a of ABA 2009
@@ -4531,23 +3315,18 @@ Primary somatosensory area nose layer 6b of ABA 2009
 Primary somatosensory area nose of ABA 2009
 Primary somatosensory area of ABA 2009
 Primary somatosensory area trunk layer 1 of ABA 2009
-Primary somatosensory area trunk layer 2/3 of ABA 2009
 Primary somatosensory area trunk layer 4 of ABA 2009
 Primary somatosensory area trunk layer 5 of ABA 2009
 Primary somatosensory area trunk layer 6a of ABA 2009
 Primary somatosensory area trunk layer 6b of ABA 2009
 Primary somatosensory area trunk of ABA 2009
 Primary somatosensory area upper limb layer 1 of ABA 2009
-Primary somatosensory area upper limb layer 2/3 of ABA 2009
 Primary somatosensory area upper limb layer 4 of ABA 2009
 Primary somatosensory area upper limb layer 5 of ABA 2009
 Primary somatosensory area upper limb layer 6a of ABA 2009
 Primary somatosensory area upper limb layer 6b of ABA 2009
 Primary somatosensory area upper limb of ABA 2009
-Primary somatosensory cortex
-Primary somatosensory cortex lamina VI
 Primary visual area layer 1 of ABA 2009
-Primary visual area layer 2/3 of ABA 2009
 Primary visual area layer 4 of ABA 2009
 Primary visual area layer 5 of ABA 2009
 Primary visual area layer 6a of ABA 2009
@@ -4556,33 +3335,22 @@ Primary visual area of ABA 2009
 Primer design
 Primidone
 Princeton University; New Jersey; USA
-Principal anterior division of supraoptic nucleus
-Principal neuron role
-Principal olivary nucleus
-Principal part of ventral posteromedial nucleus
-Principal pretectal nucleus
-Principal sensory nucleus of the trigeminal of ABA 2009
-Principal sensory nucleus of trigeminal nerve
-Principal sulcus
 Printing Bit Depth
 Probe
 Procainamide
 Procaine
 Process
-Process boundary
 Process quality
 Processing Function
 Processual context
 Processual entity
 Prochlorperazine
 Procyclidine
-Profile specification
-Progenetic growth
 Progesterone
+Project role
 Projection
 Projection from Caudomedial Nidopallium to Caudomedial Mesopallium
 Projection neuron (FBbt Term)
-Projection role of nerve cell
 Prolate
 Proliferative
 Promazine
@@ -4595,25 +3363,24 @@ Proportionality to
 Propoxyphene
 Propranolol
 Propylthiouracil
-Prostaglandin lipid
 Prostrate
 Prostriate area
 Protease
 Proteasome
 Protein
-Protein folding model
-Protein specific probe
+Protein affinity reagent target
 Proteoglycan
 Proteomics
 Prothoracic gland innervating neuron
+Protocerebral bridge lateral neuron PBl
+Protocol Context Sequence
 Prototheria
 Prototrophic
 Protriptyline
 Protruding
 Protruding into
 Protruding out of
-Providence St. Mary Regional Cancer Center; Washington; USA
-Proximal End
+Provincia Lombardo Veneta - Ordine Ospedaliero di San Giovanni di Dio - Fatebenefratelli; Milan; Italy
 Proximal to
 Pseudoephedrine
 Pseudohermaphrodite
@@ -4623,7 +3390,6 @@ Pubescent dog
 Pubescent ferret
 Pubescent hair
 Pubescent human
-Pubescent mouse
 Pulse Repetition Frequency
 Pulse Repetition Interval
 Pulvinar
@@ -4638,41 +3404,34 @@ Pupal DN2 period neuron
 Pupal DN3 period neuron
 Pupal LN period neuron
 Pupal Pdf negative s-LNv neuron
-Pupal Pdf neuron
 Pupal drosophila
 Pupal pacemaker neuron
-Pupal s-LNv neuron
+Pupal tachykinin neuron of the central nervous system
 Pupil Dilated
+Pupillary light response paradigm
 Purdue University; Indiana; USA
 Purification
 Purine Nucleoside
 Purine Nucleotide
-Purkinje cell layer of cerebellar cortex
 Purple
 Pyramid
 Pyramidal
-Pyramidal Neuronal Cell Body
-Pyramidal decussation
-Pyramidal tract
 Pyramus (VIII) of ABA 2009
 Pyridoxal
 Pyridoxal Phosphate
 Pyridoxine
-Pyrimidine Nucleoside
-Pyrimidine Nucleotide
 Pyruvic acid
 Quadrangular
 Qualitative
 Quality
 Quality (PATO 0000001)
-Quality Control Image
 Quality of a gas
 Quality of a liquid
 Quality of a single process
 Quality of a solid
 Queen Mary University of London; London; United Kingdom
-Query / Retrieve Level
-Query/Retrieve Level
+Queen's University Belfast; Ireland; United Kingdom
+Queen's University; Ontario; Canada
 Quetiapine
 Quiet
 Quinacrine
@@ -4685,7 +3444,6 @@ RIKEN
 RING-box protein
 RNA
 RNA extraction
-RNA specific probe
 ROI Area
 ROI Contour Sequence
 ROI Display Color
@@ -4693,26 +3451,22 @@ ROI Generation Algorithm
 ROI Interpreter
 ROI Mean
 ROI Number
-ROI Volume
 RT Dose ROI Sequence
 RT Image Plane
 RT Image Position
 RT Image SID
-RT ROI Interpreted Type
+RT ROI Identification Code Sequence
 RT ROI Relationship
 RWTH Aachen University; Aachen; Germany
 Rabeprazole
 Rabies virus
 Radboud University Nijmegen; Nijmegen; Netherlands
-Radial Astrocyte
-Radial Glial Cell
 Radial Position
 Radial symmetry
 Radiation Mode
 Radiation Setting
 Radiation Type
 Radiation absorbed dose
-Radiation detection instrument
 Radiation effective dose
 Radiation equivalent dose
 Radiation exposure
@@ -4720,11 +3474,9 @@ Radiation quality
 Radiation reflective quality
 Radioactive
 Radionuclide
-Radiopharmaceutical Information Sequence
 Radiopharmaceutical Route
 Radiopharmaceutical Specific Activity
 Radiopharmaceutical Stop Time
-Radiopharmaceutical Volume
 Radius
 Radius of Circular Collimator
 Raised
@@ -4732,149 +3484,114 @@ Raloxifene
 Ramipril
 Ranitidine
 Raphe Nuclei
-Raphe pallidus nucleus of PHT00
 Rate
 Rate-coding model neurons
-Rating scale
 ReJ
 Reagent
 Real World Value First Value Mapped
 Real World Value Intercept
 Real World Value LUT Data
 Real World Value Last Value Mapped
-Real World Value Mapping Sequence
 Real World Value Slope
 Realizable entity
+Reason for Study
 Recent
 Receptive field
 Receptivity
 Receptor potential
-Receptor role
 Recitation-repetition (Overt)
 Reclinate
-Recognition memory
-Recognition memory function
 Reconsolidation
+Reconstruction Method
+Record collection
+Recorded Brachy Accessory Device Sequence
+Recorded Compensator Sequence
+Recorded Wedge Sequence
 Rectangular
-Rectification Type
 Recurrent
-Recurrent Collateral
 Red
 Red Nucleus of ABA 2009
 Red Palette Color Lookup Table Data
 Red Palette Color Lookup Table Descriptor
-Red brown
 Red nucleus
+Reference Image Number
+Referenced Brachy Accessory Device Number
+Referenced Curve Sequence
+Referenced Overlay Plane Groups
+Referenced Overlay Plane Sequence
+Referenced Presentation LUT Sequence
+Referenced Raw Data Sequence
+Referenced Results Sequence
+Referenced Sample Positions
+Referenced Structure Set Sequence
+Referenced Study Sequence
+Referenced Time Offsets
+Referenced Tolerance Table Number
+Referenced VOI LUT Box Sequence
 Referring Physician Identification Sequence
-Reflected Ambient Light
+Referring Physician's Address
+Referring Physician's Telephone Numbers
 Reflectivity
+Reflex angle
 Refractile
 Refractivity
 Region Data Type
 Region Flags
 Region Spatial Format
 Region of Residence
-Regional Part Of Axon (sao280355188)
-Regional Part Of Cell
-Regional Part Of Granule Cell Axon
-Regional Part Of Neuron
-Regional Part Of Neuron Process
-Regional Parts of the Hemisphere Lobules
-Regional part of a lobe of the cerebellum
-Regional part of body
-Regional part of body system
-Regional part of brain
-Regional part of cerebellar cortex
-Regional part of cerebellar white matter
-Regional part of cerebellum
-Regional part of cervical spinal cord
-Regional part of cervical spinal cord dorsal horn
-Regional part of cervical spinal cord gray matter
-Regional part of cervical spinal cord white matter
-Regional part of cochlear canal
-Regional part of ear
-Regional part of eye
-Regional part of fovea
-Regional part of gustatory epithelium
-Regional part of gustatory epithelium (nifext 13)
-Regional part of lumbar spinal cord
-Regional part of lumbar spinal cord dorsal horn
-Regional part of lumbar spinal cord gray matter
-Regional part of lumbar spinal cord white matter
-Regional part of macula
-Regional part of nervous system
-Regional part of organ
-Regional part of organ cavity
-Regional part of retina
-Regional part of sacral spinal cord
-Regional part of sacral spinal cord gray matter
-Regional part of sacral spinal cord white matter
-Regional part of spinal cord
-Regional part of spinal cord dorsal horn (birnlex 2671)
-Regional part of spinal cord gray commissure
-Regional part of thoracic spinal cord
-Regional part of thoracic spinal cord dorsal horn
-Regional part of thoracic spinal cord gray matter
-Regional part of thoracic spinal cord white matter
-Regional part of tongue
-Regional part of vestibular ganglion
 Regions Hospital; Minnesota; USA
 Regular sleep pattern
 Regular spatial pattern
 Regulation of synaptic transmission
-Relationship Type
+Reissner's fiber
+Relational attachment quality
+Relational dislocated quality
+Relational protruding quality
+Relational spatial quality
+Relational structural quality
+Relative color
 Relaxation
-Relaxation time
-Relevant Information Sequence
 Remittent
+Remote sensing Earth image
 Reniform
-Repetition Time
 Repetitive
 Representative Frame Number
 Reproductive process
 Reproductive quality
 Reprojection Method
+Requested Image Size
+Requested Image Size Flag
+Requesting Service
 Rescale Slope
-Rescale Type
 Rescinnamine
 Reserpine
 Residual Syringe Counts
 Resistance to
 Resistant to
-Resonant Nucleus
-Resource:3D Brain
+Resource role
+Resource:1000 Genomes: A Deep Catalog of Human Genetic Variation
 Resource:3D Interactive Chemical Shift Imaging
-Resource:3D Slicer
 Resource:3D surgical atlases of the murine head
 Resource:5 PRIME
+Resource:5 prime end Serial Analysis of Gene Expression Database
 Resource:60-Second Mind
-Resource:973 Program
+Resource:959 Nematode Genomes
+Resource:A Classification of Mobile genetic Elements
+Resource:A Whole Genome Admixture Scan for Type 2 Diabetes in African Americans
 Resource:A sample size calculation method
-Resource:ABC (Atlas Based Classification)
 Resource:ABX Guide
-Resource:ACGT Inc.
-Resource:ACUTS: compilation of Ancient Conserved UnTranslated Sequences
 Resource:ADA GENNID Study
 Resource:ADDA - Automatic Domain Decomposition Algorithm
 Resource:ADHD-200 Preprocessed Data
-Resource:ADHD-200 Sample
 Resource:AIMS Data Centre
-Resource:AKESOgen Inc.
 Resource:ALS Association
-Resource:ALSA - The Australian Longitudinal Study of Ageing
 Resource:ANFF Micro Nano and Semiconductor Patterning
 Resource:ANFF Specialist Device Fabrication
-Resource:APID: Agile Protein Interaction DataAnalyzer
 Resource:ASN Kidney Tube
-Resource:ASTRAL Compendium for Sequence and Structure Analysis
 Resource:ATASSIA DI FRIEDREICH - PROGETTI 2006
-Resource:AZ Core Labs
 Resource:Abbott Diagnostics
 Resource:Abnova Corporation
-Resource:Academic Drug Discovery Consortium
-Resource:Academic Seismic Portal at LDEO
-Resource:Academic Seismic Portal at UTIG
-Resource:Acris Antibodies GmbH
+Resource:Accurate Recognition of Transcription Starts in Human
 Resource:ActiGraph Activity Monitor Devices
 Resource:Action Potential
 Resource:Action for Autism
@@ -4883,52 +3600,37 @@ Resource:Active Motif
 Resource:Active Sequence Collection
 Resource:Acumen Consortium
 Resource:Acute Liver Failure Study Group
-Resource:Adaptively Sampled Particle Fluids
 Resource:Adobe Illustrator CC
-Resource:Adobe Photoshop CS2
 Resource:Adult ADHD Self-Report Scale
-Resource:Advanced Analytical Testing Service
-Resource:Advanced Biohealing, Inc.
-Resource:Advanced Cell Diagnostics
 Resource:Advanced Peptides
 Resource:Advanced Targeting Systems
+Resource:Adverse Childhood Experiences Study
 Resource:Affymetrix Gene Expression Service Lab
 Resource:Africa Centre Biobank
-Resource:Aggrescan: The Hot Spot Finder
 Resource:Agilent CytoGenomics software
 Resource:Agilent Genomic Workbench
-Resource:Aging Portal
-Resource:Alabama Organ Center
+Resource:Aging Genes and Interventions Database
 Resource:Alamo Tissue Service, Ltd.
 Resource:Alaska Ocean Observing System
 Resource:Alberta Geological Survey
+Resource:Alcohol and Alcohol Problems Science Database
 Resource:Alfresco - FRont-End for Sequence COmparison
-Resource:Alien hunter
 Resource:Alignable Tight Genomic Cluster
 Resource:All In The Mind
 Resource:Allelic Variations of The XP Genes
-Resource:Allen Brain Atlas API
 Resource:Allen Developing Mouse Brain Atlas
-Resource:Allen Human Brain Atlas
-Resource:Allen Mouse Brain Atlas
+Resource:Allen Institute Mouse Diversity Study
 Resource:Allen Mouse Spinal Cord Atlas
-Resource:AllerHunter: Cross-reactive Allergen Prediction Home
-Resource:Allograft Innovations, LLC
+Resource:AllenInstitute - YouTube
+Resource:Alliance for Cellular Signaling Molecule Pages Database
 Resource:Alomone Labs
 Resource:Alpco Diagnostics
-Resource:Alpha Genesis
-Resource:AltTox: Non-animal Methods for Toxicity Testing
-Resource:Alternate Splicing - induced ALteration of Protein Structure
 Resource:Alternate splicing gallery
-Resource:Altmetric API
+Resource:Alternative Exon Database
+Resource:Alzheimer Disease and Frontotemporal Dementia Mutation Database
 Resource:Alzheimer Society of Canada
 Resource:Alzheimers Disease Cooperative Study
-Resource:AmaZonia: Explore the Jungle of Microarrays Results
-Resource:Ambion Inc.
-Resource:AmerUrologicals channel - YouTube
 Resource:American Brain Tumor Association
-Resource:American Cancer Society
-Resource:American Diabetes Association
 Resource:American Donor Services
 Resource:American Parkinson Disease Association Inc.
 Resource:American Peptide Company
@@ -4939,29 +3641,29 @@ Resource:American Thoracic Society
 Resource:American Urological Association
 Resource:American Well
 Resource:Amphibian Species of the World
-Resource:Analyze Software System
-Resource:Anatomy Atlases
+Resource:An Integrated Multiple Structure Visualization and Multiple Sequence Alignment Application
 Resource:Anchored Assembly
 Resource:Ancillary Domains Associated With Human and Mouse Proteases
 Resource:AngioCalc Cerebral Aneurysm Calculator
 Resource:Angioma Alliance
-Resource:Animal Welfare Information Center
-Resource:Antarctic Glaciological Data Center
 Resource:Antarctic and Southern Ocean Data Portal
 Resource:Anthera Pharmaceuticals
 Resource:Antibodies Incorporated
-Resource:Antibody Portal
+Resource:Antibody Validation Database
 Resource:Antigenix America
 Resource:Anxiety Disorders Association of America
 Resource:Anxiety Insights
+Resource:Apo and Holo structures DataBase
+Resource:Apple - iWork
 Resource:Aptamer Base
 Resource:Aquatic Habitats
-Resource:Arabidopsis Gene Regulatory Information Server
+Resource:Arabidopsis GeneNet Supplementary DataBase
+Resource:Arabidopsis Nucleolar Protein Database
 Resource:Arabidopsis thaliana Map
+Resource:Arabidopsis thaliana Protein Interactome Database
 Resource:Arbor Assays
-Resource:Archaezyme Ltd.
+Resource:ArchDB - Biological Database of Protein Loops
 Resource:Arizona Biospecimen Locator
-Resource:Arnaud Delormes Programs Overview
 Resource:Arnold Arboretum of Harvard University: Weld Hill Microscopy Lab
 Resource:Arnold Arboretum of Harvard University: Weld Hill Molecular Lab
 Resource:Array Information Library Universal Navigator
@@ -4972,34 +3674,23 @@ Resource:Assay Guidance Manual
 Resource:Assembly Based ReAligner
 Resource:Assembly Likelihood Estimator
 Resource:Associates in Process Improvement
-Resource:Astellas Pharma Inc.
 Resource:AtGenExpess - Weigel World
 Resource:Atlantic Canada Conservation Data Centre
-Resource:Atlas Antibodies
-Resource:Atlas of the Brain
-Resource:Atlas of the Human Brain Stem
-Resource:Atlases of the Brain
-Resource:Atlasing of the basal ganglia
-Resource:Augustus: Gene Prediction
-Resource:Austrailasian Biospecimen Network
 Resource:Australian Antarctic Data Centre
-Resource:Australian Phenomics Network
+Resource:Australian Digital Futures Institute
 Resource:Australian Synchrotron
+Resource:Autism Genetic Resource Exchange
 Resource:Autism Society of America
-Resource:Autism Tissue Program
 Resource:Autism-Spectrum Quotient
-Resource:AutoCSA (Automatic Comparative Sequence Analysis)
-Resource:Autoimmunity Centers of Excellence
+Resource:AutoPSI database of predicted SCOP classifications
+Resource:Autoimmune Lymphoproliferative Syndrome Database
 Resource:Automatic Analysis
+Resource:Automatic Generated Test-Sets Database for Protein-Protein Docking
 Resource:Automatic Primer Design
 Resource:Aves Labs
-Resource:AxoGen, Inc.
-Resource:B Cell Interactome
-Resource:BAMS Cells
 Resource:BAMS Nested Regions
 Resource:BASF Corporation
-Resource:BCCA Cancer Drug Manual
-Resource:BCM Analyte Center
+Resource:BCIZaragoza - YouTube
 Resource:BD FACSCalibur Flow Cytometry System
 Resource:BD FACSDiva Software
 Resource:BD LSR II Flow Cytometer
@@ -5008,55 +3699,45 @@ Resource:BIDMC CVVR Flow Cytometry Core
 Resource:BIDMC DNA Sequencing Core
 Resource:BIDMC Electron Microscopy Core
 Resource:BIDMC Flow Cytometry Core
-Resource:BIDMC Histology Core
 Resource:BIDMC Mass Spectrometry Core
 Resource:BIDMC Multi-Gene Transcriptional Profiling Core
 Resource:BIDMC Preclinical Murine Pharmacogenetics Core
-Resource:BIDMC Real-Time PCR Core
 Resource:BIDMC eData Collection Core
 Resource:BIOBASE Corporation
 Resource:BIOTREND Chemicals LLC
 Resource:BLAST Similarity Search
 Resource:BLOCK-iT RNAi Designer
 Resource:BRIAN Simulator
+Resource:BSORF - Bacillus Subtilis Genome Database
+Resource:BUSM Mass Spectrometry Resource
 Resource:BWH Cell Culture and Microscopy Core
 Resource:BWH Circulating Tumor Cell Core
 Resource:BWH DNA Sequencing Core
 Resource:BWH Sleep and EEG Core
 Resource:Babraham Commercialisation Services Ltd
-Resource:Backyard Brains
-Resource:Baltimore Longitudinal Study of Aging (BLSA)
+Resource:Bahler Laboratory: Genome Regulation
 Resource:Banco de datos de biodiversidad del Ecuador
-Resource:Barth Syndrome Biorepository
-Resource:Basal ganglia model in action
 Resource:Basic OligoNucleotide Design
 Resource:Batch Oligo Selection Script
-Resource:Bath Information and Data Services
 Resource:Baylor University; Psychology and Neuroscience
 Resource:Be The Cure
 Resource:Beaumont Hospitals Biobank
-Resource:Beautiful Brain
 Resource:Beck Hopelessness Scale
 Resource:Becton Dickinson and Company
 Resource:Behavior Enhances Drug Reduction of Incontinence
 Resource:Behavioral Risk Factor Surveillance System
 Resource:Bentham OPEN
 Resource:Binding MOAD
-Resource:Binding Site
 Resource:Binding and Expression Target Analysis
 Resource:Bio-IT World
 Resource:BioBank Central.
 Resource:BioCarta Pathways
-Resource:BioGPS: The Gene Portal Hub
 Resource:BioGrid Australia
-Resource:BioImage Suite: Image Analysis Software Package
 Resource:BioInfoBank Meta Server
-Resource:BioMarkers for SMA Data Portal
 Resource:BioPorto Diagnostics
 Resource:BioReliance Biorepository
 Resource:BioResource Impact Factor
 Resource:BioText Search Engine
-Resource:Biobanc USA
 Resource:Biobank Japan
 Resource:Biobank of Hospital Clinic - IDIBAPS
 Resource:Biobanque de Picardie
@@ -5064,167 +3745,126 @@ Resource:Bioconductor mailing list
 Resource:Biodiversity Heritage Library
 Resource:Bioelectromagnetism Matlab Toolbox
 Resource:Bioinformatics Experts
-Resource:Bioinformatics Organization
+Resource:Biolog Inc. Bacterial Identification Microbial Identification Phenotype MicroArray
 Resource:Biologic Stylus
 Resource:Biological Concept Diagram Editor
-Resource:Biological Information Browsing Environment
 Resource:Biological Pathways Exchange
-Resource:Biologie Hors Nomenclature
 Resource:Biomaker Commons
-Resource:Biomarker Network
 Resource:Biomarkers Consortium
-Resource:Biomolecular Object Network Databank
-Resource:Biospecimens/Biorepositories: Rare Disease-HUB (RD-HUB)
-Resource:Bioss Inc
-Resource:Biotechnology Center of the TU Dresden
-Resource:Biotium inc
 Resource:Bird Base
 Resource:Bits and Bugs
-Resource:Blood and Tissue Center of Central Texas
-Resource:Blueprint Neurotherapeutics Network
 Resource:Body Mass Index Calculator
-Resource:Body System Terms from ICD11
+Resource:Bombus terrestris PartiGene Database
+Resource:Bone and Cartilage Tissue Engineering Ontology
+Resource:Bork Group's WU-BLAST2 Search Service at EMBL
+Resource:Boston University Microarray Resource Core
 Resource:Boston University; Neuroscience
 Resource:Boston University; School of Medicine; Behavioral Neuroscience
-Resource:Bovine Gene Atlas
-Resource:Brain Atlas of the Mozambique Tilapia Oreochromis mossambicus
 Resource:Brain Canada
 Resource:Brain Connection
 Resource:Brain Facts
+Resource:Brain Gene Expression Database
 Resource:Brain Gene Expression Map
 Resource:Brain Mysteries
-Resource:Brain Networks
 Resource:Brain Research: Analysis of Images, Networks and Systems
 Resource:Brain Test
-Resource:Brain Tumor Action Network
-Resource:Brain Tumor Funders Collaborative
 Resource:Brain Windows
-Resource:Brain and Body Donation Program
+Resource:Brain and Body Genetic Resource Exchange
 Resource:Brain-Art Competition
+Resource:BrainBlogger - YouTube
 Resource:BrainGraph Editor
 Resource:BrainImage Software
-Resource:BrainSpan: Atlas of the Developing Human Brain
-Resource:BrainSpan: Exon microarray summarized to genes
-Resource:BrainSpan: Exon microarray summarized to probe sets
-Resource:BrainSpan: RNA-Seq exons
-Resource:BrainSpan: RNA-Seq exons summarized to genes
 Resource:BrainVisa Morphology extensions
 Resource:BrainVision Analyzer
-Resource:BrainVoyager Brain Tutor
-Resource:BrainVoyager Brain Viewer
-Resource:BrainVoyager: Talairach Brain Atlas
 Resource:Brains Lab
 Resource:Brains Matter
 Resource:Brandeis University; Neuroscience Graduate Program
-Resource:Brief Psychiatric Rating Scale
 Resource:Brighman and Womens-Harvard Biobank
 Resource:Brighter Ideas inc
+Resource:British Columbia Breast Cancer Tumour Bank
 Resource:Broad Minded
 Resource:Brodmanns Interactive Atlas
 Resource:Brown University; Alpert Medical School; Department of Molecular Pharmacology Physiology and Biotechnology
-Resource:Business-Led Networks of Centres of Excellence
 Resource:Buss-Perry Aggression Questionnaire
 Resource:Buzsaki Lab
 Resource:C. R. Bard
 Resource:C. R. Bard
-Resource:C8: Corpus Callosum Computations
-Resource:CALLIOPE Network
+Resource:CAMERA - Collection of annotation related methods for mass spectrometry data
 Resource:CARTA Libraries
-Resource:CASY Cell Counter and Analyser System Model TT
+Resource:CASRDB- Calcium Sensing Receptor Database
 Resource:CATMA - Complete Arabidopsis Transcriptome MicroArray
-Resource:CAU CCRTD-Histology Core
 Resource:CAZy- Carbohydrate Active Enzyme
 Resource:CBS Prediction Servers
 Resource:CCDB Image Converter
-Resource:CCUG: Culture Collection; University of Goteborg; Sweden
-Resource:CGAP GO Browser
+Resource:CCNY Fluorescence Activated Cell Sorting
+Resource:CCSeg - Corpus Callosum Segmentation
+Resource:CDU Metabolic and Oxidative Stress Core Laboratory
+Resource:CGED - Cancer Gene Expression Database
 Resource:CGH Fusion
-Resource:CHB Cell Sorter Core
 Resource:CHB Cellular Imaging Core
-Resource:CHB Diagnostic Radiology Core
 Resource:CHB Ultrasound
 Resource:CHOP CTRC Cardiovascular Imaging Core
-Resource:CHOP Human Embryonic stem cell/induced pluripotent stem cell Core
-Resource:CHOP Nucleic Acid/Protein Core
 Resource:CIL-Cell Image Library
 Resource:CLASSIFI - Cluster Assignment for Biological Inference
-Resource:CLC Main Workbench
-Resource:CMHD - Centre for Modeling Human Disease
+Resource:COGEME Phytopathogenic Fungi and Oomycete EST Database
 Resource:COMe - Co-Ordination of Metals etc.
 Resource:COnsensus-DEgenerate Hybride Oligonucleotide Primers
 Resource:CPODES numerical integrator
 Resource:CR-EST - Crop ESTs
-Resource:CRE Driver Network
-Resource:CREMOFAC: A web-database of Chromatin Remodeling Factors
 Resource:CSA - Catalytic Site Atlas
 Resource:CSHL - Hannon Lab
-Resource:CSISP Next Generation Sequencing
-Resource:CSU EcoCore Analytical Services
-Resource:CU Denver iPSC Core
-Resource:CUAHSI Hydrologic Information System
 Resource:CURRY 7
 Resource:CVXOPT - Python Software for Convex Optimization
-Resource:California Cryobank, Inc.
+Resource:CYGD - Comprehensive Yeast Genome Database
 Resource:California Digital Library
 Resource:California Integrated Data Exchange
 Resource:California Transplant Services
-Resource:Caltech, The Beckman Institute: The Biological Network Modeling Center
-Resource:Cambridge Brain Activation
 Resource:Cambridge Cognition
 Resource:Cambridge Structural Data Base
-Resource:Canadian Consortium on Neurodegeneration in Aging
+Resource:Canadian Breast Cancer Foundation
+Resource:Canadian Breast Cancer Foundation Tumor Bank
 Resource:Canadian Microelectronics Corporation Microsystems
-Resource:Cancer Cell Map
-Resource:Cancer Chromosomes
 Resource:Cancer Gene Index
 Resource:Cancer Methylome System
 Resource:Cancer of the Prostate in Sweden (CAPS)
 Resource:Candidate Genes to Inherited Diseases
-Resource:Carbon Dioxide Information Analysis Center
-Resource:Cardiovascular Proteomics Center
-Resource:Case Comprehensive Cancer Center
 Resource:Case Western Reserve University; School of Medicine; Department of Pharmacology
 Resource:Cassandras Tears
 Resource:Catalog of Fishes
-Resource:Caulobacter Cell Cycle Modeling
 Resource:Causal Cognition Group
 Resource:Cayman Chemical
 Resource:Cell Signaling Pathways
+Resource:Cell Signaling Technology Pathway Database
 Resource:Cell motility
 Resource:CellBank Australia
-Resource:CellProfiler Image Analysis Software
-Resource:Cellular Imaging and Analysis
 Resource:Cellular Scale
-Resource:Center for Biological Sequence Analysis
-Resource:Center for Cell Analysis and Modeling
+Resource:Center for Computational Mass Spectrometry
 Resource:Center for Gamma Ray Imaging
-Resource:Centre dEtude du Polymorphisme Humain
 Resource:Centre for Neuro Skills
+Resource:Cereal Small RNA Database
 Resource:Cerner Millenium
 Resource:ChIPDiff Library Comparison
 Resource:ChIPOTle Peak Finder
 Resource:ChIPSeq Peak Finder
+Resource:Characterizing unidirectional couplings between point processes and flows
 Resource:Charcot-Marie-Tooth Association
+Resource:Charge Czar: Peptide charge state determination for low-resolution tandem mass spectra
 Resource:Charles River
 Resource:Charleston Heart Study
 Resource:Chem Service, Inc.
-Resource:ChemDB: The UC Irvine ChemDB
 Resource:Chemical Effects in BIological Systems
 Resource:Chemistry Add-in for Word
 Resource:Chemistry Molecular Models
+Resource:Chemistry Using Text Annotations
 Resource:Chevron Corporation
 Resource:Chicken Gene Nomenclature Consortium
+Resource:Chicken Variation Database
 Resource:Childhood Autism Spectrum Test
-Resource:Chilibot: Gene and Protein relationships from MEDLINE
 Resource:Chiral Polyamines
-Resource:Chronic Fatigue Syndrome
 Resource:Chronic Renal Insufficiency Cohort Study
 Resource:Clair library
 Resource:Classification of Human Lung Carcinomas by mRNA Expression Profiling Reveals Distinct Adenocarcinoma Sub-classes
 Resource:Classifier for Metagenomic Sequences
-Resource:Clinical Dementia Rating
-Resource:Clinical Islet Transplantation Study
-Resource:Cliniques Universitaires Saint-Luc Cancer Centre
 Resource:Clustal Omega
 Resource:CoC Central
 Resource:Coca-Cola Company
@@ -5232,319 +3872,233 @@ Resource:Cochrane Central Register of Controlled Trials
 Resource:Cochrane Library
 Resource:Coddle-Codons Optimized to Discover Deleterious LEsions
 Resource:Coding Potential Calculator
-Resource:Cognitive Atlas
-Resource:Colin 3T/7T High-resolution Atlas
-Resource:Collaborative Chronic Care Network
 Resource:Columbia Biosciences Corporation
 Resource:Combinatorial Extension (CE)
 Resource:CommonMind Consortium
 Resource:Commons In A Box
 Resource:Community Tissue Services - CTS
+Resource:Comparative Data Analysis Ontology
 Resource:Comparative Mammalian Brain Collections
 Resource:Compass of Pleasure
 Resource:Competence Network Heart Failure
 Resource:Comprehensive Tissue Centre
 Resource:Computational and Neural Systems
-Resource:Computed Ligand Binding Energy
 Resource:Computer Integrated Systems for Microscopy and Manipulation
-Resource:Concept Hub
 Resource:Connectome File Format
 Resource:Connectome Workbench
 Resource:Conquest DICOM software 1.4.15
 Resource:Consensus CDS
-Resource:Consortium for Radiologic Imaging Studies of Polycystic Kidney Disease
+Resource:Consensus Measures for Phenotype and Exposure
 Resource:Consortium for Reliability and Reproducibility
 Resource:Cooperative Human Tissue Network (CHTN)
+Resource:Cooperative Human Tissue Network Western Division at Vanderbilt University Medical Center
 Resource:Coriell Biobank
-Resource:Corner Cube Environment
 Resource:CovalentDock Cloud
 Resource:CpG Island Searcher
 Resource:CpG MPs
-Resource:Create DWI Atlas
-Resource:Creatinine Standardization Program
 Resource:Creative Diagnostics
-Resource:Crimson Biospecimen Core
 Resource:Critical Zone Observatories
 Resource:Cross Validation
 Resource:Cross-National Equivalent Files
-Resource:Cross-Sectional and Longitudinal Aging Study
 Resource:Crux tandem mass spectrometry analysis software
-Resource:CryoLife, Inc.
 Resource:Cryptococcus Neoformans cDNA Sequencing
 Resource:Cubist Pharmaceuticals
-Resource:Current Controlled Trials
 Resource:Current German Weather Stations
 Resource:Custom DNA Constructs
 Resource:Cython C-Extensions for Python
 Resource:CytoSure Interpret Software
 Resource:D. rerio Blast Server
 Resource:DART - Drug Adverse Reaction Targets
-Resource:DC Analysis programs
+Resource:DBSubLoc - Database of protein Subcellular Localization
 Resource:DCHIP LINKAGE
 Resource:DCI Donor Services
 Resource:DDBJ Omics Archive
-Resource:DDW - Digestive Disease Week
 Resource:DE-ID Data Corp
-Resource:DF/HCC Cancer Proteomics Center
-Resource:DF/HCC High-Throughput Polymorphism Detection Core
-Resource:DF/HCC Specialized Histopathology Services Core
-Resource:DFCI Blais Proteomics Center
-Resource:DHS Program
+Resource:DFCI RNA Interference Screening Facility
 Resource:DIAN - Dominantly Inherited Alzheimer Network
-Resource:DICOM Controlled Terminology
 Resource:DIStributions of SPINEs
 Resource:DNA Direct
-Resource:DNASTAR: Lasergene Core Suite
-Resource:DOMINO: Domain peptide interactions
-Resource:DONE: Detection of Outlier NEurons
-Resource:DTI Atlas Builder
-Resource:DTI White Matter Atlas
 Resource:DTI and Fibertools Software Package
-Resource:DTU Multi-Assay Core
-Resource:DWI/DTI Quality Control Tool: DTIPrep
 Resource:Daily Scan
 Resource:Dali Server
-Resource:DaliLite Pairwise comparison of protein structures
+Resource:Danforth Center Proteomics and Mass Spectrometry Facility
 Resource:Dangerous Ideas
 Resource:Danubian Biobank Consortium
 Resource:Daring Nucleic Adventures - genegeek
 Resource:Dartmouth Multi-Photon Imaging
-Resource:Dartmouth SYNERGY: Ethics Consultation Core
 Resource:Data Discovery Index
-Resource:DataBase of Tunicate Gene Regulation
 Resource:Database for Antisense Oligonucleotides Selection and Design
 Resource:Database of Arabidopsis Transcription Factors
-Resource:Database of Cellular Morphologies
 Resource:Database of Chemical Compounds and Reactions in Biological Pathways
 Resource:Database of Domain Interactions and Bindings
 Resource:Database of Genomic Variants Archive
+Resource:Database of Germline p53 Mutations
 Resource:Database of Human Hemoglobin Variants and Thalassemias
 Resource:Database of Interacting Proteins
-Resource:Database of Liver Protein Expression Profile- dbLEP
-Resource:Database of Osteogenesis Imperfecta and Type III Collagen Variants
 Resource:Database of Poplar Transcription Factors
 Resource:Database of Rice Transcription Factors
 Resource:Database of Secondary Structure Assignments
+Resource:Database of Spatially Interacting Motifs in Proteins
 Resource:Database of Transcribed Sequences
+Resource:Database of oligomerization domains from lambda experiments
 Resource:Database of prOkaryotic OpeRons
 Resource:Database on Brain Map Transformations in Cerebellar Systems
-Resource:Dataset of dendritic spine neck lengths and head sizes
 Resource:Dataset processing
 Resource:DbGaP Cleaner
 Resource:De Humani Corporis Fabrica
 Resource:DeRisi Lab
-Resource:Demystifying Depression
 Resource:Depression Alliance
 Resource:Dermatology Lexicon
 Resource:Description of MORGAM Cohorts
-Resource:Detroit R&D
-Resource:Developmental Therapeutics Program
-Resource:Diabetes Autoantibody Standardization Program
 Resource:Diabetes Control and Complications Trial
-Resource:Diabetes Disease Portal
 Resource:Diabetes Genes
+Resource:Diabetes Prevention Type 1
 Resource:Diabetes in America
 Resource:Diabetic Complications Consortium
-Resource:Diagnostic Consulting Network
 Resource:Diagnostic Radiology
-Resource:Diffusing Tensor Imaging in Java
-Resource:Diffusion Warp
 Resource:Diffusional Kurtosis Estimator
-Resource:Digital Ageing Atlas
-Resource:Digital Brain Atlas of the Common Marmoset
 Resource:Digital Commons Network
 Resource:Digital Curation Centre
 Resource:Digital Fish Library
 Resource:Discover Magazine
+Resource:Disease State Prediction
 Resource:Dissociation Experiences Scale
-Resource:Distance Mapping
 Resource:Distant Regulatory Elements
 Resource:DistiLD - Diseases and Traits in LD
 Resource:Distinctive Voices
-Resource:Domain Interaction MAp
 Resource:Donor Alliance
-Resource:Donor Network of Arizona
 Resource:Donor Services of Indiana
 Resource:Douglas Brain Imaging Centre
 Resource:Draconis Pharma SL
+Resource:Dragon Database for Exploration of Ovarian Cancer Genes
 Resource:Drosophila RNAi Screening Center
-Resource:Drug Information Portal
+Resource:Drosophila polymorphism database
 Resource:Dualsystems Biotech AG
-Resource:Dublin Core
 Resource:Duke Biobank
-Resource:EA15: EasyView Dual Input Temperature Datalogger
-Resource:EASE: the Expression Analysis Systematic Explorer
 Resource:EB-eye Search
-Resource:EDDA Study Design Terminology
-Resource:EDGE: Environment, Drugs and Gene Expression
-Resource:EEG / ERP Data Set
 Resource:EEG human categorization data
-Resource:EGAN: Exploratory Gene Association Networks
-Resource:EGO - Eukaryotic Gene Orthologs
 Resource:EICO DB - Expression-based Imprint Candidate Organiser
 Resource:EISEN LAB
+Resource:EMAGE Gene Expression Database
 Resource:EMBL - Bork Group
-Resource:EMMA:Efficient Mixed-Model Association
+Resource:EMGlib - Enhanced Microbial Genomes Library
 Resource:EMSE Suite
 Resource:ENA Sequence Search
-Resource:ENCODE: Encyclopedia of DNA Elements
 Resource:ENTROPY BLOCKER
-Resource:EQUATOR Network
-Resource:ESPript 2.2
 Resource:ETEX Corporation
+Resource:EUROpean Saccharomyces Cerevisiae ARchive for Functional Analysis
 Resource:EVEREST - EVolutionary Ensembles of REcurrent SegmenTs
 Resource:Ear Lab
 Resource:Eating Attitudes Test
 Resource:Eddy Lab: Software
 Resource:Edgerton Digital Collections
-Resource:Edinburgh Postnatal Depression Scale
 Resource:Edwards Lab
-Resource:Effect Size Calculator
+Resource:Efficacy and Mechanisms of Glutamine Dipeptide in the Surgical Intensive Care Unit
 Resource:Electronic Molecular Interaction Map
 Resource:Eligibility Feature Hierarchy
+Resource:Embryo Images Normal and Abnormal Mammalian Development
 Resource:Embryo Imaging
 Resource:Emotion Mining Company, Inc.
 Resource:Endogenous GPCR List
-Resource:English Longitudinal Study of Ageing
 Resource:Enriched Domain Detector
 Resource:Ensembl Bacteria
 Resource:Ensembl Fungi
 Resource:Ensembl Variation
 Resource:Entrez GEO Profiles
-Resource:Enzyme Nomenclature
 Resource:EpiData Software
 Resource:Epidemiology of Diabetes Interventions and Complications
+Resource:EpoDB - Erythropoiesis Database
 Resource:Epsilon Radial Networks
 Resource:Essential genes in E. coli
 Resource:Eukaryote Genes
 Resource:Europe PubMed Central
 Resource:European Collection of Cell Cultures
-Resource:European Conditional Mouse Mutagenesis Program
 Resource:European Federation of Pharmaceutical Industries and Associations
 Resource:European Gram Negative AntiBacterial Engine
-Resource:European Molecular Quality Network
-Resource:European Monitoring Centre for Drugs and Drug Addiction
+Resource:European Multicenter Study about Spinal Cord Injury
 Resource:European Nucleotide Archive
-Resource:Eutectic NTS
 Resource:Evaluating Predictors and Interventions in Sphincter of Oddi Dysfunction
 Resource:Evans Analytical Group
-Resource:Evolutionary Lineage Inferred from Structural Analysis
 Resource:Exonic Splicing Enhancer Finder
+Resource:Experimental Network for Functional Integration: A European Network of Excellence for Data Integration and Systems Biology
 Resource:Expert Glyco-Analytics Services by Procognia
 Resource:Exploratory Software for Confidence Intervals
-Resource:Exponentially Modified Protein Abundance Index
 Resource:Expression Analysis
-Resource:Expression Atlas of the Marmoset
 Resource:Extended Haplotype Homozygosity
-Resource:FANTOM DB
 Resource:FASTMAP (1)
 Resource:FASTMAP (2)
-Resource:FATCAT Flexible Structural Neighborhood
-Resource:FBIRN Image Processing Scripts
 Resource:FFT Library
-Resource:FISH Oracle
-Resource:FMRIB Software Library
+Resource:FLJ Human cDNA Database
+Resource:FMRISTAT - A general statistical analysis for fMRI data
 Resource:FSL extensions
 Resource:FSSP - Families of Structurally Similar Proteins
 Resource:FaceBase Biorepository
 Resource:Faculty of 1000 - YouTube
-Resource:False Discovery Rate Weighted
-Resource:Families of SMA
+Resource:Familial Hypertrophic Cardiomyopathy DNA Mutation Database
 Resource:FastQ Screen
 Resource:Feinstein Biorepository
 Resource:Fiber Optic Button Response System
-Resource:Fight SMA
 Resource:Finsler tractography module for Slicer
 Resource:First Nerve
 Resource:Florida Brain Tumor Association
 Resource:Flux Simulator
 Resource:Fluxus Engineering
-Resource:FlyAtlas: the Drosophila gene expression atlas
-Resource:Flybrain at Stanford
 Resource:Folic Acid for Vascular Outcome Reduction in Transplantation
 Resource:Fondazione Centro San Raffaele; Milan; Italy
 Resource:Forsyth Human Microbe Identification Microarray Core
 Resource:Foundational Model Explorer
-Resource:Four-dimensional Ascidian Body Atlas
-Resource:Fox Chase Cancer Center
 Resource:Framingham Heart Study
-Resource:French Muscular Dystrophy Association
-Resource:Frequent Hemodialysis Network Daily Trial
-Resource:Frequent Hemodialysis Network Nocturnal Trial
 Resource:Frey Lab
-Resource:Fubers Network Diagram of Human Aging
-Resource:Full Moon BioSystems
-Resource:FunNet - Transcriptional Networks Analysis
-Resource:FuncAssociate: The Gene Set Functionator
-Resource:Functional Brain Mapping Lab
+Resource:Full-Length cDNA Database
 Resource:Functional Coverage of the Proteome
+Resource:Functional Genomics in Embryonic Stem Cells
 Resource:Functional Neurogenesis
-Resource:Functional ROI Atlas
-Resource:Fusion ICA Toolbox
+Resource:Fusarium graminearum Genome Database
+Resource:G protein receptor interaction feature finding instrument
 Resource:GBS barcode splitter
-Resource:GBrowse syn
 Resource:GD Graphics Library
 Resource:GEArray Expression Analysis Suite 2.0
+Resource:GEISHA - Gallus Expression in Situ Hybridization Analysis: A Chicken Embryo Gene Expression Database
 Resource:GENEHUNTER SAD
-Resource:GENESPRING GT
 Resource:GENETIC POWER CALCULATOR
 Resource:GENSAT at NCBI - Gene Expression Nervous System Atlas
 Resource:GLOM MAP is a toolbox written for the MATLAB development enviroment
-Resource:GNU Image Manipulation Program
 Resource:GREC Corpus
 Resource:GWAS Central
 Resource:Geisinger Biobank
-Resource:GenExpress: an intellectual system for analysis of genomic regulatory sequences of humans and higher eukaryotes
-Resource:GenScript USA
-Resource:GenWay Biotech inc.
 Resource:Genboree Discovery System
 Resource:Genboree Workbench
-Resource:Gene Aging Nexus
-Resource:Gene Atlas
 Resource:Gene By Gene
-Resource:Gene Class Expression
+Resource:Gene Cloud: Exploring Connections in the Mouse Genome
 Resource:Gene Expression Atlas
 Resource:Gene Expression Omnibus
 Resource:Gene Expression Profile
 Resource:Gene Expression Profile Analysis Suite
+Resource:Gene Expression Profiling in Spinal Cord Injury
 Resource:Gene Logic Biorepository and Biobanking
 Resource:Gene Regulation Programs
+Resource:Gene Relationships Across Implicated Loci
 Resource:Gene Set Enrichment Analysis
 Resource:Gene Weaver
-Resource:GenePaint E15 Atlas
-Resource:GenePaint P56 Mouse Atlas
-Resource:GenePaint P7 Atlas
+Resource:GenePaint Interactive Anatomy Atlas
 Resource:GenePix Pro
-Resource:GeneSpring GX
 Resource:GeneTerm Linker
-Resource:GeneWays: A System for Extracting, Analyzing, Visualizing and Integrating Molecular Pathway Data
 Resource:Genedata Expressionist for Genomic Profiling
 Resource:Geneious Microsatellite Plugin
 Resource:Generalized Covariance Analysis
-Resource:Generalized PPI Toolbox
 Resource:Generate Pseudo-Random Numbers
-Resource:Generic GO Term Finder
-Resource:Generic GO Term Mapper
+Resource:Genes to Cognition - Biological Resources
+Resource:Genes to Cognition Database
 Resource:Genetic Alliance Biobank
-Resource:Genetic Alterations in Cancer
 Resource:Genetic Analysis Package
-Resource:Genetic Analysis Software
-Resource:Genetic and Rare Diseases Information Center
-Resource:Genetics of Kidneys in Diabetes
 Resource:Genetik Ink
-Resource:Genolevures: Genomic Exploration of the Hemiascomycete Yeasts
-Resource:Genomatix Software: Understanding Gene Regulation
 Resource:Genome Alteration Print
 Resource:Genome Projector
 Resource:Genome Trax
-Resource:Genome information broker
 Resource:Genomic Metadata for Infectious Agenets
 Resource:Genomic Object Net
-Resource:Genomics of Drug Sensitivity in Cancer
 Resource:Genotype-Tissue Expression
 Resource:Genotyping Console Software
-Resource:Georgia Tech Center for Organic Photonics and Electronics
-Resource:Geriatric Depression Scale
 Resource:German Collection of Microorganisms and Cell Cultures
 Resource:Gibbs Motif Sampler
 Resource:Gift of Hope Organ and Tissue Donor Network
@@ -5554,13 +4108,10 @@ Resource:Glomerular Filtration Rate Calculators
 Resource:Gnarus Systems
 Resource:Google App Engine
 Resource:Google Docs
-Resource:Google Sites
+Resource:Google Tech Talks - YouTube
 Resource:Graphical Overview of Linkage Disequilibrium
-Resource:Graphpad Prism
 Resource:Gray Matters
 Resource:Greally Lab
-Resource:Group ICA Of EEG Toolbox
-Resource:Group Information Guided ICA
 Resource:Gtk-based Analyze Image Viewer
 Resource:H-Invitational Database: Protein-Protein Interaction Viewer
 Resource:HALT-C Trial
@@ -5571,84 +4122,89 @@ Resource:HAPBLOCK 2
 Resource:HAPLO 1
 Resource:HAPLO 2
 Resource:HAPLOTYPE ESTIMATION
-Resource:HB Custom Media
-Resource:HC2: Human-Computer Confluence
+Resource:HCVDB - Hepatitis C Virus Database
 Resource:HEALTHY study
+Resource:HERVd - Human Endogenous Retrovirus database
 Resource:HI-SPEED Software Packets
 Resource:HIV Biobank
 Resource:HIV Guide
 Resource:HIV and its Coreceptors
-Resource:HIstome: The Histone Infobase
+Resource:HIV-1 Human Protein Interaction Database
+Resource:HIV-1, Human Protein Interaction Database
 Resource:HLWIKI Canada
 Resource:HMP Data Analysis and Coordination Center
 Resource:HMS BADERC Flow Cytometry Core
 Resource:HMS Drosophila RNAi Screening Center
-Resource:HMS Image and Data Analysis Core
 Resource:HMS NERCE Live-cell Imaging Core
 Resource:HMS Nikon Imaging Center
-Resource:HMS SBGrid Core
-Resource:HNDC Drug Discovery in Neurodegeneration
-Resource:HORDE - Human Olfactory Receptor Data Exploratorium
 Resource:HOX Pro
-Resource:HPMR - Human Plasma Membrane Receptome
-Resource:HSDM Micro CT Core
-Resource:HSPH Exposure and Environmental Analysis Service
-Resource:HTL Biosolutions Inc.
+Resource:HPID - Human Protein Interaction database
+Resource:HPRD - Human Protein Reference Database
+Resource:HUDSEN Human Gene Expression Spatial Database
 Resource:HUGE - Human Unidentified Gene-Encoded large proteins
 Resource:HUPO - Human Proteome Organisation
 Resource:Haldanes Sieve
-Resource:Hamilton Rating Scale for Depression
-Resource:Harvard - Oxford Cortical Structural Atlas
-Resource:Harvard BADERC Metabolic Physiology Core
-Resource:Harvard Center for Biological Imaging
-Resource:Harvard Digestive Diseases Center Imaging Core
+Resource:HapMap 3 and ENCODE 3
+Resource:Harvard FAS Small Molecule Mass Spectrometry Facility
 Resource:Harvard NeuroDiscovery Center - Cell-based Assays Core
+Resource:Harvard PCPGM Biorepository for Medical Discovery
 Resource:Harvard SERI Graphic Services Core
 Resource:Harvard Tumor Imaging Metrics Core
 Resource:Head Circumference
 Resource:Health and Retirement Study
+Resource:Hepatitis C Virus Database (HCVdb)
+Resource:Hepatitis Virus B Database
 Resource:Hereditary Hearing Loss Homepage
 Resource:Herzon Lab
-Resource:Hetero-compound Information Centre- Uppsala
+Resource:High Quality SNP Database
 Resource:High Throughput Genomic Sequences Division
-Resource:HistoWeb: Nervous System
 Resource:Histology World: Nervous System Histology
+Resource:HmtDB - Human Mitochondrial DataBase
+Resource:Homologous Sequences in Ensembl Animal Genomes
 Resource:Honig Lab
 Resource:Horizontal Gene Transfer-DataBase
 Resource:House of Mind
 Resource:Howard Flow Cytometry Core
+Resource:Howard Imaging Core Facility: Molecular Imaging Laboratory
+Resource:HuSiDa - Human siRNA database
+Resource:Human BAC Ends Database
 Resource:Human Biological Data Interchange
-Resource:Human Brain Atlas
-Resource:Human Cancer Protein Interaction Network
+Resource:Human DNA Polymerase Gamma Mutation Database
 Resource:Human Embryogenesis at a glance
-Resource:Human Epigenome Atlas
 Resource:Human Gene Connectome
 Resource:Human Gene Connectome Server
 Resource:Human Gene Expression Index
+Resource:Human Gene and Protein Database (HGPD)
+Resource:Human Genome Variation database of Genotype-to-Phenotype information
+Resource:Human Mitochondrial Protein Database
+Resource:Human Mortality Database
+Resource:Human Nervous System Neuroanatomy
+Resource:Human Organized Whole Genome Database
 Resource:Human Physiology
+Resource:Human Potential Tumor Associated Antigen database
 Resource:Human Splicing Finder
+Resource:Human Tissue Resource Network
 Resource:Human Variation DB
 Resource:Hungarian Neurological-Psychiatric Biobank
 Resource:Hunt Biobank
+Resource:HyBrow (Hypothesis Browser)
 Resource:Hybrid Pattern Library
 Resource:I-SPY 2 TRIAL
-Resource:IBIS: Inferred Biomolecular Interactions Server
 Resource:ICAP - Integrated analysis of prostate cancer
-Resource:ICT Centre
-Resource:IDeA Lab brain image processing suite
-Resource:IIT Human Brain Atlas
 Resource:INCF Japan Node
 Resource:INCF Software Center
 Resource:INCF Swiss Node
+Resource:INCForg - YouTube
+Resource:IPD - Immuno Polymorphism Database
 Resource:IPD-HPA - Human Platelet Antigens
 Resource:IPD-KIR - Killer-cell Immunoglobulin-like Receptors
 Resource:IPD-MHC- Major Histocompatibility Complex
 Resource:ISCA Consortium
+Resource:ISED- Influenza Sequence and Epitope Database
 Resource:ISPS Data Archive
 Resource:ISU SIPERG Stable Isotope Lab
 Resource:ITOR Biorepository Services
-Resource:IUSM Angiogenesis Endothelial and Pro-Angiogenic Cell Core
-Resource:IUSM Therapeutic Validation Core
+Resource:IVDB - Influenza Virus Database
 Resource:Igor Software
 Resource:Image Workflow
 Resource:Image-Pro Plus
