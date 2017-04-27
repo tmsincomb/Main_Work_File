@@ -2,6 +2,7 @@ import pandas as pd
 import math
 import subprocess as sb
 from multiprocessing import Pool
+import json
 from pyontutils.scigraph_client import Vocabulary
 sgv = Vocabulary(basePath='http://localhost:9000/scigraph')
 '''
@@ -37,8 +38,10 @@ repeats = [(index, label) for index, label in list(enumerate(labels)) if labels.
 labels = list(set(labels))
 labels = list(enumerate(labels))
 print('Total # of labels:', len(labels))
-#write_n = open('labels_not_in_NIF.txt', 'w')
-write_n = open('labels_in_NIF.txt', 'w')
+#print(repeats)
+
+write_n = open('labels_not_in_NIF.txt', 'w')
+#write_n = open('labels_in_NIF.txt', 'w')
 
 def worker(label):
     count = label[0]
@@ -57,16 +60,18 @@ def worker(label):
     if count % 5 == 0: print(count)
 
     if 'NIF' not in ''.join(iris) and iris != []:
-        return '$'
+        return (label, iris)
 
     else:
-        return label
+        return ('$', '$')
 
 p = Pool()
 no_list = p.map(worker, labels)
 print('length of list:', len(no_list))
+no_dict = {}
 for value in no_list:
-    if value == '$': continue
-    write_n.write(value+ '\n')
-
+    if value[0] == '$': continue
+    no_dict[value[0]] = value[1]
+    
+write_n.write(json.dumps(no_dict))
 write_n.close()
