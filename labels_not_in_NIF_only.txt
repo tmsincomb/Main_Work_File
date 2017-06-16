@@ -1,0 +1,5275 @@
+Beaumont Hospital; Dublin; Ireland
+Ketoconazole
+Pedunculopontine nucleus of ABA 2009
+Posterior parietal association areas layer 2/3 of ABA 2009
+Etodolac
+Brodmann 1909 area 4 human
+Mitomycin
+East Tennessee State University Quillen College of Medicine
+Aplysia buccal 4
+Parabrachial pigmented nucleus of PHT00
+Hippocampus CA1 lacunosum moleculare neuron
+Heidelberg University; Heidelberg; Germany
+Gemcitabine
+Beth Israel Deaconess Medical Center; Massachusetts; USA
+Johnston organ neuron
+Field of View Shape
+Access resistance
+Free for non-profit use
+Pyrimethamine
+Dynamic model
+B6SJL-Tg(APPSwFILon,PSEN1*M146L*L286V)6799Vas mouse
+Horizontal fiber system neuron pb4
+Anterolateral visual area layer 6a of ABA 2009
+Face monitor-discrimination
+Recognition Code
+Regions Hospital; Minnesota; USA
+Overlay Label
+Context Group Local Version
+Pontine central gray of ABA 2009
+RT Plan Time
+Ion channel (nifext 2508)
+Crus 2 of ABA 2009
+Pallidum of CIVM postnatal rat brain atlas
+Lymecycline
+Medial geniculate complex of ABA 2009
+Premetamorphosis xenopus
+Mazindol
+Failure Attributes
+Referenced Brachy Application Setup Sequence
+Application Setup Name
+I T low threshold
+RHA11 hippocampal parcellation scheme region
+Dose Comment
+Image Rotation
+Centromedian thalamic nucleus medial part of PHT00
+Posteromedial visual area layer 6b of ABA 2009
+Compression Code
+German Institute of Economic Research; Berlin; Germany
+Observation DateTime
+Adult mouse
+Calcium Gluceptate
+Felypressin
+Chromium, hexavalent
+Estonian University of Life Sciences; Tartu; Estonia
+Diffusion kurtosis imaging protocol
+Lateral mammillary nucleus of ABA 2009
+Connectivity matrix
+Bed nucleus of the accessory olfactory tract of ABA 2009
+Adult protocerebral MPP tachykinin neuron
+Compensator Pixel Spacing
+Hydroxychloroquine
+Chromium(VI) oxide
+Pyridostigmine
+Other Smoothing Types Available
+Mammillary peduncle of PHT00
+Override Sequence
+Patient role
+Adolescent chimpanzee
+Glasgow coma scale
+Ferrier 1876 Parcellation scheme
+Mechanical stimulation
+Medical Record Locator
+Delayed nonmatch to sample task
+Georgetown University Medical Center; Washington D.C.; USA
+Frame Label Vector
+Code Meaning
+BC Childrens Hospital; Vancouver; Canada
+Ectorhinal area/Layer 6b of ABA 2009
+Frame Anatomy Sequence
+Acknowledgement required
+Medial thalamus
+Air Kerma Rate Reference Date
+Alpha2D receptor
+MAP04001 optic nerve
+Dorsal spinocerebellar tract cell
+LP1 neuron
+Referenced Storage Media Sequence
+Johnston organ neuron phasically activated by arista deflection
+NIH Clinical Center
+Neocortex primary motor area pyramidal layer 5 corticospinal cell
+Oddball task
+Columbia University; New York; USA
+Johnston organ neuron activated by tonic posterior arista deflection
+Autoradiography protocol
+Agranular insular area ventral part layer 2/3 of ABA 2009
+Georgia Institute of Technology; Georgia; USA
+Compensator Thickness Data
+Divided auditory attention
+Referenced Request Sequence
+Choice reaction time task
+Optic tract of WHS11
+Presentation Size Mode
+Caudal brainstem
+Energy Window Name
+Interpretation Recorded Time
+Electrical offset
+Color-discrimination task
+IWT
+Frame Acquisition Number
+Max Planck Institute for Developmental Biology; Tubingen; Germany
+Centromedian thalamic nucleus of PHT00
+Performing Physician Identification Sequence
+Diagonal band nucleus of ABA 2009
+Perfusion System
+Medium soma
+Rasagiline
+B6SJL-Tg(SOD1*G93A)1Gur/J mouse
+Free for personal use
+Intervention Drug Information Sequence
+Mechanosensory neuron of adult labial sensillum 2
+Other Media Available Sequence
+Recorded Block Sequence
+Novelty suppressed feeding test.
+Largest Image Pixel Value
+Montefiore Medical Center; New York; USA
+Inferior colliculus external nucleus of ABA 2009
+Carnegie Institution for Science
+Perforated synapse
+Dimension Index Values
+Icodextrin
+Indented Nucleus Quality
+Medial geniculate complex dorsal part of ABA 2009
+Milken Institute; California; USA
+Interferon alfa-n3
+Mediodorsal nucleus of the thalamus medial part of ABA 2009
+Cholinergic receptor, nicotinic, alpha 5
+Measured Dose Value
+French Ministry of Foreign Affairs and International Development
+Micro Drill
+Chloroprocaine
+Ibutilide
+Dartmouth College; New Hampshire; USA
+Jackson State University; Mississippi; USA
+Basomedial amygdalar nucleus of ABA 2009
+MR Timing and Related Parameters Sequence
+Direct flight muscle motor neuron
+In-stack Position Number
+LesB neuron
+Masoprocol
+Motor nucleus of trigeminal of ABA 2009
+Infralimbic area layer 2 of ABA 2009
+Novo Nordisk
+Overlays - Red
+Dopaminergic neuron (FBbt Term)
+Japanese Ministry of Health Labor and Welfare
+MKE - Ministry of Knowledge Economy
+MassGeneral Hospital for Children; Massachusetts; USA
+Fetus mouse
+Baylor Research Institute; Texas; USA
+Anterior olfactory nucleus posteroventral part of ABA 2009
+California Academy of Sciences
+Cefotetan
+External lateral parabrachial nucleus
+Fraunhofer Institute of Molecular Biology and Applied Ecology
+NHLBI Division of Prevention and Population Sciences
+Content Sequence
+ROI Number
+Olfactory cortex layer 1a
+Olfactory tubercle cap hilus region of Meyer et al 1989
+Nucleus of the solitary tract medial part of ABA 2009
+Inova; Virginia; USA
+Acquisition Contrast
+Cinolazepam
+Children's Hospital of Philadelphia; Pennsylvania; USA
+Creighton University; Nebraska; USA
+Mount Sinai Hospital; Ontario; Canada
+Posterolateral visual area layer 6a of ABA 2009
+Radius of Circular Collimator
+Adult leucokinin neuron of the central nervous system
+Infralimbic area layer 6a of ABA 2009
+Performed Series Sequence
+Primary Anatomic Structure Sequence
+Caudomedial Nidopallium
+Academia Sinica; Taipei; Taiwan
+Nizatidine
+Presubiculum of ABA 2009
+Regional part of spinal cord dorsal horn (birnlex 2671)
+Darunavir
+Nucleus ambiguus motor neuron
+Pupal Pdf negative s-LNv neuron
+Phenmetrazine
+Ethambutol
+Block Tray ID
+George Mason University; Virginia; USA
+Doppler Sample Volume X Position
+Rapid automatized naming test
+Allow Lossy Compression
+Phenindione
+Dopamine agonist role
+Flurazepam
+MR Receive Coil Sequence
+Exposure Time in ms
+Arthritis research campaign
+Cell-specific marker
+Facilitation
+Juvenile rat
+Common data element
+Orthographic discrimination
+Control Point Index
+Helmholtz Zentrum Munchen Institute of Experimental Genetics; Neuherberg; Germany
+Bevantolol
+Channel Maximum Value
+Query/Retrieve Level
+Contrast Frame Averaging
+In-plane Phase Encoding Direction
+Motivational state
+Inductive reasoning aptitude
+Duquesne University Mylan, School of Pharmacy
+ROI Mean
+DateTime
+Guanfacine
+Oblique
+Colliculus superior pyramidal cell
+Dentate gyrus lateral blade of ABA 2009
+Entorhinal area lateral part layer 2/3 of ABA 2009
+Newborn dog
+Alprostadil
+Acquisition Start Condition
+Largest Monochrome Pixel Value
+Diphenylpyraline
+Helmholtz Center Munich
+Compensator Columns
+Preoptic Area of CIVM postnatal rat brain atlas
+Ecole des Mines d'Ales; Ales; France
+Cellular Excitation
+Interpretation Approval Date
+Frequency Correction
+2
+Auditory map
+Coding Scheme Designator
+Action Potential Initiation
+Orbital area ventrolateral part layer 2/3 of ABA 2009
+Referenced Image Overlay Box Sequence
+Nitric Oxide Sensor
+Institution Name
+Current Fraction Number
+Cyclopentolate
+Internalization assay
+Dopaminergic cell group A13
+Mesothoracic ventral neurosecretory neuron
+K2p17.1
+Delta1-dihydrotestosterone
+Imaging data attribute
+Adult labial sensory neuron
+Hydroxypropyl cellulose
+Basiliximab
+Reconstruction Method
+Glutamatergic neuron (FBbt Term)
+Copeptin
+Final Cumulative Meterset Weight
+DN2 neuron
+Anileridine
+Autonomous University of Barcelona; Barcelona; Spain
+Decade
+Channel Number
+Cortical amygdalar area posterior part medial zone layer 1 of ABA 2009
+Primary auditory area layer 5 of ABA 2009
+Discharge Diagnosis Description
+Nucleus raphe obscurus of ABA 2009
+Modified Attributes Sequence
+Information exchange
+Chandelier Cell Morphology
+Radiopharmaceutical Information Sequence
+Nagahama Institute of Bio-Science and Technology; Nagahama; Japan
+Maudsley obsessive compulsive inventory
+Patients Sex
+Nelarabine
+Dopaminergic PPL2ab neuron
+Other Patient Names
+Louisiana State University Health Sciences Center Shreveport; Louisiana; USA
+Polish Academy of Sciences Warsaw; Warsaw; Poland
+Detector Primary Angle
+Organ Dose
+Intrinsic vbo neuron
+Mediodorsal nucleus of the thalamus central part of ABA 2009
+Detector Time Since Last Exposure
+Larval olfactory receptor neuron Or49a
+Human Performers Organization
+Compensator Transmission Data
+Proflavine
+Ministry of Health and Welfare - Republic of Korea
+Devils task
+Beaumont Health System; Michigan; USA
+Region Spatial Format
+Head direction cell
+Kazusa DNA Research Institute
+Patient registry
+Partners HealthCare; Massachusetts; USA
+Referenced Non-Image Composite SOP Instance
+Intervention Sequence
+Cumulative Dose to Dose Reference
+Pipotiazine
+Besluit Subsidies Investeringen Kennisinfrastructuur
+Requested Contrast Agent
+Posterior parietal association areas layer 6a of ABA 2009
+Denileukin diftitox
+Immune globulin
+Linkoping University; Linkoping; Sweden
+Olfactory bulb (accessory) external plexiform layer
+Mask Pointers
+Radiopharmaceutical Route
+Metamorphosing tadpole xenopus
+Overlay Data
+Data production tool
+NeuroElectro Term
+Dorsal commissural nucleus
+Primary somatosensory area nose layer 4 of ABA 2009
+Cardiac Cycle Position
+Reference Electrode
+Mushroom body medial lobe arborizing neuron 5
+Overlay Location
+RT ROI Interpreted Type
+Image Geometry Type
+Bielefeld University; Bielefeld; Germany
+Free University of Berlin; Berlin; Germany
+Lateral visual area layer 2/3 of ABA 2009
+Brachy Accessory Device Name
+Enalapril
+Bed nucleus of the stria terminalis spiny bipolar neuron
+Mirror tracing test
+Phelan-McDermid Syndrome
+Georgia Regents University; Georgia; USA
+Magnocellular reticular nucleus of ABA 2009
+Pioneer neuron
+Olfactory epithelium main supporting cell
+Caudomedial lobule of KA2000
+Estazolam
+Anterolateral visual area of ABA 2009
+Frame Reference Datetime
+Ansiform lobule of ABA 2009
+Pixel Component Data Type
+Polytechnic University of Valencia; Valencia; Spain
+Pons of WHS11
+Institute for Scientific and Technical Information
+Delivered Meterset
+Parasolitary nucleus of ABA 2009
+Beta wave
+Pixel Representation
+Amlodipine
+Clofarabine
+Bed nucleus of the stria terminalis dense axon plexus-forming neuron
+Caudal medulla oblongata
+Content Time
+Parapyramidal nucleus superficial part of ABA 2009
+Enfuvirtide
+Layola University Chicago; Illinois; USA
+Measured Value Sequence
+Number of Wedges
+Pacific Northwest National Laboratory
+Duke Medicine; North Carolina; USA
+Detailed neuronal model
+Butoconazole
+End Meterset
+Heinrich Heine University of DÃ_sseldorf; DÃ_sseldorf; Germany
+Dentate gyrus of ABA 2009
+Mauthner cell
+First Treatment Date
+Ammon's horn of ABA 2009
+Bits Allocated
+Audio recording
+Biological rhythm
+Apex of spinal cord dorsal horn (birnlex 2670)
+Basal pons
+Indapamide
+European Medicines Agency
+Methazolamide
+Protocerebral bridge lateral neuron PBl
+Flow
+Anteromedial visual area layer 1 of ABA 2009
+Lateral vestibular nucleus of PHT00
+Pupal Pdf neuron close to tritocerebrum
+Amygdala basolateral nuclear complex nonpyramidal SOM neuron
+Lch3 neuron
+Methylphenobarbital
+Gustatory receptor neuron of the ventral organ
+Photoactivated localization microscopy
+Ministry of Higher Education Research and Science of Quebec
+NHLBI Division of Intramural Research
+Max Planck Institute for Biological Cybernetics; Tubingen; Germany
+Gas neurotransmitter
+Micromanipulator Stand
+Canada Foundation for Innovation
+National Institute of Medical Statistics; New Delhi; India
+Interpretation Diagnosis Description
+Intervention Drug Stop Time
+Referenced Frame Number
+Post-synaptic Vesicle
+Amygdala of CIVM postnatal rat brain atlas
+PHluorins
+Bed nuclei of the stria terminalis anterior division rhomboid nucleus of ABA 2009
+6NJ
+MR Spectroscopy Acquisition Type
+MGluR5a
+A3 neuron
+Great commissural interneuron
+Medial mammillary nucleus of ABA 2009
+Interneuron (FBbt Term)
+Nominal Beam Energy Unit
+Anode Target Material
+Cortical amygdalar area of ABA 2009
+German Federal Ministry of Health
+Detector Manufacturers Model Name
+Orbital area medial part layer 5 of ABA 2009
+Basic Grayscale Image Sequence
+Diffusion Directionality
+Hyperpolarization
+Pons sensory related of ABA 2009
+Naming (Covert)
+Podcast
+Insulin Glargine recombinant
+Decay Correction
+A8 neuron
+Cuneiform nucleus of ABA 2009
+Appetitive activity
+Blue Palette Color Lookup Table Descriptor
+Performed Procedure Step Discontinuation Reason Code Squence
+Echo Time
+Dyclonine
+National Natural Science Foundation of China
+Columbia University College of Physicians and Surgeons
+Mechanosensory neuron
+CSIR-Institute of Genomics and Integrative Biology; Delhi; India
+Mixed gambles task
+Entorhinal area medial part dorsal zone layer 4 of ABA 2009
+Basolateral amygdalar nucleus anterior part of ABA 2009
+Brown Alpert Medical School; Rhode Island; USA
+Betaxolol
+Pixel Padding Value
+National University of Malaysia; Selangor; Malaysia
+Droperidol
+Oxyphencyclimine
+Neuronal tract tracing
+ROI Physical Property Value
+Blastula ferret
+Endopiriform nucleus of ABA 2009
+Ethnic Group
+Late adult human
+ROI Name
+Relevant Information Sequence
+Posteromedial visual area layer 6a of ABA 2009
+Dicyclomine
+Cefotaxime
+Declive (VI) of ABA 2009
+Leakage conductance
+Overlay Activation Layer
+Cerebral cortex layer 6 of ABA 2009
+Phototimer Setting
+Remifentanil
+Number of Blocks
+Intensifier Size
+Primary Prompts Counts Accumulated
+Indian Council of Medical Research; New Delhi; India
+RWTH Aachen University; Aachen; Germany
+Pregabalin
+Nitrated Molecular Quality
+European American
+Lateral and rotational curvature
+Energy Window Upper Limit
+Media Disposition
+Concatenation UID
+Cortical subplate of ABA 2009
+Printer Configuration Sequence
+Bounding Box Annotation Units
+Deception task
+Feed-forward inhibition
+Phosphorylated Molecular Quality
+Larval olfactory receptor neuron Or83a
+Continuous performance task
+Boston College; Massachusetts; USA
+Patients Primary Language Code Modifier Sequence
+Met enkephalin
+Instituto Gulbenkian de Ciencia; Oeiras; Portugal
+Axocruciform Synaptic Configuration
+Ministry of Science and Technology of China
+Requested Procedure Priority
+Immunogold protocol
+Carbon dioxide sensitive neuron
+Larval olfactory receptor neuron Or1a
+Agranular insular area ventral part layer 5 of ABA 2009
+Horizontal Cell Morphology
+Residual Syringe Counts
+Medial preoptic nucleus medial part of ABA 2009
+Cortical amygdalar area posterior part medial zone layer 1-2 of ABA 2009
+Korean Ministry of Education Science and Technology
+Dobutamine
+Larval olfactory receptor neuron Or67b
+Probabilistic gambling task
+Paraventricular hypothalamic nucleus magnocellular division medial magnocellular part of ABA 2009
+Diffusion-weighted MRI 3D image
+Aplysia buccal 51
+Fat-suppressed MRI 2D image
+CSIR - Indian Institute of Chemical Biology; Kolkata; India
+Banner Sun Health Research Institute
+Medial amygdalar nucleus of ABA 2009
+Oxymorphone
+Channel Total Time
+Digital filter
+Remikiren
+Indecainide
+Medial amygdalar nucleus posteroventral part of ABA 2009
+Frame of Reference Relationship Sequence
+Animal strain
+End Cumulative Meterset Weight
+Old DICOM PAGE
+Neostriatum SOM/NOS cell
+CINERGI Resource Descriptor
+Floxuridine
+Hirudo P Cell
+Cinoxacin
+Gantry Rotation Direction
+Pegfilgrastim
+Beryllium
+Paragigantocellular reticular nucleus of ABA 2009
+Entecavir
+Laronidase
+Derivation Code Sequence
+Dorsal group dA neuron
+Leucokinin neuron
+Pregnancy Status
+Mental disease
+Cefdinir
+Juvenile human
+Digit cancellation task
+Bleomycin
+Forasartan
+Data citation
+Naming service
+Nucleus raphe pallidus of ABA 2009
+Overlays - Green
+Central lobule of ABA 2009
+Acquisition Duration
+Medullary collateral inhibitory neuron
+Extra LNd neuron
+Impressions
+Field of View Dimensions
+Daclizumab
+Redx Pharma
+Institution Address
+Aminoglutethimide
+Concentrated (PATO 0001159)
+Block Transmission
+Primary somatosensory area barrel field layer 2/3
+Mid Slab Position
+Queue Status
+Italian National Research Council
+Porteus maze test
+Mask Frame Numbers
+Fb-eb neuron
+Grepafloxacin
+Referring Physician's Telephone Numbers
+Graphic Dimensions
+Interferon alfacon-1
+Patient State
+Primary somatosensory area layer 4 of ABA 2009
+Newborn rat
+Photometric Interpretation
+Collimator Right Vertical Edge
+Ministry of Health; Rome; Italy
+Dexfenfluramine
+Overlay Descriptor - Green
+Age associated cellular inclusion
+Energy Window Centerline
+Eotvos Lorand University; Budapest; Hungary
+Posterior neocortex
+Inversion Times
+Pondicherry University; Puducherry; India
+Diencephalon of CIVM postnatal rat brain atlas
+Agranular insular area ventral part layer 6a of ABA 2009
+Blaise Pascal University; Clermont-Ferrand; France
+Cortical amygdalar area posterior part medial zone of ABA 2009
+Content Date
+Katanin
+Passive viewing
+Administration Route Code Sequence
+Palonosetron
+Matrix compartment of neostriatum
+Arterial spin labeling magnetic resonance imaging protocol
+Entorhinal area lateral part layer 3 of ABA 2009
+Coincidence Window Width
+Requesting Service
+Patients Address
+DVH Referenced ROI Sequence
+Pineal Gland of CIVM postnatal rat brain atlas
+Banner Alzheimers Institute; Arizona; USA
+National Chiao Tung University; Hsinchu; Taiwan
+Ohio State University College of Pharmacy; Ohio; USA
+Insulin like growth factor 1
+Fiducial UID
+Hackathon
+Altretamine
+Interpeduncular nucleus of ABA 2009
+Patient Setup Sequence
+Buck Institute; California; USA
+Isthmus of cingulate of KA2000
+Nickel
+Originator
+Emory University School of Medicine; Georgia; USA
+Interval Number
+Centre for Cellular and Molecular Biology; Hyderabad; India
+Piriform area layers 1-3 of ABA 2009
+LesC neuron
+Banner Health
+Posteromedial visual area layer 4 of ABA 2009
+Entorhinal area lateral part layer 1 of ABA 2009
+Florida Cancer Affiliates; Florida; USA
+Mephenytoin
+Indirect flight muscle motor neuron MN2
+Parabrachial nucleus lateral division of ABA 2009
+Patients Insurance Plan Code Sequence
+Brown University; Rhode Island; USA
+Longitudinal Anatomical Orientation
+Enprofylline
+Clonazepam
+Pancrelipase
+Keio University; Tokyo; Japan
+Aroclor 1248
+Desensitization
+Fosfomycin
+Biomedical University Campus of Rome; Rome; Italy
+Gustatory epithelium (nifext 12)
+Neostriatum Neurogliaform cell
+Half Value Layer
+Motor assessment
+Natural Sciences and Engineering Research Council of Canada
+National Oceanic and Atmospheric Administration
+Nuclear Medicine Series Type
+Lobule III of ABA 2009
+Primary somatosensory area upper limb layer 1 of ABA 2009
+Electrosurgery
+Pupal DN period neuron
+Nucleus rotundus of thalamus
+Ifosfamide
+Idaho State University; Idaho; USA
+Progabide
+Referenced Image Evidence Sequence
+Medial geniculate complex ventral part of ABA 2009
+Detector Manufacturer Name
+Neocortex pyramidal layer 2-3 cell
+Agranular insular area of ABA 2009
+Radiation Machine SAD
+Person's Telephone Numbers
+Kinki University; Osaka; Japan
+Chemical Shift Sequence
+Montpellier 2 University; Montpellier; France
+Referenced Overlay Plane Sequence
+Overlay Columns
+Position Reference Indicator
+Hippocampal formation of RHA11
+Number of Graphic Points
+Albany College of Pharmacy and Health Sciences; New York; USA
+Person's Address
+Colliculus superior wide field vertical cell
+International Prevention Research Institute
+Bed nuclei of the stria terminalis posterior division transverse nucleus of ABA 2009
+Parabrachial nucleus lateral division ventral lateral part of ABA 2009
+Ansa lenticularis of PHT00
+Rescale Type
+Mushroom body pedunculus-medial lobe arborizing neuron 1
+PeaceHealth St. John Medical Center; Washington; USA
+Barrington's nucleus of ABA 2009
+Central Institute of Mental Health; Mannheim; Germany
+Output Power
+Decreased sensitivity of occurrent to oxygen
+Glutethimide
+Block Data
+Benzylpenicilloyl Polylysine
+Plant Biobank
+PH Sensor
+Paired associate recall
+Max Density
+Applicator Sequence
+Carbamazepine
+Nihon University; Tokyo; Japan
+Phensuximide
+Photoreceptor cell of Bolwig organ
+Medial preoptic area of ABA 2009
+DDE, P,P'-
+Paris-Sud University; Paris; France
+Capacitor
+Dorsal lateral septum
+Bioinformatics Institute; Singapore; Singapore
+Remoxipride
+In vivo calcium imaging assay
+Australian National Fabrication Facility
+Q-ball imaging protocol
+Digit-symbol coding test
+Ealing Hospital; London; United Kingdom
+Performed Station Name
+Posterior half of the main olfactory bulb
+Clofazimine
+Neocortex layer 5A
+Grasping task
+Ohio State University; Ohio; USA
+Horizontal Field of View
+Caudal cerebellum
+Field of View Origin
+Mechanosensory neuron of adult labial sensillum 9
+Orbital area medial part layer 1 of ABA 2009
+Posterior thalamus
+Participant
+Radiopharmaceutical Stop Time
+Gramicidin D
+Doppler Sample Volume Y Position
+Methyclothiazide
+Caudal striatum
+Pitch monitor-discrimination
+Conditioning paradigm
+Adult labial interneuron
+Beam Dose Specification Point
+Curve Activation Layer
+Device component
+Hypothalamus of WHS11
+Primary auditory area layer 6a of ABA 2009
+Capromab
+Isocarboxazid
+Dorsal peduncular area layer 2/3 of ABA 2009
+Columbia University Medical Center; New York; USA
+Area postrema of ABA 2009
+Cosyntropin
+FI slope
+Referenced ROI Number
+Magnocellular nucleus of ABA 2009
+Acknowledgement requested
+Channel Minimum Value
+6JEiJ
+Furazolidone
+Dose Reference Description
+ILSI Health and Environmental Sciences Institute
+Referenced General Purpose Scheduled Procedure Step Sequence
+North American Hospital
+European Research Council
+Blastula rat
+Chang Gung University; Taoyuan; Taiwan
+Axial Acceptance
+Chemical Shift Reference
+Melphalan
+B6;129-/Slc6a3tm2Mca mouse
+Gantry Angle
+Ofloxacin
+Orbital area ventrolateral part layer 6b of ABA 2009
+Dorsomedial hypothalamic region
+Posterior bank of the intraparietal sulcus
+Registration Type Code Sequence
+Propericiazine
+Pons of ABA 2009
+Accumbens nucleus core nucleus neuron
+Cell diameter
+Print Management Capabilities Sequence
+Light Path Filter Type Stack Code Sequence
+Channel Length
+Adam Mickiewicz University in Poznan; Poznan; Poland
+Mushroom body calyx-pedunculus arborizing neuron 1
+Acquisition Number
+Hippocampus CA3 pyramidal cell axon
+Modified Image ID
+Dorsal auditory area layer 2/3 of ABA 2009
+Beam Meterset
+Orlistat
+Field CA1 stratum oriens of ABA 2009
+North Dakota State University College of Pharmacy, Nursing, and Allied Sciences; North Dakota; USA
+Posterolateral visual area layer 5 of ABA 2009
+Reading (Overt)
+MR Imaging Modifier Sequence
+Cerebral cortex layer 2-3 of ABA 2009
+Choice task between risky and non-risky options
+Max Planck Institute for Medical Research; Heidelberg; Germany
+Clarkson University; New York; USA
+Randoms Correction Method
+Birkbeck University of London; London; United Kingdom
+Dorsal raphe nucleus of PHT00
+Mayo Clinic Minnesota; Minnesota; USA
+Detector Binning
+CT-proET-1
+Reason for Requested Procedure Code Sequence
+Larval Pdf neuron
+Cochlear nucleus (dorsal) stellate cell
+Dendritic action potential
+Pamidronate
+Field of View Horizontal Flip
+Newborn mouse
+Channel Offset
+ROI Description
+Frontal pole layer 2/3 of ABA 2009
+Des3 neuron
+Dendritic arborizing neuron
+Posteromedial visual area of ABA 2009
+Atenolol
+Number of Patient Related Series
+Hexachlorocyclohexane, gamma-
+Filter test assay of aggregation
+Conditional stop signal task
+Reference Image Number
+DesB neuron
+Mushroom body medial lobe arborizing neuron 6
+Image Overlay Box Content Sequence
+Pemetrexed
+Anisindione
+Category fluency test
+Histogram First Bin Value
+Modified Hammersmith Functional Motor Scale
+Medulla of ABA 2009
+I1 motor neuron
+Referenced Fraction Group Sequence
+Animal model
+Dopaminergic PAM neuron
+Filamentous Molecular Configuration
+National Endowment for the Humanities
+Attention deficit-hyperactivity disorder
+Conduction
+ODC Attribution License
+IVUS Gated Rate
+Fosinopril
+Operating Mode
+National University of Singapore; Singapore; Singapore
+Lenses Code Sequence
+Palifermin
+Leibniz Institute for Prevention Research and Epidemiology
+Exposure Status
+Posterior pretectal nucleus of ABA 2009
+Felbamate
+NeuroSearch
+Primary somatosensory area upper limb layer 6b of ABA 2009
+CUMBO term
+Forward digit span task
+Bed nuclei of the stria terminalis posterior division dorsal nucleus of ABA 2009
+Film Session Label
+Mushroom Spine Quality
+Dendroaxonic synapse
+Larval pacemaker neuron
+Oblique dendrite
+Prelimbic area layer 5 of ABA 2009
+Image Path Filter Type Stack Code Sequence
+Ju and Swanson 1989
+Hypertonia
+Loma Linda University; California; USA
+Gustatory areas of ABA 2009
+Frame Acquisition Duration
+Primary visual area layer 5 of ABA 2009
+Bed nuclei of the stria terminalis anterior division juxtacapsular nucleus of ABA 2009
+Olfactory bulb main tufted cell external
+Agranular insular area posterior part of ABA 2009
+Anatomic Structure Space or Region Sequence
+Putamen of PHT00
+Bendroflumethiazide
+Beam Name
+Central University of the Caribbean; Puerto Rico; USA
+In vivo Immunolabeling protocol
+Indian Institute of Technology Kanpur; Uttar Pradesh; India
+Medial substantia nigra pars compacta
+ROI Physical Property
+Fan-shaped neuron F5
+Reference Air Kerma Rate
+Nucleus laminaris principal neuron
+Primary somatosensory area lower limb layer 2/3 of ABA 2009
+Discontinuous single cell voltage clamp
+Collaboration tool
+Anterior cingulate area dorsal part layer 6b of ABA 2009
+Angelo State University; Texas; USA
+Creative Commons Attribution-NonCommercial-NoDerivs License
+Larval olfactory receptor neuron Or42b
+Effective Echo Time
+ROI Observation Description
+Neuropeptide B receptor
+Mobile app
+Multi-Coil Element Used
+Artistic License
+Receive Coil Type
+Cefepime
+Number of Contour Points
+Performed Location
+Lookup Table Number
+Physicians of Record Identification Sequence
+B6;129-/Slc6a3tm2Mca
+Referenced Stored Print Sequence
+Benton facial recognition test
+Energy Window Lower Limit
+Number of Averages
+B6CBA-Tg(HDexon1)62Gpb/3J
+Lack of fertily in offspring
+Fraction Group Number
+DVH Sequence
+Levallorphan
+Posteriolateral neurosecretory cell
+Caudal pons
+Context Group Version
+Adolescent cat
+Performed Station Name Code Sequence
+Loyola University Chicago; Illinois; USA
+Gentian Violet
+Bordeaux Segalen University; Bordeaux; France
+PreBotzinger complex
+Map reorganization
+Ontario Ministry of Economic Development Employment and Infrastructure
+DMVH2003 parcellation scheme
+Organ at Risk Full-volume Dose
+Pretectal region of ABA 2009
+Project role
+Netrin
+Gabapentin
+Orthodox Mitochondrial Quality
+Caudal trigeminal nucleus
+Mathematical entity
+Paraventricular hypothalamic nucleus magnocellular division anterior magnocellular part of ABA 2009
+Lipid peroxidation
+Chang Gung University College of Medicine; Taoyuan; Taiwan
+New York City Health and Hospitals Corporation
+Pusan National University; Busan; South Korea
+Phase Number
+Antwerp University Hospital; Antwerp; Belgium
+Neocortex primary visual layer 5 callosal cell
+Record collection
+Lamotrigine
+Medial pretectal area of ABA 2009
+Occipital cortex of human
+Raphe pallidus nucleus of PHT00
+Frontal pole cerebral cortex of ABA 2009
+Lateral part of the anterior interposed nucleus
+Polytechnic University of Catalonia; Barcelona; Spain
+Field CA1 pyramidal layer of ABA 2009
+Private granting agency
+Immunoprecipitation protocol
+Dose Reference UID
+Coagulation factor VIIa
+Gentamicin
+APV
+Olopatadine
+Image Dimensions
+Marshfield Clinic; Wisconsin; USA
+AHP amplitude
+Metathoracic posterior fascicle neuron
+G-betagamma
+RT Related ROI Sequence
+Adult Pdf neuron
+Applicator Description
+Brain of primate
+Daptomycin
+PROV term
+DDT, P,P'-
+Dinoprost Tromethamine
+Referenced Interpretation Sequence
+Class II dendritic arborizing neuron
+Data attribute
+LNv neuron
+Event Timer Names
+Morehouse School of Medicine; Georgia; USA
+Extrinsic no neuron
+Ethopropazine
+LN period neuron
+National Laboratory
+Cre-recombinase
+Glucagon recombinant
+Human Serum Albumin
+Electrotonic potential
+B6CBACa Aw-J/A-Kcnj6wv/J mouse
+Detector Configuration
+Midbrain sensory related of ABA 2009
+Oculomotor nucleus motor neuron
+Parallel Acquisition Technique
+Magnetic Field Strength
+Insurance Plan Identification
+Parallel Reduction Factor out-of-plane
+Conductance
+Delft University of Technology; South Holland; Netherlands
+Intergeniculate leaflet of the lateral geniculate complex of ABA 2009
+I Mixed
+Ertapenem
+Dextrothyroxine
+Number of Triggers in Phase
+Angio Flag
+De-coupled Nucleus
+Kyoto University; Kyoto; Japan
+Lateral fan-shaped neuron Fl1
+Aroclor 1254
+Coverage of k-Space
+RF Echo Train Length
+Max Planck Institute for Marine Microbiology; Bremen; Germany
+AstraZeneca
+Most Recent Treatment Date
+Galsulfase
+Aromatic L-Amino Acid Decarboxylase
+Backward digit span task
+Gustatory areas layer 4 of ABA 2009
+Performed Procedure Step ID
+Pubescent cat
+Lateral lemniscus (birnlex 976)
+National Cheng Kung University; Tainan; Taiwan
+Instance Creator UID
+Aminohippurate
+Ethchlorvynol
+Juvenile xenopus
+Page Number Vector
+Primary somatosensory area barrel field layer 5 of ABA 2009
+Olfactory tubercle molecular layer of ABA 2009
+Reading span task
+RT Image Name
+Penicillin G
+Graphic Annotation Sequence
+MAP04004 third ventricle
+1,2-Dibromo-3-chloropropane
+Decimate/Crop Result
+Anterior cingulate area ventral part layer 1 of ABA 2009
+Afferent
+Detector Mode
+Acenocoumarol
+Remote sensing Earth image
+Nucleus of the lateral lemniscus horizontal part of ABA 2009
+Overlay Descriptor - Red
+Dutasteride
+Interferon Alfa-2a, Recombinant
+Lateral substantia nigra pars compacta
+Pixel Component Range Start
+Hutchinson Clinic; Kansas; USA
+MR Metabolite Map Sequence
+Keep-track task
+Creation Time
+Nucleus of the optic tract of ABA 2009
+Oversampling Phase
+Hardcopy Device Manufacturer
+Providence St. Mary Regional Cancer Center; Washington; USA
+Aplysia buccal ganglia
+Cortical amygdalar area posterior part of ABA 2009
+Interanteromedial nucleus of the thalamus of ABA 2009
+Anteromedial nucleus ventral part of ABA 2009
+Posterolateral visual area of ABA 2009
+Model organism role
+Davidson College; North Carolina; USA
+Cleavage xenopus
+Henry Ford Hospital; Michigan; USA
+Astemizole
+Peptidergic neuron
+Nucleus prepositus of ABA 2009
+Primary somatosensory area barrel field layer 1 of ABA 2009
+3,3'-Dichlorobenzidine
+Almitrine
+Embryonic ferret
+Institute of Experimental Biology and Technology; Oeiras; Portugal
+Numeric Value Qualifier Code Sequence
+Chalmers University of Technology; Gothenburg; Sweden
+Midbrain reticular nucleus magnocellular part of ABA 2009
+Entorhinal area lateral part layer 4/5 of ABA 2009
+Monobenzone
+RT Plan Name
+New York Medical College; New York; USA
+Primary somatosensory area mouth layer 6a of ABA 2009
+Lundbeck
+Forebrain of WHS11
+Contrast Administration Profile Sequence
+Average Pulse Width
+Major White Matter Structures of CIVM postnatal rat brain atlas
+Carl R. Darnall Army Medical Center; Texas; USA
+Mydriatic Agent Code Sequence
+Fudan University; Shanghai; China
+Requested Decimate/Crop Behavior
+Iloprost
+Penciclovir
+Intermediodorsal nucleus of the thalamus
+Lateral amygdalar nucleus of ABA 2009
+Phenacemide
+New Energy and Industrial Technology Development Organization
+Levothyroxine
+Active Source Diameter
+Library of Congress
+Neurosecretory neuron
+Electrode
+Length (PATO 0000122)
+Karlsruhe Institute of Technology; Karlsruhe; Germany
+Pontine gray of ABA 2009
+Column Angulation
+Indirect flight muscle motor neuron
+Pdf neuron close to tritocerebrum
+Matching familiar figures test
+Complutense University of Madrid; Madrid; Spain
+Diltiazem
+Medial central nucleus of the amygdala
+Primate neocortex
+Entorhinal area lateral part of ABA 2009
+Posterior auditory area layer 6a of ABA 2009
+Infralimbic area of ABA 2009
+JISC
+Referenced Study Sequence
+Excitatory
+Clobetasol
+Label Using Information Extracted From Instances
+Medical Associates of Brevard; Florida; USA
+Erlotinib
+National Institute for Research in Computer Science and Control; Brittany; France
+Epithalamus of WHS11
+Field CA2 stratum radiatum of ABA 2009
+Leu enkephalin
+IVUS Pullback Stop Frame Number
+Probabilistic reversal learning
+Pupal Pdf neuron
+Locus ceruleus of ABA 2009
+Primary somatosensory area mouth layer 6b of ABA 2009
+Mexiletine
+Primary somatosensory area trunk layer 4 of ABA 2009
+Cortical amygdalar area posterior part lateral zone layer 1-3 of ABA 2009
+Diazinon
+Guanabenz
+Newcastle University; Newcastle upon Tyne; United Kingdom
+Referenced Time Offsets
+Oculomotor system
+Detector Temperature
+Applicator ID
+Entorhinal area lateral part layer 2 of ABA 2009
+Dot pattern expectancy task
+Institute of Museum and Library Services
+North Carolina State University; North Carolina; USA
+Decreased flow
+Anterior olfactory nucleus external part of ABA 2009
+Percent Phase Field of View
+Meclizine
+Gorilla (birnlex 318)
+Leucovorin
+Purdue University; Indiana; USA
+MAP2004 parcellation scheme
+Main olfactory bulb outer plexiform layer of ABA 2009
+Pramlintide
+Neuroplasticity
+Acquisition Device Type Code Sequence
+Lawrence Berkeley National Laboratory
+Infralimbic area layer 2/3 of ABA 2009
+Dose Reference Point Coordinates
+Primary somatosensory area barrel field layer 6a of ABA 2009
+Gastrula xenopus
+Arcuate hypothalamic nucleus of ABA 2009
+Regional funding resource
+Material ID
+Omalizumab
+Referenced Frame Numbers
+Perihypoglossal nuclei of ABA 2009
+Mepivacaine
+Control Point Delivery Sequence
+Cellular morphology characteristic
+Parcellation scheme parcel
+Branch of Service
+Compensator Number
+Lenalidomide
+Meloxicam
+Modified Image Time
+Dorsal root ganglion A alpha-beta nociceptive neuron
+Detector Active Time
+Dorsal tegmental nucleus of ABA 2009
+Facial (accessory) nucleus
+Coincidence detection
+Phase Delay
+Hypothalamic lateral zone of ABA 2009
+Military Rank
+Photoreceptor role
+Brain Subdivisions based on automated term selection
+Benaroya Research Institute
+Cortical flat map
+Filter Thickness Maximum
+Metabolite Map Description
+Colliculus superior type I ganglion cell
+Moclobemide
+Median fan-shaped neuron Fm2
+NYU Langone Medical Center; New York; USA
+Cycrimine
+Largest Image Pixel Value in Plane
+Larval drosophila
+Gallyas silver stain
+Receive Coil Name
+Oxybuprocaine
+Florida State University; Florida; USA
+Clenbuterol
+Increased density
+Newton-Wellesley Hospital; Massachusetts; USA
+Radiopharmaceutical Code Sequence
+Clomocycline
+Neuronal acetylcholine receptor subunit beta-1
+Emotional regulation task
+Pacemaker neuron
+Echothiophate Iodide
+Increased sensitivity of occurrent to oxygen
+Leuprolide
+Biobank
+Hirudo Retzius cell
+Fetus dog
+North East Cyberinfrastructure Consortium
+Aceprometazine
+Periventricular hypothalamic nucleus posterior part of ABA 2009
+Mushroom body pedunculus-medial lobe and vertical lobe arborizing neuron 2
+French National Cancer Institute
+Postpiriform transition area of ABA 2009
+Lead
+Cerebral cortex layer 2 of ABA 2009
+Adult dorsomedial neurosecretory cell
+Delivered Primary Meterset
+Antithymocyte globulin
+RIKEN Yokohama Institute; Kanagawa; Japan
+Histogram Last Bin Value
+Phenylpropanolamine
+Dorsomedial neurosecretory cell
+Crotamiton
+Nucleus y of ABA 2009
+Geometry of k-Space Traversal
+Image Box Content Sequence
+Lateral septal complex of ABA 2009
+Intervention Description
+Physical Units Y Direction
+Joubert syndrome related disorder
+Paramedian reticular nucleus of PHT00
+Ongur, Price, and Ferry (2003) area PrCO (birnlex 4081)
+Medullary reticular nucleus ventral part of ABA 2009
+Menotropins
+Embryo mouse
+Entorhinal cortex of PHT00
+Emedastine
+Parastrial nucleus of ABA 2009
+Posterior auditory area layer 6b of ABA 2009
+Burwell Witter and Amaral (1995) cortical parcellation scheme
+Memantine
+Harbin Institute of Technology; Harbin; China
+Primary somatosensory area trunk layer 6b of ABA 2009
+Illumination Type Code Sequence
+Bed nucleus of the stria terminalis basket neuron
+Physician Approving Interpretation
+Olfactory bulb (accessory) granule cell layer
+Phosphatidylserine
+Piriform area polymorph layer of ABA 2009
+Experimental autoimmune encephalomyelitis
+Recorded Channel Sequence
+Corpora quadrigema
+Median fan-shaped neuron Fm3
+Monash University; Melbourne; Australia
+Contour Geometric Type
+Amygdalo-entorhinal transition area of RHA11
+PreBotzinger complex neuron
+Granular cortex
+Placebo
+IRCCS SDN Foundation; Naples; Italy
+Dorsal peduncular area layer 2 of ABA 2009
+DVH Normalization Point
+Cilastatin
+Free University of Brussels; Brussels; Belgium
+Federal University of Rio de Janeiro; Rio de Janeiro; Brazil
+Creative Commons License
+Harbin Medical University; Heilongjiang; China
+Epoetin alfa
+Letter n-back task
+Drug withdrawal paradigm
+Per-frame Functional Groups Sequence
+Resource role
+Adult tritocerebral TC1 tachykinin neuron
+Channel Sequence
+Embryonic xenopus
+Primary Anatomic Structure Modifier Sequence
+Neuroendocrine motor cell role
+Anteromedial visual area layer 2/3 of ABA 2009
+Field CA3 stratum oriens of ABA 2009
+Max Planck Institute of Molecular Cell Biology and Genetics; Dresden; Germany
+Default Smoothing Type
+Continuous recognition paradigm
+Chlorothiazide
+Federal University of Rio Grande do Sul; Rio Grande do Sul; Brazil
+Nominal Scanned Pixel Spacing
+Prepositus nucleus of PHT00
+Merck KGaA
+Endosulfan
+Neuron specific marker
+Acute binge drug administration paradigm
+Globus pallidus internal segment of ABA 2009
+Paraventricular hypothalamic region
+Catalan Ministry of Health
+Horizontal fiber system neuron pb5
+Reason for the Requested Procedure
+Lexical decision task
+Oxprenolol
+Primary somatosensory area nose layer 5 of ABA 2009
+Pallidum ventral region of ABA 2009
+Max Delbruck Center for Molecular Medicine; Berlin; Germany
+Discharge Date
+Fast blue
+Image Orientation (Patient)
+Entorhinal area medial part dorsal zone of ABA 2009
+Janssen Pharmaceuticals Inc.
+Blastula cat
+Lateral part of the parafascicular thalamic nucleus
+Johannes Gutenberg University Mainz; Rhineland-Palatinate; Germany
+Nicardipine
+Hippocampus regio superior of Cajal
+Referenced Compensator Number
+Raphe obscurus nucleus of PHT00
+China Agricultural University; Beijing; China
+Azelastine
+Primary somatosensory area layer 2/3 of ABA 2009
+Isoproterenol
+Abnormality of the nervous system
+Emmetropic Magnification
+Population code
+Dynamic polarization
+Active dendrite
+Hebrew University Hadassah Medical School; Jerusalem; Israel
+Fused Vesicle Quality
+Hydralazine
+Patient Orientation Code Sequence
+Prelimbic area layer 6b of ABA 2009
+Decreased density
+Gustatory receptor neuron
+Midazolam
+Barcode Symbology
+Long-term Synaptic Plasticity
+Perceptual Categories
+Kennedy Krieger Institute
+Alendronate
+Mayo Clinic
+Posterior parietal association areas layer 5 of ABA 2009
+Flavoxate
+Nucleus raphe magnus of ABA 2009
+Hippocampus CA3 pyramidal cell synaptic bouton
+Medial basal hypothalamus
+Neurula human
+Detector Conditions Nominal Flag
+Max Planck Institute for Molecular Genetics; Berlin; Germany
+Adult protocerebral LPP2 tachykinin neuron
+Dentate gyrus crest molecular layer of ABA 2009
+Anterior cingulate area dorsal part layer 5 of ABA 2009
+Metyrosine
+Lateral superior colliculus
+Parvicellular reticular nucleus of ABA 2009
+Bounding Box Top Left Hand Corner
+Pontine reticular nucleus ventral part of ABA 2009
+Immunofluorescence
+Parameter sensitivity
+Anterior Commissure of CIVM postnatal rat brain atlas
+ADP duration
+Pallidum caudal region of ABA 2009
+Depolarization block
+Digoxin
+Kent State University School of Biomedical Sciences; Ohio; USA
+Loperamide
+National Institute of Mental Health and Neuro Sciences; Bangalore; India
+Presentation LUT Shape
+Dentate gyrus crest granule cell layer of ABA 2009
+Dorsal peduncular area layer 5 of ABA 2009
+MR Acquisition Type
+Paraventricular hypothalamic nucleus descending division of ABA 2009
+Efavirenz
+Isometric force
+Helmholtz Zentrum Munchen Institute of Epidemiology; Neuherberg; Germany
+Neural coding
+Pyrazinamide
+Hong Kong Baptist University; Hong Kong; China
+Generator potential
+Performed Protocol Code Sequence
+Maprotiline
+Aged mouse
+Project portal
+En Passant Bouton Quality
+Non-membrane bound organelle
+Agricultural University of Athens; Athens; Greece
+Induseum griseum of ABA 2009
+Polish Ministry of Science and Higher Education
+National Center for Health Statistics
+Inferior olivary nucleus interneuron
+Compensator Sequence
+Requested Procedure Description
+Cancer Care Northwest; Washington; USA
+Requested Image Size
+Histogram Bin Width
+Embryonic stem cell
+Institute of Bioinformatics and Systems Biology; Neuherberg; Germany
+Fan-shaped neuron F6
+Catholic University of the Sacred Heart; Milan; Italy
+Delivered Secondary Meterset
+Phenazopyridine
+Research Council of Norway
+Heptachlor epoxide
+Neocortex Dorsolateral Prefrontal Area layer 2 parvalbumin cell
+Presynaptic facilitation
+Cell-detached outside-out single-channel recording protocol
+Beam Limiting Device Rotation Direction
+Orbital area medial part layer 6a of ABA 2009
+Regional Part Of Axon (sao280355188)
+Hvidovre Hospital; Hvidovre; Denmark
+Constraint Weight
+Accessory nucleus
+JEmsJ
+Overlay Bit Position
+Entorhinal area medial part dorsal zone layer 2 of ABA 2009
+Modified Image Description
+Hemisphere of cerebral cortex
+Economic and Social Research Council
+Recapitulation
+CeCILL license
+Presynaptic inhibition
+Kent State University; Ohio; USA
+Acquisition Start Condition Data
+Embryo xenopus
+Interpeduncular nucleus of WHS11
+Amygdala lateral central nucleus medium spiny neuron
+Posterolateral visual area layer 4 of ABA 2009
+Dark rearing paradigm
+Field of View Rotation
+Anterior hypothalamic nucleus anterior part of ABA 2009
+Ethotoin
+Cumulative Dose Reference Coefficient
+Candoxatril
+Order Enterers Location
+Anterior hypothalamic area of ABA 2009
+Butalbital
+Eastern Health Alliance
+CTnI
+Dopaminergic PPM3 neuron
+Hackensack University Medical Center; New Jersey; USA
+Ecole Normale Superieure; Paris; France
+Folium-tuber vermis (VII) of ABA 2009
+MR Acquisition Phase Encoding Steps in-plane
+Divalproex sodium
+Degree of Dilation
+Leiden University Medical Center; Leiden; Netherlands
+Medial nucleus accumbens
+Anterior crossvein campaniform sensillum neuron
+Perineurial Cell
+Agonist role
+Field L
+Referenced Content Item Identifier
+Charles III University of Madrid; Madrid; Spain
+Dose Calibration Factor
+Patient attribute
+Fiducial Identifier
+Creative Commons Attribution-NonCommercial License
+Hindbrain of CIVM postnatal rat brain atlas
+Gradient Output Type
+Intervention Drug Dose
+Referenced Image Sequence
+Johnston organ neuron tonically activated by arista deflection
+Orbital area medial part of ABA 2009
+Pontifical Catholic University of Argentina; Buenos Aires; Argentina
+Ranson S.W. 1920 Parcellation scheme
+Gustatory receptor neuron of the dorsal organ
+Curie Institute; Paris; France
+Peripherally synapsing interneuron
+Nimodipine
+Entorhinal area of ABA 2009
+Disulfoton
+BSRC Al. Fleming; East Attica; Greece
+Mercury
+Aminophenazone
+Blood Signal Nulling
+Referenced Patient Sequence
+Acquisition Datetime
+Dose Rate Delivered
+Crus 1 of ABA 2009
+Detector Lines of Response Used
+Cortical amygdalar area anterior part layer 2 of ABA 2009
+Masking Image
+Channel Sensitivity
+Brachy Accessory Device ID
+Heritage Provider Network; California; USA
+Overlay Mode
+Antennal lobe (Honey bee) interneuron
+Hardcopy Device Software Version
+Region of Residence
+Magnetic resonance imaging protocol
+Cerebral cortex layer 4 of ABA 2009
+Compensator ID
+Localization theory
+Accessory olfactory bulb mitral layer of ABA 2009
+Measurement device
+Digitizing Device Transport Direction
+Claude Bernard University Lyon 1; Lyon; France
+Methylprednisolone
+Recorded Channel Shield Sequence
+Mushroom body medial lobe arborizing neuron 7
+MR Modifier Sequence
+Evoked inhibitory postsynaptic current
+Desloratadine
+Gamma wave
+NIF annotation standard for expression level
+Orbital area of ABA 2009
+Medial pulvinar
+Hayling sentence completion test
+Patients Institution Residence
+Ectorhinal area/Layer 2/3 of ABA 2009
+Les4 neuron
+Filopodial Spine Quality
+Control Point 3D Position
+Aplysia buccal 30
+Receptor potential
+Medial superior colliculus
+Request Priority
+Amydala of WHS11
+Confidentiality Constraint on Patient Data Description
+Embryonic cat
+Disposition (PATO 0001727)
+National Tsing Hua University; Hsinchu; Taiwan
+Erythrityl Tetranitrate
+Projection Eponymous Name Code Sequence
+Organ Exposed
+Aggregate field theory
+Ohio Northern University College of Pharmacy
+Aminocaproic Acid
+Candicidin
+Reinforcement Learning
+Ranolazine
+Lateral visual area layer 6b of ABA 2009
+Dorsal terminal nucleus of the accessory optic tract of ABA 2009
+National Heart Lung and Blood Institute Office of the Director
+ROI Volume
+Entorhinal cortex layer 2 stellate neuron
+Pneumatic Pump
+Genome Canada
+Green Palette Color Lookup Table Data
+Fast afterhyperpolarization amplitude
+Patient Additional Position
+Korean Ministry of Science and Technology
+Cortical parcellation scheme
+Cisatracurium Besylate
+Aged cat
+Cerebral cortex layer 5 of ABA 2009
+Inversion Recovery
+Posterior middle temporal sulcus of PHT00
+Parahippocampal area
+Motor map
+Grid cell
+Image Location
+Fast twitch type A skeletal muscle cell
+Lamprey motor neuron
+Activity pattern
+Label Style Selection
+Individual body part movement
+Other Study Numbers
+Midbrain reticular nucleus of ABA 2009
+Basomedial amygdalar nucleus anterior part of ABA 2009
+Brompheniramine
+Accelerating rotarod test
+Multi-planar Excitation
+Electrotonus
+Midbrain of WHS11
+Mecamylamine
+Acetyldigitoxin
+Delivered Treatment Time
+Maximum Collated Films
+Mayo Clinic Florida; Florida; USA
+Glipizide
+Animal Temp Control
+Patients Age
+Cerebral cortex layer 1 of ABA 2009
+Mupirocin
+Mississippi State University; Mississippi; USA
+Processed image attribute
+Gustatory areas layer 5 of ABA 2009
+Block Number of Points
+Grid Aspect Ratio
+German Federal Ministry of Education and Research
+Presentation Pixel Magnification Ratio
+Display Window Label Vector
+Beam Limiting Device Angle Tolerance
+Addiction
+Musca (birnlex 570)
+Implant Present
+Delivered Pulse Repetition Interval
+Commissural nucleus of thalamus of MAP2004
+ReJ
+Medial part of the medial preoptic nucleus
+Recitation-repetition (Covert)
+Compensator Position
+PeaceHealth
+Bromfenac
+Embryonic human
+National Institute of Agrobiological Sciences; Ibaraki; Japan
+Compensator Type
+Projection neuron (FBbt Term)
+Michigan State University; Michigan; USA
+Pupal antennal lobes tachykinin neuron
+Queen's University Belfast; Ireland; United Kingdom
+Number of Time Slices
+Jacobs University Bremen; Bremen; Germany
+Old Dominion University; Virginia; USA
+Norwegian University of Science and Technology; Trondheim; Norway
+Office of the NCI Director
+California Environmental Protection Agency
+RHA11 hippocampal parcellation scheme
+Macquarie University; Sydney; Australia
+Aristotle University of Thessaloniki; Thessaloniki; Greece
+Rackmounts
+Olfactory tubercle of ABA 2009
+Hindbrain of ABA 2009
+2DeJ
+Caudomedial lobule
+Pupal large descending DN tachykinin neuron
+Colliculus superior intermediate vertical fusiform cell
+Hannover Medical School; Lower Saxony; Germany
+International Geo Sample Number
+NTP Source Address
+National Institute of Genetics; Shizuoka; Japan
+Autism diagnostic observation schedule
+Olfactory receptor neuron of dorsal organ
+Referenced Dose Reference Number
+Autonomous University of Madrid; Madrid; Spain
+Related Series Sequence
+Human Performers Name
+Blastula dog
+CSIRO
+Lateral central nucleus of the amygdala
+Center of Circular Collimator
+Dopaminergic PPL1 neuron
+Iophendylate
+Channel Shield Name
+Acquisition Time Synchronized
+Abdominal 9 sensory neuron
+Glucose Sensor
+NIH Office of the Director
+Orbital area lateral part layer 5 of ABA 2009
+ROI Generation Description
+Forebrain nucleus parcellation scheme
+Mechanosensory neuron of adult labial sensillum 6
+Dorzolamide
+Johannes Kepler University of Linz; Linz; Austria
+Electromotive force
+Diphenoxylate
+Entorhinal area medial part ventral zone layer 5/6 of ABA 2009
+Acquisition Termination Condition
+Middle temporal area (Rhesus macaque)
+Cleveland Clinic; Ohio; USA
+Humboldt University of Berlin; Berlin; Germany
+Referenced Instance Sequence
+Override Parameter Pointer
+Referenced Verification Image Sequence
+Glass Electrode
+Fiat process part
+Expression atlas
+Oregon Health and Science University; Oregon; USA
+Lower thoracic spinal cord
+Admitting Time
+Data Representation
+Desn neuron
+Netherlands Bioinformatics Centre
+Default Printer Resolution ID
+DN1 neuron
+Pyramids and palm trees task
+Medical University of Graz; Graz; Austria
+High-Dose Technique Type
+Beijing Normal University; Beijing; China
+Class III dendritic arborizing neuron
+Calcium Acetate
+Marshall University Joan C. Edwards School of Medicine; West Virginia; USA
+Rectilinear Phase Encode Reordering
+Nantes University Hospital; Nantes; France
+Clemson University; South Carolina; USA
+Attenuation
+Giant fiber neuron
+George Washington University; Washington D.C.; USA
+Requested Procedure ID
+Baylor University; Texas; USA
+Botulinum Toxin Type B
+Piriform cortex frontal area
+Extracellular Amplifier
+Cholera toxin B-chain
+Globus pallidus external segment of ABA 2009
+Embryonic / larval olfactory receptor neuron
+Pulse Repetition Frequency
+Detector Active Dimensions
+Adult neurogenesis
+Maimonides Medical Center; New York; USA
+KA2000 parcellation scheme parcel
+Placer Order Number / Imaging Service Request
+Posterior cortex
+Mushroom body calyx arborizing neuron 1
+Institute for Research in Biomedicine; Barcelona; Spain
+N-back task
+Medial preoptic nucleus of ABA 2009
+Repeat Fraction Cycle Length
+Mushroom body ventral lobe arborizing neuron 1
+Patients Birth Name
+German Rheumatism Research Centre Berlin; Berlin; Germany
+Kenyon cell
+Image Horizontal Flip
+Issuer of Admission ID
+Collimator Left Vertical Edge
+Referenced Overlay Sequence
+Nucleus intercalates of ABA 2009
+Hydrogen Sulfide Sensor
+National Yang-Ming University; Taipei; Taiwan
+Pennsylvania State University; Pennsylvania; USA
+Eletriptan
+Requested Image Size Flag
+Cambridge neuropsychological test automated battery
+Phenformin
+NHLBI Division of Lung Diseases
+Marquette University; Wisconsin; USA
+Prepubesecent chimpanzee
+Pemirolast
+Beam Limiting Device Tolerance Sequence
+Adult xenopus
+Entorhinal area medial part dorsal zone layer 3 of ABA 2009
+Charles University; Prague; Czech Republic
+Ranson S.W. 1920 Parcellation scheme region
+Data management software
+Palette Color Lookup Table UID
+Neurula rat
+Parabigeminal nucleus of ABA 2009
+Ciliated photoreceptor cell
+Intermediodorsal nucleus of the thalamus of ABA 2009
+Cerebellar Secondary Vestibular Afferents
+Pixel Spacing Sequence
+Fiducial Identifier Code Sequence
+Nociceptive role of nerve cell
+Epoch
+Creative Commons Zero License
+Data Set Type
+Hooper visual organization test
+Pdf neuron of abdominal neuromere
+Lateral terminal nucleus of the accessory optic tract of ABA 2009
+Butler University; College of Pharmacy & Health Sciences
+Non-choice task to study expected value and uncertainty
+Allow Media Splitting
+Pallium of CIVM postnatal rat brain atlas
+Item Number
+Multiple Spin Echo
+Goserelin
+Intracellular Amplifier
+Granule Cell Morphology
+Normalization Point
+Adult labial motor neuron
+Medial shell of nucleus accumbens
+Dose Grid Scaling
+Graz University of Technology; Styria; Austria
+Channel Shield Nominal Thickness
+Anchor Point Annotation Units
+Counts Included
+Nitrofurazone
+Fast Fourier transform
+Central retina
+Brain of WHS11
+Connected temporal region
+Acquisitions in Series
+Postprocessing Function
+Columns
+Laval University; Quebec; Canada
+Modified Image Date
+Max Planck Institute of Molecular Plant Physiology; Golm; Germany
+Broca's area
+Finger tapping task
+Light Path Filter Pass Band
+ADP amplitude
+Clustered Anatomical Configuration
+Repaglinide
+Phenelzine
+Authoring tool
+Procaterol
+Biperiden
+Noise Sensitivity
+Antennal commissure
+Mask Operation
+Contour Offset Vector
+LPC receptor - unspecified 2
+Chlormezanone
+Agranular insular area posterior part layer 6b of ABA 2009
+Open University; Milton Keynes; United Kingdom
+Anterolateral visual area layer 1 of ABA 2009
+Jadavpur University; West Bengal; India
+Anidulafungin
+CA3 stratum pyramidale
+Adult anterior LK leucokinin neuron
+RT Image Plane
+Extrinsic neuron
+Primary visual area layer 6b of ABA 2009
+Atomoxetine
+Emory University; Georgia; USA
+GNU Free Documentation License
+African Biobank
+Cetrorelix
+Radiographic image
+Phase Information Sequence
+Paraventricular hypothalamic nucleus magnocellular division posterior magnocellular part of ABA 2009
+Primary auditory area layer 6b of ABA 2009
+Infralimbic area layer 1 of ABA 2009
+Indirect flight muscle motor neuron MN4
+Cardiff University; Wales; United Kingdom
+Ectorhinal area/Layer 6a of ABA 2009
+Pineal body of ABA 2009
+Radiopharmaceutical Specific Activity
+Danish Agency for Science Technology and Innovation
+National Historical Publications and Records Commission
+Instituto Superior de Psicologia Aplicada; Lisbon; Portugal
+Doxapram
+Contour Slab Thickness
+Interpretation Approval Time
+Metabolite Map Code Sequence
+Relaxation
+Printer Resolution ID
+Lateral septal nucleus caudal (caudodorsal) part of ABA 2009
+Radial Anatomical Orientation
+MicroFil
+LPC receptor - unspecified 3
+Nucleus circularis of ABA 2009
+Octave
+Central nervous system of rodent
+National Institute of Informatics; Tokyo; Japan
+Maimonides Cancer Center; New York; USA
+Field CA3 stratum lacunosum-moleculare of ABA 2009
+Chewing-swallowing
+Nucleus of Darkschewitsch of ABA 2009
+Enoxacin
+Alcohol-Related Withdrawal
+Diffusion-weighted MRI 2D image
+Childhood disintegrative disorder
+Dopamine antagonist role
+Presentation Pixel Aspect Ratio
+Moricizine
+Orbital area lateral part layer 6a of ABA 2009
+Korea Research Institute of Bioscience and Biotechnology; Daejeon; South Korea
+Relational attachment quality
+Interferon alfa-n1
+Lateral septal nucleus rostral (rostroventral) part of ABA 2009
+Diaphragm Position
+Georgia State University; Georgia; USA
+Chronic drug administration paradigm
+Current carrier
+Boston Medical Center; Massachusetts; USA
+Diffusion-weighted magnetic resonance imaging
+Miami University; Ohio; USA
+Hadjikhani et al. (1998) visuotopic partition scheme
+Pupal LN period neuron
+Primary somatosensory area mouth layer 2/3 of ABA 2009
+Levomethadyl Acetate
+Karolinska Institutet; Stockholm; Sweden
+Nucleus of the solitary tract of ABA 2009
+International Life Sciences Institute
+Ivermectin
+Central nervous system of primate
+Interposed nucleus of ABA 2009
+Actual Human Performers Sequence
+Failed SOP Sequence
+Benzthiazide
+Oxcarbazepine
+Lepirudin
+Ranibizumab
+Paraventricular hypothalamic nucleus descending division medial parvicellular part ventral zone of ABA 2009
+Cut open oocyte voltage clamp recording protocol
+Referenced SOP Class UID
+Aplysia buccal 61
+Carisoprodol
+Dimension Index Private Creator
+Noradrenergic Receptor
+Dorsal septum
+Pb-no neuron
+Nocioceptor
+Fritz Lipmann Institute; Jena; Germany
+Cleavage rat
+Cochlear nuclei of ABA 2009
+Idoxuridine
+Leibniz Institute of Plant Genetics and Crop Plant Research; Saxony-Anhalt; Germany
+Fiducial Description
+Distribution Name
+Bed nuclei of the stria terminalis posterior division of ABA 2009
+City of Hope; California; USA
+Postpiriform transition area layers 1 of ABA 2009
+Gray Lookup Table Descriptor
+Condensed Mitochondrial Quality
+Medical Alerts
+Desoximetasone
+Radiation Setting
+Dorsal root ganglion A alpha-beta non-nociceptive neuron
+Interferon beta-1b
+Performed Procedure Step Description
+Fenoprofen
+Neuroinflammation
+Multiple Copies Flag
+Intrinsic neuron (FBbt Term)
+Meharry Medical College School of Graduate Studies and Research; Tennessee; USA
+Recorded Source Sequence
+Performed Processing Applications Code Sequence
+Inferior antennal lobe commissure
+Eszopiclone
+Drexel University College of Medicine; Pennsylvania; USA
+Bed nuclei of the stria terminalis of ABA 2009
+Netherlands Genomics Initiative
+Physicians of Record
+Peripeduncular nucleus of ABA 2009
+Kobayashi and Amaral 2000 parcellation scheme
+DesE neuron
+Bivalirudin
+Action imitation task
+Fenoterol
+Attention networks test
+Modality LUT Sequence
+Intebrain
+I Cl,Ca
+Mivacurium
+General Purpose Performed Procedure Step Status
+Non-commercial
+Ewha Womans University; Seoul; South Korea
+Red Palette Color Lookup Table Data
+Ethoxzolamide
+Ohms law
+Newborn cat
+Louisiana State University; Louisiana; USA
+Calibration Data Sequence
+Neural circuit
+Beta2 receptor (nifext 7082)
+Pubescent rat
+Menthol
+Prothoracic ventral neurosecretory neuron
+Air Kerma Rate Reference Time
+Hong Kong Polytechnic University; Hong Kong; China
+Anteromedial visual area layer 5 of ABA 2009
+Agranular insular area dorsal part layer 5 of ABA 2009
+Blastula mouse
+Olfactory cortex superficial pyramidal cell
+Di-n-butyl phthalate
+C57BL/6
+Adolescent human
+Agranular insular area posterior part layer 5 of ABA 2009
+Brachy Accessory Device Type
+Name of Physicians Reading Study
+Instance Number
+Primary visual area layer 4 of ABA 2009
+Film Box Content Sequence
+Brodmann (1909) cortical parcellation scheme guenon
+Anterior amygdalar area of ABA 2009
+Printer Status Info
+Orbital area medial part layer 2/3 of ABA 2009
+Posterior auditory area layer 1 of ABA 2009
+Neocortex Dorsolateral Prefrontal Area layer 6 parvalbumin cell
+Rene Rachou Research Center - FIOCRUZ; Belo Horizonte; Brazil
+Battelle Memorial Institute; Ohio; USA
+Configuration Information Description
+Antennal lobe (Manduca) principal neuron
+Cryptenamine
+Main olfactory bulb glomerular layer of ABA 2009
+Orciprenaline
+Magnetic resonance imaging attribute
+Light Path Filter Pass-Through Wavelength
+Medial amygdalar nucleus anterodorsal part of ABA 2009
+Dual-task paradigm
+Inferior colliculus dorsal nucleus of ABA 2009
+Cerebral nuclei of ABA 2009
+Johnston organ neuron activated by tonic anterior arista deflection
+Abdominal 10 sensory neuron
+Parabrachial nucleus of ABA 2009
+Plantar Test/Tail Flick Meter
+Lossy Image Compression
+Anterodorsal preoptic nucleus of ABA 2009
+Nateglinide
+Canadian Institutes of Health Research
+Mesial temporal sclerosis
+Dimension Index Pointer
+Agranular insular area dorsal part layer 6b of ABA 2009
+Amlexanox
+Iron Dextran
+DN1a neuron
+Pallidum medial region of ABA 2009
+3D T1 weighted MRI scan
+Howard University College of Medicine; Washington D.C.; USA
+Gastrula mouse
+Dentate gyrus medial blade granule cell layer of ABA 2009
+Fraction Group Description
+Imagined movement
+Midbrain reticular nucleus parvicellular part of ABA 2009
+Primary somatosensory area lower limb layer 4 of ABA 2009
+Pupal DN2 period neuron
+Fixation task
+National Taiwan University; Taipei; Taiwan
+Counts Accumulated
+Cerebellar Afferents From The Prepositus Nuclear Complex
+Aspirin
+Channel Source Modifiers Sequence
+Anterior cingulate area ventral part layer 2/3 of ABA 2009
+Fluoro emerald
+Post-Tetanic Potentiation
+Freezing point depression osmometer
+Primary somatosensory area barrel field layer 4 of ABA 2009
+Natalizumab
+MR Acquisition Phase Encoding Steps out-of-plane
+Probucol
+Chloroxine
+Positioner Secondary Angle Increment
+Breath-holding
+Exposure Control Mode Description
+Entorhinal area lateral part layer 2a of ABA 2009
+Miyoshi Myopathy
+Gradient Output
+Depth of Scan Field
+Betazole
+Frontal eye field
+Dependent continuant
+Adolescent rat
+Parabrachial nucleus lateral division superior lateral part of ABA 2009
+Nagoya University; Nagoya; Japan
+Patients Primary Language Code Sequence
+Parapyramidal nucleus deep part of ABA 2009
+AC Couple
+Neocortex Dorsolateral Prefrontal Area layer 3 parvalbumin cell
+Anterior hypothalamic nucleus of ABA 2009
+Isocortex of CIVM postnatal rat brain atlas
+Decibel
+Fimbria of WHS11
+Frame Type
+Propylthiouracil
+PubMed ID
+Partial Fourier Direction
+Paraventricular hypothalamic nucleus parvicellular division periventricular part of ABA 2009
+Confidentiality Code
+Detector Activation Offset From Exposure
+Hematopoietic stem cell
+Image Frame Origin
+Posterior auditory area of ABA 2009
+Contrast/Bolus Agent Number
+Overlay Description
+Diethylpropion
+Pupal tachykinin neuron of the central nervous system
+ABA 2009 mouse brain parcel
+Orbital area ventrolateral part layer 1 of ABA 2009
+Anterior fascicle sensory neuron
+International Institute of Molecular and Cell Biology; Warsaw; Poland
+Axis Units
+Optic Pathways of CIVM postnatal rat brain atlas
+Phenindamine
+Meprobamate
+Manipulated Image
+Comments on the Performed Procedure Step
+Performed Procedure Type Description
+Printing Bit Depth
+Input Availability Flag
+Ramapo College; New Jersey; USA
+Doors and people test
+NWO - Netherlands Organization for Scientific Research
+Image repository
+Astrocyte specific marker
+LPC receptor
+Cyanocobalamin
+Phaseolus vulgaris leucoagglutinin
+Issue Time of Imaging Service Request
+MolecularInteraction
+Multi-Coil Configuration
+Australian National University; Acton; Australia
+Collagenase
+Mesoridazine
+Graphic Layer
+Creative Commons Attribution License
+Mibefradil
+Patients Name
+Colliculus superior inverted pyramidal cell
+Context Group Extension Flag
+Nucleus of the solitary tract commissural part of ABA 2009
+Medial septal nucleus of ABA 2009
+Flow-weighted magnetic resonance imaging protocol
+North Dakota State University; North Dakota; USA
+Referenced Reference Image Number
+Posner cueing task
+Film viewing
+Fixation Device Description
+Nitrendipine
+Contribution DateTime
+Protein affinity reagent target
+Alemtuzumab
+Radiopharmaceutical
+Funiculi
+Colistin
+Adult rat
+Evolution
+Referenced Series Sequence
+Calibration Image
+Chlormerodrin
+Interpretation Transcription Time
+DVH Type
+Frame of Reference Transformation Matrix
+Hyaluronidase
+Number of Series Related Instances
+Creative Commons Attribution-NoDerivs License
+Dorsal motor nucleus of the vagus nerve of ABA 2009
+Pallidum of ABA 2009
+Albany Medical College; Albany; New York
+RT Beam Limiting Device Type
+ROI Contour Sequence
+Processing Function
+Health Care Organization
+Latvian Institute of Organic Synthesis; Riga; Latvia
+2HaSmnJ
+Caudal entorhinal field of RHA11
+Clidinium
+Benign essential blepharospasm
+Matrix Registration Sequence
+Number of Patient Related Studies
+RT Plan Date
+Decerebrate preparation
+RT Plan Label
+Posterior complex of the thalamus of ABA 2009
+Goldman equation
+Code Value
+Data Element Template
+RT Image Label
+Max Planck Institute of Molecular Physiology; Dortmund; Germany
+Hebb synapse
+Artefact object
+Brachy Accessory Device Nominal Thickness
+Hippocampal formation of WHS11
+Receive Coil Manufacturer Name
+Middle adult mouse
+Referenced Dose Reference Sequence
+Porfimer
+R Wave Time Vector
+Nencki Institute of Experimental Biology; Warsaw; Poland
+Inverted Light Microscope
+Cranial Thermal Index
+Interstitial nucleus of Cajal of ABA 2009
+Johns Hopkins University; Maryland; USA
+Partial View
+Midline neuron
+Billings Clinic
+New York University; New York; USA
+Perflutren
+Larval olfactory receptor neuron Or85c
+Frame VOI LUT Sequence
+Parts of general white matter of PHT00
+Allegheny College; Pennsylvania; USA
+Performed Procedure Step Start Date
+IRCCS
+B1 motor neuron
+Glutamate uncaging paradigm
+Fluorescence molecular tomography imaging assay
+Beam Limiting Device Leaf Pairs Sequence
+Refractive State Sequence
+Pentosan Polysulfate
+Labeled line code
+Pdf neuron
+Paramethadione
+Real World Value Slope
+Number of Phase Encoding Steps
+Erasmus MC; Rotterdam; Netherlands
+Reason for the Imaging Service Request
+Morest 1964
+Cerebral cortex layers 1-6b of ABA 2009
+Annotation Sequence
+Adult attachment interview
+Linezolid
+Data Information Sequence
+Mequitazine
+Johns Hopkins Bloomberg School of Public Health; Maryland; USA
+Field H1 of Forel
+Dibenzo(a,h)anthracene
+Patient Support Angle Tolerance
+Frontal lobe of human
+Florida Agricultural and Mechanical University; Florida; USA
+Adult protocerebral LPP1 tachykinin neuron
+Diffusion Anisotropy Type
+Field CA3 pyramidal layer of ABA 2009
+Reference Pixel Y0
+Central pattern generator
+City College of New York; New York; USA
+Primary motor area Layer 6a of ABA 2009
+Diffusion Gradient Orientation
+Posteromedial visual area layer 1 of ABA 2009
+Caudal hypothalamus
+Natural Environment Research Council
+Dopaminergic PPM2 neuron
+Bed nucleus of the stria terminalis spiny neuron with chandelier-like axon
+Embryonic mouse
+Max-Planck-Gesellschaft
+Dorsal cortex
+Cell surface area
+Harvard School of Public Health; Massachusetts; USA
+Names of Intended Recipients of Results
+Organ at Risk Overdose Volume Fraction
+Performed Procedure Step End Time
+Field CA1 stratum radiatum of ABA 2009
+Anterior cingulate area dorsal part of ABA 2009
+Aroclor 1242
+Clark WELeG 1951 Parcellation scheme
+Dentate gyrus medial blade of ABA 2009
+Clarity
+National Institute of Biomedical Innovation; Osaka; Japan
+Fasciola cinereum of RHA11
+Carnegie Mellon University; Pennsylvania; USA
+Reference Pixel Physical Value X
+Bed nucleus of the stria terminalis small pyramidal neuron
+CJ
+Korea University; Seoul; South Korea
+Aminophylline
+Orbital area layer 6b of ABA 2009
+Chemosensory neuron of adult labial sensillum 8
+Midbrain trigeminal nucleus of ABA 2009
+Medical College of Wisconsin; Wisconsin; USA
+Posaconazole
+Bed nucleus of the stria terminalis beaded neuron
+Hemispheric regions of ABA 2009
+RT Plan Relationship
+Docosanol
+Protocol Name
+Dorsal auditory area layer 1 of ABA 2009
+Inferior retina
+Forcep
+Object boundary
+Charite - Universitatsmedizin Berlin; Berlin; Germany
+Periaqueductal gray of ABA 2009
+Referenced Visit Sequence
+Ministry of Information and Communication of Korea
+Inferior olivary nucleus principal neuron
+Mathematical expression
+Boston University Medical Campus; Massachusetts; USA
+Birmingham Womens NHS Foundation Trust; Birmingham; United Kingdom
+Exposures on Detector Since Last Calibration
+Occupation
+Pasteur Institute of Lille; Lille; France
+Agranular insular area ventral part layer 1 of ABA 2009
+Aalto University; Espoo; Finland
+Energy Window Number
+Cidofovir
+Endosulfan sulfate
+Heptachlor
+Max Planck Institute for Human Cognitive and Brain Sciences; Leipzig; Germany
+Pubescent ferret
+DBA/2J
+Dorsal motor nucleus of vagus caudointermediate part of PHT00
+Parabrachial nucleus lateral division dorsal lateral part of ABA 2009
+Isradipine
+Number of Zero fills
+International affective picture system
+Isoetharine
+Bradley University; Illinois; USA
+Larval olfactory receptor neuron Or82a
+Primary motor area Layer 1 of ABA 2009
+Pupillary light response paradigm
+European Union
+Lamivudine
+Anatomic Region Sequence
+Paraventricular nucleus of the thalamus of ABA 2009
+Patients Telephone Numbers
+Field CA2 stratum lacunosum-moleculare of ABA 2009
+Angular View Vector
+Harvard Stem Cell Institute
+Hexachlorocyclohexane, delta-
+Coding Scheme Name
+Horizontal neuronal orientation
+Larval Caenorhabditis elegans
+Central amygdalar nucleus of ABA 2009
+Anteroventral preoptic nucleus of ABA 2009
+RT Plan Geometry
+Modality
+Data Point Rows
+Olsalazine
+Insulin Granule
+Paralaminar amygdaloid nucleus of PHT00
+Patients Religious Preference
+Attentional blink task
+Image Transformation Matrix
+Lund University; Lund; Sweden
+Acrolein
+Interferon beta-1a
+Polytechnic University of Milan; Milan; Italy
+Lateral reticular nucleus magnocellular part of ABA 2009
+Leaf Position Boundaries
+Organ at Risk Maximum Dose
+Adult olfactory receptor neuron Ir64a
+Alpha wave
+Argonne National Laboratory
+Basic cell groups and regions of ABA 2009
+Queen Mary University of London; London; United Kingdom
+Dorsolateral pons
+Applicable Frame Range
+Dorsomedial cortex
+Fraction Group Sequence
+Compression Force
+2BiJ
+Non-imaging hardware attribute
+Pentostatin
+Cortical amygdalar area anterior part layer 1 of ABA 2009
+Artwork
+Cerebellar Primary Vestibular Afferents
+Acoustic startle response test
+Early adult human
+Pb-eb-no neuron
+Microtubule (sao1846835077)
+Bipolar neuron of Bolwig nerve
+Gi
+Cardiac Number of Images
+Lesion Number
+Nucleus of the lateral olfactory tract layer 3 of ABA 2009
+Largest Valid Pixel Value
+Isocortex of ABA 2009
+Orbital area lateral part layer 2-3 of ABA 2009
+Cyprus Institute of Neurology and Genetics; Nicosia; Cyprus
+Jawaharlal Nehru University; New Delhi; India
+Efferent vestibular nucleus of ABA 2009
+Lateral group of the dorsal thalamus of ABA 2009
+Include Display Application
+Italian Ministry of Education Universities and Research
+B6;C3-Tg(Prnp-SNCA*A53T)83Vle/J mouse
+Anteromedial visual area of ABA 2009
+Block Mounting Position
+Primary somatosensory area nose layer 1 of ABA 2009
+Field CA2 stratum oriens of ABA 2009
+Applicable Safety Standard Agency
+Dexbrompheniramine
+Caudomedial Mesopallium
+Medial preoptic nucleus central part of ABA 2009
+Cortical amygdalar area posterior part lateral zone layer 1-2 of ABA 2009
+Endosulfan, alpha
+Accessory Code
+Alclometasone
+Interfascicular nucleus raphe of ABA 2009
+Loratadine
+Entorhinal cortex rostral part of PHT00
+Islands of Calleja of ABA 2009
+Overlay Descriptor - Blue
+Increased flow
+1J
+Caudal globus pallidus
+Delivered Number of Pulses
+Gastrula rat
+Pixel Value Transformation Sequence
+German Research Center for Artificial Intelligence; Berlin; Germany
+Include Non-DICOM Objects
+Lawrence Livermore National Laboratory
+Demeclocycline
+Efalizumab
+Brigham Young University; Utah; USA
+Agranular insular area posterior part layer 1 of ABA 2009
+Dorsal cochlear nucleus deep layer
+Finnish Ministry of Employment and the Economy
+La Trobe University; Victoria; Australia
+Bone Thermal Index
+Primary somatosensory area upper limb of ABA 2009
+Mushroom body extrinsic neuron
+Ceftibuten
+Current Patient Location
+Planes
+Print Job Description Sequence
+Mitiglinide
+Mask Operation Explanation
+Neurula xenopus
+Pathway
+High Angular Resolution Diffusion Imaging Protocol
+Grid Focal Distance
+Bounding Box Text Horizontal Justification
+Cetuximab
+Gantry/Detector Slew
+Orbital area ventrolateral part of ABA 2009
+Periventricular region of ABA 2009
+Medrysone
+Methantheline
+Anterior hypothalamic nucleus posterior part of ABA 2009
+Diphenhydramine
+Bethanechol
+National Institute for Basic Biology; Okazaki; Japan
+Aminergic neuron
+Asparaginase
+Imaging Service Request Comments
+Horizontal fiber system neuron pb3
+IVUS Pullback Start Frame Number
+Beam Limiting Device Position Sequence
+DVH Maximum Dose
+Fujian Agriculture and Forestry University; Fujian; China
+Ministry of Agriculture of the Peoples Republic of China
+Colliculus superior stellate neuron
+Ground state depletion microscopy
+Medial geniculate complex medial part of ABA 2009
+Gustatory areas layer 6a of ABA 2009
+Fluence Data Source
+Dimension Organization UID
+PHT00 parcellation scheme
+Imaged Nucleus
+Amygdala basolateral nuclear complex nonpyramidal PV chandelier cell
+Printer Name
+Patient Transport Arrangements
+Nominal Prior Dose
+Fb-no neuron
+Exposure Time in uS
+Nucleus ambiguus of ABA 2009
+Methoxychlor
+Hexylcaine
+Council for Scientific and Industrial Research; Gauteng; South Africa
+Frame of Reference Transformation Type
+Ohio University; Ohio; USA
+Obex
+Patient Position
+Andalusian Health Service; Andalusia; Spain
+Referenced Datetime
+Hexachlorophene
+Life Science Foundation; Santiago; Chile
+Human Performer Code Sequence
+Non-gated channel
+End-plate potential
+Mitotane
+Region Location Min X0
+Anterior olfactory nucleus dorsal part of ABA 2009
+Entorhinal area lateral part layer 5/6 of ABA 2009
+Content Label
+3 dB Frequency
+Fraunhofer Institute for Biomedical Engineering
+Electrical saturation
+Austrian Academy of Sciences; Vienna; Austria
+Centre for Genomic Regulation; Barcelona; Spain
+Ferrier 1876 Parcellation scheme region
+Performed Procedure Code Sequence
+Nucleus z of ABA 2009
+Intervention Drug Start Time
+Adolescent mouse
+Nabumetone
+Measured Dose Description
+Pargyline
+Alfentanil
+Granular lamina of the cochlear nuclei of ABA 2009
+Postpiriform transition area layers 3 of ABA 2009
+Aroclor 1221
+Referring Physician Identification Sequence
+Number of Waveform Channels
+Hypothalamic medial zone of ABA 2009
+Neuromodulation
+Posteromedial visual area layer 2/3 of ABA 2009
+Image Laterality
+Cerivastatin
+Dopaminergic PPM1 neuron
+Primary somatosensory area trunk layer 5 of ABA 2009
+Referenced Patient Setup Number
+Gallamine Triethiodide
+RT Referenced Series Sequence
+Carboprost Tromethamine
+Grid Absorbing Material
+Current Requested Procedure Evidence Sequence
+Cliniques universitaires Saint-Luc; Brussels; Belgium
+Hungarian Academy of Sciences; Budapest; Hungary
+Prednicarbate
+Referenced Reference Image Sequence
+NJ
+Relative refractory state
+Pontine reticular nucleus caudal part of ABA 2009
+Organism role
+Body Part Thickness
+GP94 parcel
+Olfactory bulb of WHS11
+Drotrecogin alfa
+Felodipine
+Letter number sequencing
+Application Setup Type
+College of France; Paris; France
+Image Overlay Flag
+Cortical amygdalar area posterior part medial zone layer 3 of ABA 2009
+John Innes Centre; Norwich; United Kingdom
+Heterotrimeric G proteins
+Prelimbic area layer 1 of ABA 2009
+Organ at Risk Limit Dose
+Posterior thalamic region
+Netherlands Ministry of Education Culture and Science
+Contrast enhancement protocol
+Pompeu Fabra University; Barcelona; Spain
+Nitazoxanide
+AHP duration
+Quality of related processes
+Optic lobe neuron
+Oculomotor nucleus of ABA 2009
+Pixel Spacing
+Field CA1 stratum lacunosum-moleculare of ABA 2009
+Gastrula dog
+Magnocellular basal nucleus
+Grid Pitch
+Agranular insular area dorsal part of ABA 2009
+Multiplex Group Label
+Item
+Antenna lobe of Manduca
+Lateral fan-shaped neuron FE1
+Hygrosensitive neuron
+Positioner Type
+Fenfluramine
+Posterior superior temporal gyrus
+Flow-compensated MRI 2D image
+Backward masking
+Fan-shaped neuron F4
+Interpretation Approver Sequence
+Alseroxylon
+Deductive reasoning task
+Presentation LUT Sequence
+Loughborough University; Loughborough; United Kingdom
+Bay Area Cancer Research Group; California; USA
+Graphic Layer Description
+Agranular insular area dorsal part layer 6a of ABA 2009
+Integrative zone
+Resource Descriptor
+Delayed discounting task
+Ishihara plates for color blindness
+Non-painful electrical stimulation
+Parabrachial nucleus lateral division external lateral part of ABA 2009
+Mushroom body pedunculus-vertical lobe arborizing neuron 1
+Imaging protocol attribute
+Primary somatosensory area nose layer 6a of ABA 2009
+Facial motor nucleus of ABA 2009
+Carpenter 1985 parcellation scheme region
+Proteomics
+Extradimensional shift task
+Instance Availability
+A7 neuron
+Reading (Covert)
+Multipolar
+Illumination
+Phenotypic abnormality
+Ohio State University College of Medicine; Ohio; USA
+Posterior amygdalar nucleus of ABA 2009
+Equivalent circuit
+Boehringer Ingelheim
+Parabrachial nucleus medial division medial medial part of ABA 2009
+Brodmann cortical parcellation scheme
+Old mouse
+Mechanosensory neuron of adult labial sensillum 3
+Fasciola cinerea of ABA 2009
+Printer Status
+Aplysia buccal 15
+Brixton spatial anticipation test
+DICOM term
+Neuropeptide AF receptor
+Mycophenolate mofetil
+Instance Creation Date
+Ghent University; Ghent; Belgium
+Posterior parietal association areas of ABA 2009
+Angular Position
+Aliskiren
+MAP04003 oculomotor nerve (inferior branch)
+Adult dMP2 ILP7 neuron
+Mechanosensory neuron of adult labial sensillum 5
+Independent self-construal
+Channel Shield Nominal Transmission
+Amacrine neuron
+McGill University Faculty of Medicine; Montreal; Canada
+French National Research Agency
+Acquisition Matrix
+Animal naming task
+Pentachlorophenol
+Beam Sequence
+Overlay Planes
+Glycogen body
+Plane Orientation Sequence
+Order Entered By
+Methocarbamol
+Agranular insular area ventral part layer 6b of ABA 2009
+Frame Increment Pointer
+Chlorphenesin
+Medial longitudinal fasciculus of PHT00
+Konrad Lorenz Institute for Evolution and Cognition Research; Altenberg; Austria
+Data Set Subtype
+Dorsal hippocampus
+Fan-shaped neuron F3
+Contour Number
+Filler Order Number / Imaging Service Request
+Gabrail Cancer Center; Ohio; USA
+Dch3 neuron
+Gigantocellular reticular nucleus of ABA 2009
+Lutropin alfa
+High Bit
+Adenosine monophosphate
+Embedded figures test
+Cleveland Clinic Lou Ruvo Center for Brain Health; Nevada; USA
+Nodulus (X) of ABA 2009
+Mount Allison University; New Brunswick; Canada
+Referenced Frame of Reference UID
+Icahn School of Medicine at Mount Sinai; New York; USA
+Digoxin Immune Fab
+Atracurium
+LUT Descriptor
+Hypothalamus vasopressin neuroendocrine magnocellular neuron
+Resonant Nucleus
+Caudal superior temporal gyrus
+Dentate gyrus molecular layer outer
+Presentation Intent Type
+Donepezil
+Hippocampus CA1 stratum oriens neuron
+Hydrogen Peroxide Sensor
+Atovaquone
+Agency for Science Technology and Research
+McLean Hospital; Massachusetts; USA
+Graphic Type
+Connectional specificity
+Print Job ID
+Referenced Control Point Index
+Protocol Context Sequence
+Nelfinavir
+Radboud University Medical Center; Nijmegen; Netherlands
+Miami Childrens Hospital; Florida; USA
+Event related potential recording assay
+Anistreplase
+Cephalexin
+Benzonatate
+Detector Vector
+Adult deuterocerebrum DC tachykinin neuron
+Hessian Ministry for Science and Art
+Mask Sub-pixel Shift
+Nitrobenzodiazepine
+Institute of Bioinformatics; Bangalore; India
+Max Planck Institute for Infection Biology; Berlin; Germany
+Kv3.2 (sao1482557638)
+Dch3 / 1 neuron
+Carprofen
+IVUS Pullback Rate
+National Center for Advancing Translational Sciences
+Propantheline
+Inferior salivatory nucleus of ABA 2009
+Cable property
+Antisaccade-prosaccade task
+Delavirdine
+Gadobenate Dimeglumine
+Adult Caenorhabditis elegans
+Beam Description
+Mount Sinai Medical Center; Florida; USA
+Calcium calmodulin protein kinase II
+Gatifloxacin
+Letter fluency test
+Letter comparison
+Pubescent gorilla
+Presentation LUT Flag
+Admitting Date
+1,2-Dibromoethane
+Oligo-glomerular lLN
+Admission ID
+Laterality
+Institute of Molecular and Cell Biology; Singapore; Singapore
+Related Frame of Reference UID
+Discharge Diagnosis Code Sequence
+Duke University; North Carolina; USA
+Decreased gene expression
+Formoterol
+Paris Diderot University; Paris; France
+Primary somatosensory area lower limb layer 1 of ABA 2009
+Lateral shell of nucleus accumbens
+Pubescent mouse
+Methylergonovine
+Anteroventral periventricular nucleus of ABA 2009
+Anterior group of the dorsal thalamus of ABA 2009
+Mushroom body medial-vertical lobe arborizing neuron 2
+Planned Verification Image Sequence
+Butyrylcholinesterase
+Embryo dog
+Frame of Interest Type
+Lateral dorsal nucleus of thalamus of ABA 2009
+KVP
+Dorsal root ganglion A delta nociceptive neuron
+Culmen of ABA 2009
+Pallidum dorsal region of ABA 2009
+Paracentral nucleus of ABA 2009
+Apraclonidine
+Modality LUT Type
+LPC receptor - unspecified 1
+Case Western Reserve University; Ohio; USA
+IRCCS Centro San Giovanni di Dio - Fatebenefratelli
+Maximum entropy models
+Interferon gamma-1b
+Lindane
+Graphic Coordinates Data Sequence
+Larval olfactory receptor neuron Or74a
+Bed nuclei of the stria terminalis anterior division anterolateral area of ABA 2009
+Performed Workitem Code Sequence
+Mouse Clinical Institute; Alsace; France
+Design-based stereology
+Northeast Forest University; Harbin; China
+Large soma
+East Tennessee State University; Tennessee; USA
+Paraventricular hypothalamic nucleus parvicellular division medial parvicellular part dorsal zone of ABA 2009
+Gated Information Sequence
+Aged rat
+Center of Rotation Offset
+Cleavage ferret
+Detector Secondary Angle
+Coasting
+Media Installed Sequence
+Brachy Accessory Device Nominal Transmission
+Authorization Equipment Certification Number
+Referenced Procedure Step Sequence
+Gigantocerebellum
+Material separation device
+Radiopharmaceutical Start Time
+Anterior cingulate area ventral part of ABA 2009
+Completion Flag Description
+Image creation
+Device parameter
+National University of Sciences and Technology; Islamabad; Pakistan
+Number of Energy Windows
+MR Diffusion Sequence
+Midbrain of ABA 2009
+De-coupling Frequency
+I N
+Central linear nucleus raphe of ABA 2009
+Pixel Intensity Relationship
+Jena University Hospital; Jena; Germany
+Branched Anatomical Configuration
+CSIR-Central Food Technological Research Institute; Karnataka; India
+Niacin
+Motor unit
+Bipolar dendrite neuron
+Cyclosporine
+Anterior cingulate area layer 5 of ABA 2009
+Olfactory cortex deep pyramidal cell
+Mercer University; Georgia; USA
+Diffusion spectrum imaging protocol
+Anterolateral visual area layer 4 of ABA 2009
+Nucleus ambiguus dorsal division of ABA 2009
+Music comprehension-production
+Kunecatechins
+American University; Washington D.C.; USA
+Primary somatosensory area lower limb of ABA 2009
+Olfactory tubercle Islets of Calleja dwarf neuron
+Gating
+Dantrolene
+Neostriatum gaba/parvalbumin interneuron
+Maximum Memory Allocation
+Parrott scale
+Dentate gyrus medial blade polymorph layer of ABA 2009
+Cranial relay neuron
+Levorphanol
+Gustatory receptor neuron of the hypopharyngeal sense organ
+Diffusion Gradient Direction Sequence
+Polychlorinated biphenyls
+Data sensor feed
+Pipette
+Amygdala basolateral nuclear complex nonpyramidal PV basket cell
+Fluvastatin
+Leaf/Jaw Positions
+Famciclovir
+Picture set test
+Dicumarol
+Final Cumulative Time Weight
+Dorsal humeral crossvein campaniform sensillum neuron
+Remember-know task
+Mushroom body medial-vertical lobe arborizing neuron 1
+ArcLight
+Pilocarpine-Induced status epilepticus model
+Pervasive developmental disorder not otherwise specified
+R Wave Pointer
+Botulinum Toxin Type A
+Number of Waveform Samples
+Cleveland Clinic Lerner College of Medicine; Ohio; USA
+Ibritumomab
+Rensselaer Polytechnic Institute; New York; USA
+Exenatide
+Forum
+Pentagastrin
+Prelimbic area layer 2/3 of ABA 2009
+Pheniramine
+Mesothoracic anterior fascicle neuron
+Louisiana State University Health Sciences Center New Orleans; Louisiana; USA
+Pb-fb-eb neuron
+Molindone
+Ear Punch and Tag
+Brookhaven National Laboratories; New York; USA
+Microvilli Of Epithelial Cell
+NT-proBNP
+Contrast Allergies
+Primary somatosensory area layer 1 of ABA 2009
+Number of Fractions Delivered
+Phase Description
+Flow-weighted MRI 2D image
+Cefaclor
+Notch Filter Frequency
+Horizontal fiber system neuron pb6
+Pontine reticular nucleus of ABA 2009
+Delayed response task
+Pubescent human
+Endopiriform nucleus dorsal part of ABA 2009
+Inferior colliculus central nucleus of ABA 2009
+Plexon
+Progress and Health Foundation; Seville; Spain
+Rate-coding model neurons
+Frame Laterality
+Dose Type
+Emtricitabine
+Kantonsspital St. Gallen; St. Gallen; Switzerland
+Measured Dose Reference Sequence
+Larval olfactory receptor neuron Or42a
+BGI; Shenzhen; China
+Encrypted Attributes Sequence
+LesA neuron
+Cambridge face memory test
+Requesting Physician
+Extracellular field potential
+Ceruletide
+Neuron of aristal sensillum
+Graphic Layer Recommended Display RGB Value
+Myobath Tissue Bath
+Nucleus of field H of Forel
+Hippocampus of PHT00
+Edinger-Westphal nucleus of PHT00
+Brodmann partion scheme region
+Hemostat
+Entorhinal area medial part ventral zone layer 2 of ABA 2009
+Functional motor assessment
+Cochlear nucleus subpedunclular granular region of ABA 2009
+Genetically encoded calcium sensor
+Anterior forebrain
+Chemosensory neuron of adult labial sensillum 7
+Referenced Source Applicator Number
+Endocrine neuron
+Biosensing Analyzer
+Entorhinal area medial part dorsal zone layer 5/6 of ABA 2009
+Anterior cingulate area ventral part layer 6b of ABA 2009
+CA3 of RHA11
+Boston University School of Medicine; Massachusetts; USA
+DVH Data
+Flecainide
+Anterior cingulate area layer 1 of ABA 2009
+Granisetron
+Delivery Maximum Dose
+Long-QT
+Methoxyflurane
+Craig Hospital; Colorado; USA
+Pb-fb-fb neuron
+Public
+Cerebellum of WHS11
+DVH ROI Contribution Type
+Electrical conduction
+Duke University School of Medicine; North Carolina; USA
+6
+Positioner Secondary Angle
+6J
+Geniculate group dorsal thalamus of ABA 2009
+Physical object
+Montana State University; Montana; USA
+Periventricular zone of ABA 2009
+Detector Element Size
+Referenced Overlay Plane Groups
+Abatacept
+Lobulated Nucleus Quality
+Requesting Physician Identification Sequence
+Dopaminergic PAL neuron
+Cerebral cortex layer 6a of ABA 2009
+Large adult Pdf neuron of abdominal neuromere
+Patient Setup Number
+PennState Hershey College of Medicine; Pennsylvania; USA
+Perireunensis nucleus of ABA 2009
+National Science Council - Taiwan
+Hebrew University of Jerusalem; Jerusalem; Israel
+BALB/c
+Graphic Layer Order
+Passive Current
+Diagnostic Interview for Genetic Studies
+Imaging Frequency
+Rescale Intercept
+Accessory supraoptic group of ABA 2009
+Mediodorsal nucleus of thalamus of ABA 2009
+Mesopallium intermediomediale
+RT Referenced Study Sequence
+Primary visual area of ABA 2009
+North American Biobank
+Midline group of the dorsal thalamus of ABA 2009
+Number of Fraction Pattern Digits Per Day
+Chlorpropamide
+Divergence
+Histogram Explanation
+Gachon University of Medicine and Science; Incheon; South Korea
+Flocculus of ABA 2009
+Issuer of Patient ID
+Olfactory tubercle Islets of Calleja large Type 2 hilar cell
+Cerebral cortex layer 3 of ABA 2009
+East Carolina University; Carolina; USA
+Gustatory receptor neuron of terminal organ
+DICOM administration attribute
+Florey Institute of Neuroscience and Mental Health; Victoria; Australia
+Axoaxonic synapse
+Having decreased physical parts
+Dynamic Range
+Number of Temporal Positions
+Cleavage mouse
+Proguanil
+Active Source Length
+Radionuclide Total Dose
+DN1p neuron
+Image Area Dose Product
+Abnormality of the central nervous system
+Projection role of nerve cell
+Intercalated amygdalar nucleus of ABA 2009
+Interpretation Type ID
+Alpha-1-proteinase inhibitor
+Cayetano Heredia University; Lima; Peru
+Middle adult human
+Cefadroxil
+Agranular insular area dorsal part layer 2/3 of ABA 2009
+Josamycin
+Ben-Gurion University of the Negev; Beer-Sheva; Israel
+Radiation Mode
+Image collection
+Dorsomedial nucleus of the hypothalamus posterior part of ABA 2009
+Ministry of Education of China
+Cornell University; New York; USA
+Peking University; Beijing; China
+Netherlands Ministry of Economic Affairs
+Ardeparin
+Colistimethate
+Nucleus of the solitary tract central part of ABA 2009
+Pubescent xenopus
+Lubiprostone
+Parabrachial nucleus medial division ventral medial part of ABA 2009
+Marquette University College of Health Sciences; Wisconsin; USA
+Anteromedial visual area layer 6b of ABA 2009
+Commercial Organization
+Ministry of Higher Education Scientific Research - Tunisia
+Flexion-extension
+L-Carnitine
+Pass band
+Reference Pixel X0
+Pravastatin
+Larval olfactory receptor neuron Or22c
+Maisonneuve-Rosemont Hospital; Quebec; Canada
+Entrance Dose
+Energy Window Total Width
+Butenafine
+DVH Minimum Dose
+Club drug
+Convergence
+Paramedian reticular nucleus of ABA 2009
+Preserve Composite Instances After Media Creation
+ETH Zurich; Zurich; Switzerland
+Filter Thickness Minimum
+Neocortex primary motor area stellate layer 4 cell
+Demecarium bromide
+Aberystwyth University; Wales; United Kingdom
+Posterior auditory area layer 4 of ABA 2009
+Dalian University of Technology; Dalian; China
+Entorhinal area medial part ventral zone of ABA 2009
+CA2 of RHA11
+Primary somatosensory area upper limb layer 5 of ABA 2009
+Ohio Northern University; Ohio; USA
+Ceftazidime
+Primary somatosensory area trunk of ABA 2009
+Life Science Identifier
+Place preference paradigm
+Color Image Printing Flag
+Cortical amygdalar area posterior part lateral zone of ABA 2009
+Bentiromide
+Miniature end-plate potential
+ROI Observation Label
+Geniculate group ventral thalamus of ABA 2009
+Patient Support Rotation Direction
+Recorded Source Applicator Sequence
+Frame Content Sequence
+Positioner Primary Angle Increment
+Intrinsic pb neuron
+Nucleus x of ABA 2009
+Channel Derivation Description
+Heat sensitization-adaptation
+George Institute for Global Health
+Iodixanol
+129P3/J
+Methohexital
+Mini mental state examination (Cognitive Atlas Term)
+Campaniform sensillum L3-2 of wing vein L3 neuron
+B6CBACa Aw-J/A-Kcnj6wv/J
+Ion channel kinetics
+Des3+1+1 neuron
+Orbital area ventrolateral part layer 5 of ABA 2009
+FeJ
+Olfactory Structures of CIVM postnatal rat brain atlas
+Cattell culture fair intelligence test
+Phosphorus, white
+Identifier resolution
+Brachy Treatment Technique
+Ectorhinal area of ABA 2009
+Fb-ltr neuron
+Creeping
+Label Text
+Internal capsule of WHS11
+Branched (PATO 0000402)
+Cladribine
+Babraham Institute
+Cephaloglycin
+Listening span task
+Dorsal auditory area of ABA 2009
+Orbital area medial part layer 2 of ABA 2009
+Methyprylon
+Medial vestibular nucleus of ABA 2009
+Flinders University; Adelaide; Australia
+Embryonic Caenorhabditis elegans
+Flow-weighted MRI 3D image
+Parataenial nucleus of ABA 2009
+Hippocampus proper of RHA11
+B6;D2-Tg(PDGFB-SNCA)NNEma mouse
+Real World Value Mapping Sequence
+Profile specification
+Barrel
+McMaster University; Ontario; Canada
+LesD neuron
+Related RT ROI Observations Sequence
+Collimator Type
+Dorsal part of the lateral geniculate complex of ABA 2009
+Dromostanolone
+Norfloxacin
+In-concatenation Total Number
+MR FOV/Geometry Sequence
+August Pi i Sunyer Biomedical Research Institute; Barcelona; Spain
+Gravity sensitive Johnston organ neuron
+Bone Screw
+Mushroom body intrinsic neuron
+Alternate Representation Sequence
+Lateral entorhinal area
+Ethosuximide
+Orphenadrine
+RT Image Position
+Hypothalamus oxytocin neuroendocrine magnocellular cell
+Anterior cingulate area of ABA 2009
+Adefovir Dipivoxil
+Frame Of Interest Description
+Erasmus University Rotterdam; Rotterdam; Netherlands
+I CAN
+Class project
+Patient Support Angle
+All India Institute of Medical Sciences; New Delhi; India
+Glass Capillary
+Comments on Radiation Dose
+Nonrecursive digital filter
+Queen's University; Ontario; Canada
+Acquisition Date
+Phase Vector
+Neurula dog
+Pupal drosophila melanogaster
+Carpenter 1985 parcellation scheme
+Lateral Faniculus
+Postpiriform transition area layers 1-3 of ABA 2009
+Pharmaceuticals and Medical Devices Agency
+Lobule IV of ABA 2009
+Modafinil
+Iowa State University; Iowa; USA
+Interdependent self-construal
+Mask Subtraction Sequence
+Brachy Application Setup Dose
+Colestipol
+Mayo Clinic College of Medicine
+Dentate gyrus axo-axonic cell
+Color trails test
+Anterior olfactory nucleus lateral part of ABA 2009
+Imagined objects-scenes
+Empty Image Density
+Acquisition Termination Condition Data
+Bed nuclei of the stria terminalis anterior division of ABA 2009
+High pass filter
+Number of Study Related Instances
+European Hospital
+Aprepitant
+Encrypted Content
+Requested Subsequent Workitem Code Sequence
+Academy of Finland; Helsinki; Finland
+Anterior commissure of WHS11
+Gifu University; Gifu; Japan
+Microelectrode array assay
+Extrinsic pb neuron
+Glycodiazine
+Chemical Shifts Maximum Integration Limit in Hz
+Dentate gyrus medial blade molecular layer of ABA 2009
+Catbat task
+Primary somatosensory area trunk layer 6a of ABA 2009
+Medical Products Agency; Uppsala; Sweden
+A1 neuron
+ODC Database Contents License
+Recursive digital filter
+Intervention Drug Name
+Original Image Sequence
+Nabilone
+Academic Free License
+Physicians Reading Study Identification Sequence
+Mesothoracic posterior fascicle neuron
+Observation Number
+Brugada
+Cytoarchitectural part of spinal cord gray matter
+Interpretation ID
+Excitotoxicity
+Fixation Device Label
+Polymyxin B Sulfate
+Benzo(k)fluoranthene
+Essen University Hospital; North Rhine-Westphalia; Germany
+Raltitrexed
+Protostomia (birnlex 334)
+Halobetasol Propionate
+CNQX
+H-reflex
+Misoprostol
+Quality of a single process
+Brandeis University; Massachusetts; USA
+Lopinavir
+Fosphenytoin
+Intralaminar nuclei of the dorsal thalamus of ABA 2009
+Entorhinal cortex layer 2 cell island
+Purpose of Reference Code Sequence
+Inbred rat strain
+DVH Mean Dose
+MR Acquisition Frequency Encoding Steps
+Dose Reference Type
+DVH Dose Scaling
+National Institute on Chemical Dependency
+Paraventricular hypothalamic nucleus parvicellular division of ABA 2009
+Endothelial Cell
+Magnetization Transfer
+German Federal Ministry of Economics and Technology
+Complex Image Component
+Attenuation Correction Method
+Periventricular hypothalamic nucleus preoptic part of ABA 2009
+Neocortex dorsolateral prefrontal area layer 5 calbindin cell
+Larval olfactory receptor neuron Or30a
+Increased gene expression
+Picture-word stroop task
+Institute of Statistical Mathematics; Tokyo; Japan
+Defense Advanced Research Projects Agency
+INRA - French National Institute for Agricultural Research; Paris; France
+Gustatory receptor neuron of the hypophysis
+Childrens Hospital of Philadelphia - Research Institute; Pennsylvania; USA
+Gemtuzumab ozogamicin
+Nanyang Technological University; Singapore; Singapore
+Object-discrimination task
+Exposure Sequence
+Complex span test
+Darifenacin
+Phase shift
+Dorsal root ganglion A delta non-nociceptive neuron
+Polydendrocyte
+Medial mediodorsal nucleus
+Phonological discrimination
+Field CA3 of ABA 2009
+Danish National Research Foundation
+Engineering and Physical Sciences Research Council
+Entorhinal area lateral part layer 5 of ABA 2009
+Nucleus of the brachium of the inferior colliculus of ABA 2009
+Cefpiramide
+Medial pontine reticular formation
+Midbrain reticular nucleus magnocellular part general of ABA 2009
+Primary somatosensory area upper limb layer 2/3 of ABA 2009
+Mediobasal hypothalamus
+MP2009 extreme capsule
+Creighton University School of Medicine
+Event Elapsed Times
+Dorso-lateral dopaminergic neuron
+Referenced Grayscale Presentation State Sequence
+Repetition Time
+Internal Capsule of CIVM postnatal rat brain atlas
+Grid Spacing Material
+Adult drosophila
+Related General SOP Class UID
+Olfactory system function
+Pirbuterol
+Mechanically gated channel
+Primary somatosensory area layer 5 of ABA 2009
+Battery
+Nisoldipine
+British heart foundation
+Halazepam
+Entrance Dose in mGy
+ROI Interpreter
+Pixel Measures Sequence
+Number of Boli
+Representative Frame Number
+Eindhoven University of Technology; North Brabant; Netherlands
+Creation Date
+Dinoprostone
+Infralimbic area layer 5 of ABA 2009
+DDT, O,P'-
+Gemifloxacin
+Epithalamus of ABA 2009
+Institute for Systems Biology; Washington; USA
+ODC Open Database License
+Des3+1 neuron
+Accessory abducens nucleus of ABA 2009
+Dresden University of Technology; Dresden; Germany
+Brachy Treatment Type
+Image ID
+Ludwig-Maximilians-University; Munich; Germany
+Bipolar Cell Morphology
+Cis Face of Golgi Apparatus
+Eli Lilly and Company
+Periventricular hypothalamic nucleus intermediate part of ABA 2009
+I CNG
+Lobule V of ABA 2009
+Diffusion-weighted magnetic resonance imaging protocol
+Default Magnification Type
+Abdominal posterior fascicle neuron
+Obese
+Giant sensillum of the dorsal radius neuron
+Philipps-University Marburg; Marburg; Germany
+Field CA3 stratum radiatum of ABA 2009
+Inferior colliculus of ABA 2009
+McGill University Health Centre; Quebec; Canada
+Perirhinal area layer 1 of ABA 2009
+Number of Tomosynthesis Source Images
+Exposures on Detector Since Manufactured
+Nominal Interval
+Lateral tegmental nucleus of ABA 2009
+Carbinoxamine
+Neomycin
+A6 neuron
+Marques de Valdecilla University Hospital; Santander; Spain
+Pentoxifylline
+Pineal gland of WHS11
+Random Anatomical Orientation
+Mechanosensory neuron of adult labial sensillum 1
+Resident-intruder paradigm
+Olfactory tubercle polymorph layer of ABA 2009
+Higher order thalamic relay nucleus
+French Ministry of Higher Education and Research
+Pdf neuron close to calyx
+Predecessor Documents Sequence
+Georgetown University; Washington D.C.; USA
+BHSAI; Maryland; USA
+Operating Mode Type
+Dopaminergic cell group A10
+Abducens nucleus of ABA 2009
+Larval olfactory receptor neuron Or13a
+Medial agranular insular area
+Colorado State University; Colorado; USA
+Neocortex Dorsolateral Prefrontal Area layer 5 parvalbumin cell
+Interbrain of ABA 2009
+Broome Oncology; New York; USA
+Dorsolateral pontine tegmentum
+Magnetic resonance imaging role
+Cinalukast
+Japan Science and Technology Agency
+Provincia Lombardo Veneta - Ordine Ospedaliero di San Giovanni di Dio - Fatebenefratelli; Milan; Italy
+Antagonist role
+Cefprozil
+Pupal drosophila
+Identifying value
+Anteroventral nucleus of thalamus of ABA 2009
+Adaptation ratio
+Attractor Neural Network
+Queensland Institute of Medical Research
+Blue Ridge Institute for Medical Research; North Carolina; USA
+Cefpodoxime
+Diagonal Domain of CIVM postnatal rat brain atlas
+Number of Phases
+Bed nuclei of the stria terminalis anterior division ventral nucleus of ABA 2009
+Primary visual area layer 2/3 of ABA 2009
+Pause Between Frames
+Free for academic use
+James Cook University; Townsville; Australia
+Focus Depth
+Alverine
+Online course
+Hadassah Medical Center; Jerusalem; Israel
+One dimensional region
+Electrotonic conduction
+Number of Time Slots
+Meharry Medical College; Tennessee; USA
+Cell Capacitance
+Open course
+Paired associate learning
+Johns Hopkins University School of Medicine; Maryland; USA
+Barcode Value
+Fast potential
+Cochlear nucleus (dorsal) pyramidal neuron
+Bounding Box Bottom Right Hand Corner
+Council of Scientific and Industrial Research; New Delhi; India
+Perirhinal area layer 2/3 of ABA 2009
+Contour Sequence
+Memory span test
+Horizontal fiber system neuron pb7
+Drifting
+Patient Gantry Relationship Code Sequence
+Medial prefrontal cortex
+Distance Source to Entrance
+Parameter Fitting
+Medial dorsal striatum of rodent
+Chung-Ang University; Seoul; South Korea
+K-space Filtering
+Fb-eb-no neuron
+List
+Adinazolam
+Ion Selective Electrode
+Image Type
+Ethinyl Estradiol
+Imaging hardware attribute
+Illinois Cancer Specialists; Illinois; USA
+Channel Sample Skew
+Globular Molecular Configuration
+Corrected Image
+Persons Address
+Application Setup Number
+Electrogenic Pump
+Immature human
+Paragigantocellular reticular nucleus lateral part of ABA 2009
+Multi-Coil Definition Sequence
+Reference Pixel Physical Value Y
+Lissauer's tract of spinal cord
+Posterior hypothalamic nucleus of ABA 2009
+Dezocine
+Chlordane
+Lactulose
+Quality of related physical entities
+Edrophonium
+Referenced Results Sequence
+FVB.Cg-Tg(SMN2*delta7)4299Ahmb Tg(SMN2)89Ahmb Smn1tm1Msd/J
+Chloroform
+Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico; Milan; Italy
+Metathoracic anterior fascicle neuron
+Kolliker-Fuse subnucleus of ABA 2009
+Aplysia Cerebral ganglia
+Performing Physician's Name
+Dorsomedial nucleus of the hypothalamus ventral part of ABA 2009
+Indian Institute of Science; Bangalore; India
+Prelimbic area layer 6a of ABA 2009
+Central cervical nucleus
+Ecole Polytechnique Federale de Lausanne; Lausanne; Switzerland
+Histaminergic neuron
+Primary auditory area of ABA 2009
+Lacking function
+GABA-B Receptor
+NIH Manuscript Submission ID
+Posterior pirifirom cortex
+Behavioral conditioning paradigm
+Dopaminergic dorso-lateral neuron
+Animal Biobank
+Country of Residence
+Neocortex Dorsolateral prefrontal area layer 3 Calbindin cell
+LOC area of Tootell and Hadjikhani (2001)
+Dopaminergic cell group A9
+Interpretation Recorded Date
+Data repository
+Requested Procedure Comments
+Arbitrary
+Basic Greyscale Image Sequence
+Nucleus of the lateral olfactory tract layers 1-3 of ABA 2009
+Naftifine
+Exposed Area
+Australian Research Council
+III3 motor neuron
+8BiDsmJ
+Maastricht University; Maastricht; Netherlands
+National University of Ireland; Galway; Ireland
+Referring Physician's Address
+Immature rat
+Field CA2 pyramidal layer of ABA 2009
+Rasburicase
+Adult leucokinin SELK neuron of the subesophageal ganglion
+Butorphanol
+Dorsal peduncular area layer 1 of ABA 2009
+Benzo(a)pyrene
+Channel Status
+Olfactory tubercle pyramidal layer of ABA 2009
+Axial Mash
+LPC receptor - unspecified 4
+Agranular insular area ventral part of ABA 2009
+Cortical amygdalar area posterior part lateral zone layer 1 of ABA 2009
+Electron microscopy imaging protocol
+Institution Code Sequence
+Fluocinonide
+Number of Brachy Application Setups
+Hippocampus CA1 LM(R) PP neuron
+Adult human
+Beam Stopper Position
+Chinese University of Hong Kong; Hong Kong; China
+Curtin University; Western Australia; Australia
+Cerulenin
+Bundled Anatomical Configuration
+Referenced Curve Sequence
+Geoscience
+Pathophysiology
+Physical artifact collection
+Creator-Version UID
+Infant chimpanzee
+Attached Contours
+Food and Agriculture Organization of the United Nations
+Macauthur communicative development inventory
+Heat stimulation
+Nonsynaptic conduction
+Lumiracoxib
+Dorsomedial nucleus of the hypothalamus anterior part of ABA 2009
+Local Circuit role
+Methdilazine
+Free word list recall
+Medulla of WHS11
+Olfactory tubercle Islets of Calleja large hilar cell
+Peginterferon alfa-2b
+Dentate gyrus crest polymorph layer of ABA 2009
+Brachy Control Point Sequence
+Precerebellar nucleus
+Chemosensory neuron
+Dactinomycin
+Cadmium
+Perfusion-weighted MRI 2D image
+Pranlukast
+Doxacurium chloride
+Frame of Reference Transformation Matrix Type
+Main olfactory bulb inner plexiform layer of ABA 2009
+NIH Office of Research Services
+Number of Rotations
+Osaka University; Osaka; Japan
+National Polytechnic Institute; Mexico City; Mexico
+Perirhinal area layer 6b of ABA 2009
+Application Setup Check
+Penn State Milton S. Hershey Medical Center; Pennsylvania; USA
+Phenytoin
+Interpretation Diagnosis Code Sequence
+Frame Numbers of Interest -FOI-
+Field CA2 of ABA 2009
+Fan-shaped neuron F2
+Admitting Diagnoses Description
+PubMed Central ID
+Rating scale
+Decay Factor
+Nucleus centrobasalis
+Frequency code
+National Centre for Research and Development (Poland)
+Auditory discrimination function
+Radiation Type
+Birmingham object recognition battery
+Condensed (PATO 0001485)
+Pohang University of Science and Technology; Gyeongbuk; South Korea
+Project
+Nominal Beam Energy
+Large field neuron
+Forebrain of CIVM postnatal rat brain atlas
+Caudal putamen
+European Science Foundation
+Posterolateral visual area layer 1 of ABA 2009
+Ceforanide
+ROI Display Color
+Newborn human
+Flattened Vesicle Quality
+Instance Creation Time
+Basal ganglia of PHT00
+Notch Filter Bandwidth
+Benztropine
+Fixation Device Sequence
+Penicillin V
+Registration Sequence
+Nitrazepam
+Basal Ganglia of PAXFR01
+Radionuclide Half Life
+Primary somatosensory area of ABA 2009
+Echo Pulse Sequence
+Layer 6b isocortex of ABA 2009
+Intermediate lateral septum
+Medial geniculate body lateral nucleus
+Primary somatosensory area barrel field layer 6b of ABA 2009
+Indiana University; Indiana; USA
+Long Island University; New York; USA
+Central lateral nucleus of the thalamus of ABA 2009
+Anterior pretectal nucleus of ABA 2009
+Precommissural nucleus of ABA 2009
+Buprenorphine
+Fraunhofer Institute for Algorithms and Scientific Computing SCAI; North Rhine-Westphalia; Germany
+Cancer Research Consortium of West Michigan; Michigan; USA
+Formalin test
+Illinois Institute of Technology; Illinois; USA
+Channel Shield Number
+Derivation Description
+Murdoch University; Perth; Australia
+Pseudoword naming task
+Claustrum of ABA 2009
+Item recognition task
+Primary somatosensory area mouth layer 1 of ABA 2009
+Mario Negri Institute for Pharmacological Research; Milan; Italy
+Image Plane Pixel Spacing
+Interchange format
+MR Transmit Coil Sequence
+Mononuclete
+Cancer Center of Kansas; Kansas; USA
+Entorhinal area medial part ventral zone layer 1 of ABA 2009
+Bitufted
+IST National Institute for Cancer Research; Genoa; Italy
+Picrotoxin
+Paraventricular hypothalamic nucleus of ABA 2009
+Accumbens nucleus shell neuron
+Performed Procedure Step Status
+Pantomime task
+Energy Window Range Sequence
+Numeric dataset
+Oxyphenonium
+Eating-drinking
+Mushroom body gamma neuron
+Overlay Bits Allocated
+ROI Generation Algorithm
+Florida Agricultural and Mechanical University, School of Pharmacy
+Nernst Equation
+LNd neuron
+Modified erikson scale of communication attitudes
+Biospecimen repository
+Non-painful thermal stimulation
+Clorazepate
+NF stage 1 xenopus
+Chlorzoxazone
+Japanese Ministry of Education Culture Sports Science and Technology (MEXT)
+New BSD License
+4Pi microscopy
+European Food Safety Authority
+Networks of Centres of Excellence of Canada
+Iohexol
+Irinotecan
+Bed nuclei of the stria terminalis anterior division fusiform nucleus of ABA 2009
+MR Spectroscopy Frame Type Sequence
+Macular post synaptic density
+Isocenter Position
+Prothoracic gland innervating neuron
+B6129SF1/Tac mouse
+Fat-suppressed MRI 3D image
+Aplysia buccal 20
+Phenoxybenzamine
+Reference to Recorded Sound
+Naproxen
+Gridded numeric data
+Max Planck Institute for Biophysical Chemistry; Gottingen; Germany
+Override Reason
+Filter Material
+Referenced Measured Dose Reference Sequence
+London School of Economics and Political Science; London; United Kingdom
+Polytechnic University of Madrid; Madrid; Spain
+Institute of Microbial Technology; Chandigarh; India
+Hydroxystilbamidine Isethionate
+Oxiconazole
+Channel Time Skew
+Anterior olfactory nucleus of ABA 2009
+Measured Dose Reference Number
+Intraventricular injection
+Conjugated Estrogens
+Aroclor 1260
+Encoding task
+Eb-pb-vbo neuron
+Franklin and Marshall College; Pennsylvania; USA
+Rabies-virus-mediated tracing protocol
+Entorhinal area medial part dorsal zone layer 6 of ABA 2009
+Cyproheptadine
+Paraventricular hypothalamic nucleus magnocellular division of ABA 2009
+Intervention Drug Code Sequence
+Hunan Normal University; Changsha; China
+Real World Value Last Value Mapped
+Referenced General Purpose Scheduled Procedure step Sequence Transaction UID
+Infliximab
+Northeastern University; Massachusetts; USA
+Boston University; Massachusetts; USA
+Infracerebellar nucleus
+Laterodorsal tegmental nucleus of ABA 2009
+Clark Atlanta University; Georgia; USA
+Fraction Pattern
+Cefmenoxime
+Fresenius Medical Care
+Bed nucleus of the stria terminalis common spiny neuron
+Hippocampal Formation of CIVM postnatal rat brain atlas
+Pons motor related of ABA 2009
+Data analytics software
+Dose Rate Set
+Dublin City University; Dublin; Ireland
+Low pass filter
+EH neurosecretory neuron
+Albert Einstein College of Medicine; New York; USA
+Basal hypothalamus
+Number of Event Timers
+Oregon State University; Oregon; USA
+Olfactory bulb (main) internal plexiform layer outer part
+Delivered Channel Total Time
+Hygeia Hospital; Athens; Greece
+Larval olfactory receptor neuron Or35a
+Paraventricular hypothalamic nucleus descending division lateral parvicellular part of ABA 2009
+Matching pennies game
+Prelimbic area of ABA 2009
+Image Path Filter Pass Band
+Frame Comments
+Fast afterhyperpolarization duration
+Cerebellar deep nucleus principal neuron
+Oxaprozin
+Alpha synuclein positive inclusion
+Detector Information Sequence
+Photoreceptor cell (FBbt Term)
+Brain parcellation scheme
+Balsalazide
+First Order Phase Correction
+Reflected Ambient Light
+Curve Dimensions
+Accessory olfactory bulb granular layer of ABA 2009
+National Health Research Institutes; Taipei; Taiwan
+Neural encoding
+Histogram Sequence
+Gray Lookup Table Data
+Neocortex Dorsolateral Prefrontal Area layer 1 parvalbumin cell
+Patient Orientation Modifier Code Sequence
+Beat Rejection Flag
+Amphotericin B
+Angle Number
+Embryonic / larval central nervous system
+General Purpose Scheduled Procedure Step Priority
+Dapsone
+Austrian Agency for Health and Food Safety
+Abdominal neuron
+Anterior piriform cortex
+Northwestern University; Illinois; USA
+Christopher Newport University; Virginia; USA
+Presentation Pixel Spacing
+Cortical amygdalar area posterior part lateral zone layer 3 of ABA 2009
+ROI Standard Deviation
+Pons behavioral state related of ABA 2009
+Hunter College; New York; USA
+Fastigial nucleus of ABA 2009
+Hexafluronium bromide
+Mechanical Index
+Number of Stages
+First order thalamic relay nucleus
+Fraction Group Type
+Plane Position Sequence
+Density (PATO 0001019)
+CIRAD
+FRQS
+Distribution Address
+Concatenation Frame Offset Number
+Arcitumomab
+Episodic recall
+Idaho State University, College of Pharmacy
+Prescription Description
+A2 neuron
+Cerebral cortex of ABA 2009
+Clobazam
+Echo Train Length
+DesC neuron
+Major island of Calleja of ABA 2009
+Calpain 1
+Bed Nucleus of the Stria Terminalis of CIVM postnatal rat brain atlas
+Partial Fourier
+Baton Rouge Clinic; Louisiana; USA
+Operator Identification Sequence
+Acupuncture task
+G-protein gated channel
+Ocellus retinula cell
+Pubescent chimpanzee
+Patient Eye Movement Command Code Sequence
+Exposure Dose Sequence
+Choriogonadotropin alfa
+Clinical dementia rating scale
+Dopaminergic PPL2c neuron
+Dorsal cochlear nucleus of ABA 2009
+Kindling
+Anterior olfactory nucleus layer 1 of ABA 2009
+Block Thickness
+Firing frequency
+Lercanidipine
+Fan-shaped neuron
+Neocortex dorsolateral prefrontal area layer 6 calbindin cell
+Cued explicit recognition
+Number of Leaf/Jaw Pairs
+Primary somatosensory area trunk layer 1 of ABA 2009
+Compensator Divergence
+Referenced Waveform Channels
+Immature Insulin Granule
+Inferior colliculus of WHS11
+Referenced Beam Number
+Medial part of the nucleus of the solitary tract
+Anterodorsal nucleus of ABA 2009
+Microelectrode Holder
+Comments on the Scheduled Procedure Step
+A5 neuron
+Edetic Acid
+Influence of dendritic geometry
+Contrast/Bolus Ingredient Code Sequence
+Anastrozole
+Dorsal auditory area layer 5 of ABA 2009
+Image Position
+INRA Rennes
+Metoclopramide
+Larval olfactory receptor neuron Or33b / Or47a
+LLN
+Block Type
+Piriform-amygdalar area pyramidal layer of ABA 2009
+Ketorolac
+Reprojection Method
+Gastrula human
+National Genotyping Center; Ile-de-France; France
+KoÃ§ University; Istanbul; Turkey
+Piriform-amygdalar area polymorph layer of ABA 2009
+RT ROI Observations Sequence
+Probabilistic classification task
+Primary visual area layer 6a of ABA 2009
+Coding Scheme External ID
+Medial geniculate body ovoid nucleus
+Carleton University; Ontario; Canada
+Infracerebellar nucleus of ABA 2009
+Max-Planck-Institute for Informatics; Saarbrucken; Germany
+ODC Public Domain Dedication and License
+Graphic Data
+Current Treatment Status
+Color-word stroop task
+Ambenonium
+Cellular physiology characteristic
+Compensator Rows
+Physical Delta Y
+Piriform-amygdalar area of ABA 2009
+Didanosine
+Lch1 neuron
+Referenced Brachy Application Setup Number
+Branched Spine Quality
+Midbrain motor related of ABA 2009
+Negative result
+Overlay Plane Origin
+Referenced SOP Sequence
+Delayed match to sample task
+Coding Scheme Registry
+Lisdexamfetamine
+Acute drug administration paradigm
+Graphic Layer Sequence
+Embryonic drosophila
+Ontario Ministry of Agriculture Food and Rural Affairs
+Cephapirin
+Haptic illusion task
+Dorsal bank of the superior temporal sulcus
+Aroclor 1016
+Posterior auditory area layer 2/3 of ABA 2009
+Fluocinolone Acetonide
+Prelimbic area layer 2 of ABA 2009
+Dorsal striatum of rodent
+Blue Palette Color Lookup Table Data
+Primary somatosensory area nose of ABA 2009
+MR Velocity Encoding Sequence
+Cochlear nucleus (dorsal) unipolar brush cell
+CIVM postnatal rat brain atlas parcellation scheme
+Graphic Object Sequence
+Anterior hypothalamic nucleus central part of ABA 2009
+Japan Society for the Promotion of Science
+Octopaminergic neuron
+Pial Endfoot of Tanycyte
+Chungbuk National University; Cheongju; South Korea
+Clocortolone
+Quadrature Receive Coil
+Postsubiculum of ABA 2009
+Absolute refractory state
+Arizona State University; Arizona; USA
+Image Center Point Coordinates Sequence
+Propafenone
+NHLBI Division of Cardiovascular Sciences
+European Biobank
+Montclair State University; New Jersey; USA
+Optogenetics
+Cancer Care Centers of South Texas; Texas; USA
+Biaxial Tissue Analysis
+Deslanoside
+Primary motor area of ABA 2009
+Parapyramidal nucleus of ABA 2009
+Adult optic lobe OL tachykinin neuron
+Parahippocampal cortex of RHA11
+Conduction failure
+Meclofenamic acid
+Axon transport
+Dimension Index Sequence
+Intrinsic Current
+Collimator Upper Horizontal Edge
+California Polytechnic State University; California; USA
+Phytonadione
+Ibandronate
+IP neuron
+Posterior median sulcus
+Basic Color Image Sequence
+Diffusion tensor imaging
+Filamentous (PATO 0001360)
+Ethiodized oil
+J. Craig Venter Institute
+Fast twitch skeletal muscle cell
+Medulla motor related of ABA 2009
+Natamycin
+Endrin
+Grid Period
+Lateral agranular field
+European Commission
+Palivizumab
+Completion Flag
+Filter Type
+Neurula mouse
+FVB.Cg-Tg(SMN2)89Ahmb Smn1tm1Msd/J mouse
+Hospital for Special Surgery; New York; USA
+Liverpool School of Tropical Medicine; Liverpool; United Kingdom
+Oregon Health and Science University School of Medicine; Oregon; USA
+Entorhinal area medial part ventral zone layer 3 of ABA 2009
+Juvenile mouse
+Fluence Data Scale
+Dorsal nucleus raphÃ© of ABA 2009
+Inhibitory
+Claustrum of PHT00
+Pergolide
+Calcium dynamics
+B6.129-Smn1tm1Jme/J
+Gonadorelin
+Meterset Exposure
+Patient Orientation
+Mini ruby
+Patients Birth Time
+Referenced Tolerance Table Number
+Account required
+African-American
+Desmopressin
+Lateral vestibular nucleus of ABA 2009
+Rectification Type
+David Geffen School of Medicine at UCLA; California; USA
+Desoxycorticosterone Pivalate
+Phentolamine
+Auburn University; Harrison School of Pharmacy
+Pubescent macaque
+ABA 2009 adult mouse brain parcellation scheme
+First spike latency
+Metaxalone
+Moving image
+Referenced VOI LUT Box Sequence
+Block tapping test
+Micafungin
+Hospital for Sick Children (SickKids); Ontario; Canada
+Cleavage cat
+Electron microscopy immunolabeling protocol
+Adult pacemaker neuron
+Mecasermin
+Region Location Max Y1
+Juvenile chimpanzee
+Bioengineering
+Institutional Department Name
+Benzocaine
+Pear-shaped
+Pixel Data
+Domperidone
+Applicator Type
+Colesevelam
+CIVM postnatal rat brain atlas parcellation scheme region
+Polish Academy of Sciences Poznan; Poznan; Poland
+Gantry Angle Tolerance
+Hardcopy Creation Device
+Matrix Sequence
+National Institute of Animal Science; Gyeonggi-do; South Korea
+Counts Source
+Brachy Control Point Delivered Sequence
+Pb-eb-eb neuron
+Microelectrode Beveler
+Printer Pixel Spacing
+Aplysia buccal 31
+Primary somatosensory area mouth layer 5 of ABA 2009
+Adequate stimulus
+Cord blood stem cell
+Image Comments
+Delayed recall test
+Pixel Component Range Stop
+Paclitaxel
+Central cervical nucleus of PHT00
+Intradimensional shift task
+FVB.Cg-Tg(SMN2)89Ahmb Smn1tm1Msd/J
+Entorhinal area medial part ventral zone layer 4 of ABA 2009
+Caudal vestibular nuclei
+GlaxoSmithKline
+Ketotifen
+Clodronate
+Benzo(b)fluoranthene
+Nucleus of the trapezoid body of ABA 2009
+Ethinamate
+Dynamic map
+Dibromochloropropane
+Cortical amygdalar area anterior part layer 3 of ABA 2009
+Pegaspargase
+Hypothalamus oxytocin releasing neuroendocrine magnocellular neuron
+Primary somatosensory area layer 6b of ABA 2009
+Mushroom body calyx arborizing neuron 2
+Referenced Measured Dose Reference Number
+Medial amygdalar nucleus posterodorsal part sublayer c of ABA 2009
+Cerebellar cortex granular layer of ABA 2009
+Number of Pulses
+Icosapent
+Brigham and Womens Hospital; Massachusetts; USA
+Kanizsa figures
+Koc University; Istanbul; Turkey
+Pain monitor-discrimination task
+NCIRE
+Dorsal root ganglion C non-nociceptive neuron
+Piriform-amygdalar area layers 1-3 of ABA 2009
+Bristol-Myers Squibb
+Paced auditory serial addition test
+Interstitial nucleus of the vestibular nerve of ABA 2009
+McGill University; Montreal; Canada
+Cortical amygdalar area anterior part of ABA 2009
+Pixel Component Physical Units
+RT ROI Relationship
+Accessory facial motor nucleus of ABA 2009
+Adult gorilla
+MR Image Frame Type Sequence
+Mechanosensory neuron of adult labial sensillum 4
+Lomustine
+Population spike
+Junctional fold
+Midbrain behavioral state related of ABA 2009
+Hypothalamus of ABA 2009
+Pixel Bandwidth
+Number of Frames in Rotation
+Counting stroop task
+L1 GRN
+Copula of the pyramis of PHT00
+Burned In Annotation
+Benzo(a)anthracene
+Diphemanil Methylsulfate
+Orbital area layer 2/3 of ABA 2009
+Number of Patient Related Instances
+Neocortex primary visual area pyramidal layer 2-3 cell
+Neuroendocrine motor magnocellular neurosecretory cell
+Patient ID
+Overlay Descriptor - Gray
+Real World Value Intercept
+Dorsal hypothalamus
+Encainide
+Infant human
+Primary somatosensory area lower limb layer 6b of ABA 2009
+HeJ
+Pertinent Other Evidence Sequence
+New Jersey Institute of Technology; New Jersey; USA
+Drexel University; Pennsylvania; USA
+Referenced Structure Set Sequence
+Brain stem of ABA 2009
+Anterior preoptic area
+Region Location Max X1
+Labral sense organ neuron
+Content Item Modifier Sequence
+Max Planck Institute for Demographic Research; Mecklenburg-Vorpommern; Germany
+Methyldopa
+Periventricular hypothalamic nucleus anterior part of ABA 2009
+Amoxapine
+Framing Type
+Doppler Correction Angle
+Anterior olfactory nucleus pars principalis
+Conenzyme A
+Diffusion-tensor imaging protocol
+Partial View Description
+Modifying Device Manufacturer
+Methacycline
+Referenced Fraction Number
+Parafascicular nucleus of ABA 2009
+Gq
+Overlays - Gray
+Overlay Number
+Frame Acquisition Datetime
+Lateral hypothalamic area of ABA 2009
+RT Dose ROI Sequence
+Electical overshoot
+Panitumumab
+Bi-Plane Acquisition Sequence
+Auranofin
+National Laboratory for Scientific Computing; Rio de Janeiro; Brazil
+CONICET
+Class IV dendritic arborizing neuron
+Friedrich Schiller University Jena; Jena; Germany
+Image Translation Vector
+Lateral visual area layer 1 of ABA 2009
+Date of Last Detector Calibration
+Misfolded Molecular Quality
+NMDA
+Last Menstrual Date
+Beam Limiting Device Sequence
+Linear nucleus of the medulla of ABA 2009
+Pasteur Institute
+Fixation Device Type
+Gustatory areas layer 1 of ABA 2009
+OspA lipoprotein
+Marinol
+Content Description
+Ondansetron
+Anchor Point
+Coordinate System Axis Code Sequence
+Abdominal intersegmental trachea-associated neuron istd
+Proparacaine
+Direction selectivity
+Hardcopy Device Manfuacturers Model Name
+Icon Image Sequence
+California Institute of Technology; California; USA
+Pimecrolimus
+Metathoracic ventral thoracic neurosecretory neuron
+Dartmouth Medical School; New Hampshire; USA
+Nonprofit Organization
+Antennal olfactory receptor neuron
+Northwestern University Feinberg School of Medicine; Illinois; USA
+Acquisitions in Study
+Primary somatosensory area barrel field of ABA 2009
+Oscillation
+Deep brain stimulation
+Maternal AIDS
+Posterior auditory area layer 5 of ABA 2009
+Cholinergic neuron (FBbt Term)
+Fraunhofer-Gesellschaft
+Number of Frames in Overlay
+Medial forebrain
+Area prostriata of DMVH2003
+Metolazone
+Radiation Machine SSD
+Medical University of Vienna; Vienna; Austria
+Intended Recipients of Results Identification Sequence
+Pulse Sequence Name
+Childrens Hospital and Research Center Oakland; California; USA
+NIH Common Fund
+Dorsolateral entorhinal area of RHA11
+Brazilian Ministry of Science Technology and Innovation
+Kyushu University; Fukuoka; Japan
+Charles R. Drew University of Medicine and Science; California; USA
+A
+Basolateral amygdalar nucleus posterior part of ABA 2009
+Audio-visual target-detection task
+Oxybenzone
+Kasetsart University; Bangkok; Thailand
+Neocortex primary motor area pyramidal layer 5 corticopontine-tectal cell
+Frame Secondary Angle Vector
+Anagrelide
+De-coupling Method
+Lateral reticular nucleus parvicellular part of ABA 2009
+Count Rate
+Orbital area lateral part layer 1 of ABA 2009
+Overlay Format
+Esmolol
+Dentate gyrus HICAP cell
+LP neuron
+Object alternation task
+Number of R-R Intervals
+RFID Animal Identification
+IVUS Acquisition
+Median fan-shaped neuron Fm
+Anterior hypothalamus
+Detector Element Physical Size
+Main olfactory bulb of ABA 2009
+Metocurine Iodide
+Dutch Ministry of Education Culture and Science
+Neocortex primary motor area pyramidal layer 2-3 cell
+Olfactory monitor-discrimination
+Orbital area ventrolateral part layer 6a of ABA 2009
+Neostriatum indirect pathway spiny neuron
+Potassium(+)
+Anterior hypothalamic nucleus dorsal part of ABA 2009
+Embryonic
+LOP area of Tootell and Hadjikhani 2001
+Parasubthalamic nucleus of ABA 2009
+Bulk Motion Status
+Acquisition Time
+King's College London; London; United Kingdom
+Braille reading task
+Lobule II of ABA 2009
+Naming (Overt)
+Class I dendritic arborizing neuron
+Contour Data
+Cups task
+Flurandrenolide
+Dose Reference Sequence
+Polarity (PATO 0001769)
+Graphic Filled
+Inversion Time
+Immature chimpanzee
+Northern Antibiotics
+Neocortex Dorsolateral prefrontal area layer 4 Calbindin cell
+Pixel Component Mask
+Primary somatosensory area mouth layer 4 of ABA 2009
+Portrayal catalog
+Light sheet based fluorescent microscopy imaging assay
+Cortical amygdalar area posterior part lateral zone layer 2 of ABA 2009
+Larval olfactory receptor neuron Or24a
+Etomidate
+Cleavage human
+MR Echo Sequence
+Collimator Lower Horizontal Edge
+I K,Ca
+Lateral fan-shaped neuron Fl4
+Number of k-Space Trajectories
+Contributing Equipment Sequence
+Korea Advanced Institute of Science and Technology; Daejeon; South Korea
+Dysgranular cortex
+Nucleus of the solitary tract lateral part of ABA 2009
+Posteromedial visual area layer 5 of ABA 2009
+Juvenile cat
+Developmentally Diverse Structures of CIVM postnatal rat brain atlas
+Alcohol-Related Addiction
+Dimension Organization Sequence
+Paul Sabatier University - Toulouse III; Toulouse; France
+Carbimazole
+Dimenhydrinate
+Date of Secondary Capture
+Cambridge gambling task
+Neocortex primary motor area pyramidal layer 5 callosal cell
+Counting-calculation
+Digit span task
+Ontario Ministry of Research and Innovation
+Dentate gyrus of RHA11
+Accessory olfactory bulb glomerular layer of ABA 2009
+Overlay Date
+Dirithromycin
+Context Group Extension Creator UID
+Number of Detectors
+Cyclothiazide
+Newborn chimpanzee
+Number of Study Related Series
+Pupal pacemaker neuron
+Dorsal auditory area layer 6b of ABA 2009
+Manufacturers Model Name
+Pfizer
+Parallel Reduction Factor Second In-plane
+DDD, P,P'-
+Number of Views in Stage
+Bed nuclei of the stria terminalis anterior division dorsomedial nucleus of ABA 2009
+Corpus Callosum of CIVM postnatal rat brain atlas
+Endrin ketone
+Basal telencephalon
+Baseline Correction
+Overlay Type
+Gracile nucleus of ABA 2009
+Additional Patient History
+Paramedian lobule of ABA 2009
+Basilea Pharmaceutica
+Frontal pole layer 1 of ABA 2009
+Region Data Type
+Frederick National Laboratory for Cancer Research
+Dose Value
+Entorhinal area lateral part layer 4 of ABA 2009
+Lateral visual area of ABA 2009
+Institute of Molecular Biology and Biotechnology; Heraklion; Greece
+Levofloxacin
+Aston University; Birmingham; United Kingdom
+Frame of Reference UID
+Missouri University of Science and Technology; Missouri; USA
+Fludarabine
+Presentation Creation Date
+Primary visual area layer 1 of ABA 2009
+Cilostazol
+Bilateral intrinsic neuron
+Asymmetrical (PATO 0000616)
+Brachy Referenced Dose Reference Sequence
+Delta wave
+Atlanta Cancer Care; Georgia; USA
+Bits Stored
+Parasubiculum of ABA 2009
+Piriform area of ABA 2009
+Beam Limiting Device Angle
+Cleavage dog
+Benzphetamine
+Anterolateral visual area layer 5 of ABA 2009
+Ministry of Education - Singapore
+Resistor
+Neocortex layer 5B
+RIKEN Tsukuba Institute; Kansai; Japan
+Central amygdalar nucleus lateral part of ABA 2009
+Nucleus of reunions of ABA 2009
+Anterior cingulate area ventral part layer 6a of ABA 2009
+Regional part of gustatory epithelium (nifext 13)
+Performed Procedure Step End Date
+Medullary reticular nucleus dorsal part of ABA 2009
+Caudal nucleus raphe obscurus
+Chronic binge drug administration paradigm
+Named entity recognition
+Brodmann (1909) cortical parcellation scheme human
+Medial amygdalar nucleus anteroventral part of ABA 2009
+Olivary pretectal nucleus of ABA 2009
+Anoxia
+Massachusetts General Hospital; Massachusetts; USA
+Parabrachial nucleus medial division of ABA 2009
+Peripapillary glial cell
+Physical Delta X
+Presentation LUT Content Sequence
+Levetiracetam
+B6;D2-Tg(Thy-1-SNCA)61Ema mouse
+Brazilian National Laboratory of Scientific Computation
+Dentate gyrus lateral blade molecular layer of ABA 2009
+Moscow State University; Moscow; Russia
+RT Plan Description
+Intermediate reticular nucleus of ABA 2009
+I M
+Abarelix
+Gold standard
+Mushroom body alpha' / beta' neuron
+Assistance Publique - Hopitaux de Paris
+B6;D2-Tg(Thy-1-SNCA*A30P)44Ema mouse
+Posterolateral visual area layer 2/3 of ABA 2009
+Hippocampus regio inferior of Cajal
+Glutamic acid decarboxylase
+Projection from Caudomedial Nidopallium to Caudomedial Mesopallium
+Referenced Dose Sequence
+Abciximab
+Embryonic rat
+Lateral preoptic area of ABA 2009
+Leibniz Institute for Age Research
+Computational Linguistics
+Accumbens Nucleus of CIVM postnatal rat brain atlas
+Channel Sensitivity Units Sequence
+Norwegian Institute of Water Research; Oslo; Norway
+Multi-Coil Element Name
+Motorized Micromanipulator
+Imaging role
+Gamma-Homolinolenic acid
+Lateral visual area layer 5 of ABA 2009
+Item Delimitation
+Entorhinal area lateral part layer 6a of ABA 2009
+Quality Control Image
+Larval olfactory receptor neuron Or94b
+Behavioral rating inventory of executive function
+Probenecid
+Observation Date Time
+Focal Distance
+Anteriolateral neurosecretory cell
+Referenced SOP Instance UID
+Abdominal intersegmental bidendritic neuron isbp
+Fraction Status Summary Sequence
+Detector Description
+Parcellation scheme
+Levocabastine
+Markup language
+Huazhong University of Science and Technology; Wuhan; China
+Image interpretation attribute
+Guaifenesin
+Dorsal intermediate entorhinal area of RHA11
+Modalities in Study
+Almotriptan
+Medullary commissural inhibitory neuron
+Fluorouracil
+Open Data Commons License
+Control Point Relative Position
+Flow-compensated MRI 3D image
+Heidelberg Institute for Theoretical Studies; Heidelberg; Germany
+Muscle Testers
+Pleomorphic (PATO 0001356)
+Real World Value LUT Data
+Center Hospital of Porto; Porto; Portugal
+Liothyronine
+Mushroom body pedunculus-medial lobe and vertical lobe arborizing neuron 1
+Liverpool John Moores University; Liverpool; United Kingdom
+Pubescent dog
+Pontifical Catholic University of Argentina School of Medical Sciences; Buenos Aires; Argentina
+A.T. Still University; Arizona; USA
+Fasciculus retroflexus of WHS11
+Connected spatiotemporal region
+Dose Units
+Processual context
+Number of Table Break Points
+Beam Type
+King Mongkutâ€™s University of Technology Thonburi; Bangkok; Thailand
+1LacJ
+Jefferson Hospital for Neuroscience; Pennsylvania; USA
+Radiopharmaceutical Volume
+Bed nuclei of the stria terminalis anterior division magnocellular nucleus of ABA 2009
+Edinger-Westphal nucleus of ABA 2009
+Midbrain raphe nuclei of ABA 2009
+Critical Path Institute; Arizona; USA
+Energy Window Vector
+Real World Value First Value Mapped
+Lateral thalamus
+Anterior cingulate area layer 6b of ABA 2009
+Body Part Examined
+Caudal spinal cord
+Dentate gyrus crest of ABA 2009
+Letter naming task
+Brachy Accessory Device Sequence
+Functional Group Pointer
+Functional Group Private Creator
+Copula pyramidis of ABA 2009
+Detector Type
+Do Not Exist
+Eb-no neuron
+Nine-hole peg test
+Iontophoresis system
+Dentate gyrus lateral blade polymorph layer of ABA 2009
+Entorhinal area medial part dorsal zone layer 2b of ABA 2009
+Applicable Safety Standard Description
+PVC Rejection
+Chlordane, trans-
+Original Image Identification Nomenclature
+Exemestane
+Aminolevulinic acid
+Energy Window Information Sequence
+Caudal thalamus
+Mediodorsal thalamus
+Agranular insular area posterior part layer 2/3 of ABA 2009
+Boston Childrens Hospital; Massachusetts; USA
+Dorsal premammillary nucleus of ABA 2009
+Nerve conduction
+French National Authority for Health
+Recorded Compensator Sequence
+Amgen
+Aplysia buccal 8
+Dead Time Correction Flag
+Coding Scheme UID
+Procedure Code Sequence
+Channel Baseline
+DesD neuron
+Netherlands Cancer Institute; Amsterdam; Netherlands
+Contour Image Sequence
+Model-based stereology
+Bed nucleus of the stria terminalis triangular neuron
+Data Point Columns
+Basolateral amygdalar nucleus of ABA 2009
+Nucleus incertus of ABA 2009
+Duquesne University; Pennsylvania; USA
+Lateral tegmental nucleus
+Colliculus superior piriform cell
+Foundation for Research and Technology-Hellas; Heraklion; Greece
+CA1 of RHA11
+Fresenius Medical Care North America
+Hexachlorocyclohexane, beta-
+Isopropamide
+Referenced Beam Sequence
+Membrane osmometers
+Open unspecified license
+Presentation Creation Time
+Aldrin
+Mushroom body ventral lobe arborizing neuron 4
+Persons Telephone Numbers
+Quality (PATO 0000001)
+Bufotenine
+Larval olfactory receptor neuron Or45a
+Radionuclide
+Physical Units X Direction
+Primary Dosimeter Unit
+Detector Active Origin
+Nucleus of the lateral lemniscus dorsal part of ABA 2009
+Reported Values Origin
+Kirksville College of Osteopathic Medicine
+Procarbazine
+Aarhus University; Aarhus; Denmark
+Digital Image Format Acquired
+Coding Scheme Identification Sequence
+Orbital area lateral part of ABA 2009
+ROI Physical Properties Sequence
+Brachy Application Setup Dose Specification Point
+DNQX
+Paragigantocellular reticular nucleus dorsal part of ABA 2009
+Number of Frames
+Graph resource
+Compensator Mounting Position
+Detector Element Spacing
+Middle Eastern Hospital
+Data or information resource
+Embryo rat
+B6;C3-Tg(Prnp-MAPT*P301S)PS19Vle/J mouse
+Refractory state
+Primary auditory area layer 2/3 of ABA 2009
+Inhalant
+Go-no-go task
+Center for Genomic Regulation; Barcelona; Spain
+Myongji University; Gyeonggi-do; South Korea
+Oxford Brookes University; Oxford; United Kingdom
+Beam Dose
+NIH Office of Research on Womens Health
+Hippocampal formation of ABA 2009
+Referenced Presentation LUT Sequence
+Bambuterol
+Anatomic Structure
+LUT Label
+Meyer et al 1989
+Hippocampal region of RHA11
+Acetaminophen
+Echo Number
+Azatadine
+Entorhinal area lateral part layer 2b of ABA 2009
+Hong Kong University; Hong Kong; China
+Overlays - Blue
+MTT assay
+External cuneate nucleus of ABA 2009
+Etoricoxib
+Agranular insular area dorsal part layer 1 of ABA 2009
+N6-(2(3,5-dimethoxyphenyl)-2-(2-methylphenyl)ethyl)-adenosine
+Equilibrium potential
+Horizontal fiber system neuron pb8
+Blastula xenopus
+Clemastine
+Beam Number
+Georg-August-University of GÃ¶ttingen; Lower Saxony; Germany
+National Autonomous University of Mexico; Mexico City; Mexico
+Perforated post synaptic density
+Medulla sensory related of ABA 2009
+Cerebrum of ABA 2009
+Lille 2 University of Health and Law; Lille; France
+Forced swimming paradigm
+Participant Group
+MR Spatial Saturation Sequence
+Ergoloid mesylate
+Interaction
+Anteromedial visual area layer 6a of ABA 2009
+Diffusion constant
+Number of Fractions Planned
+Instrument role
+Pierre and Marie Curie University; Paris; France
+Madrid Health Service
+Dentate gyrus granule cell layer of ABA 2009
+Institute of Health Carlos III
+Printer Characteristics Sequence
+DVH Number of Bins
+Application Setup Sequence
+Open field test
+Pursuit rotor task
+Anterior cingulate area dorsal part layer 6a of ABA 2009
+Electrical drift
+Content Qualification
+German Research Foundation
+Horizontal fiber system neuron pb1
+Cerebellum granule cell axon
+Pupal s-LNv neuron
+Agalsidase beta
+Cylinder Axis
+Pixel Aspect Ratio
+Amygdala of Macaque
+B2 motor neuron
+Campaniform sensillum L3-1 of wing vein L3 neuron
+Hyperphosphorylated Molecular Quality
+Cerebellar Pontocerebellar Projection
+Execution Status
+Reason for Study
+Primary somatosensory area barrel field layer 2/3 of ABA 2009
+Kinki University School of Medicine; Osaka; Japan
+Permeable (PATO 0000982)
+Cochlea outer hair cell
+Dorsal auditory area layer 6a of ABA 2009
+Latex bead
+Mature mouse
+Lamellar Cristae Quality
+Angular Step
+Pulse Repetition Interval
+Pineal gland of PHT00
+Princeton University; New Jersey; USA
+GABA receptor
+RT ROI Identification Code Sequence
+Australian Biobank
+Bidirectional
+Cantabrian Health Service; Cantabria; Spain
+Identical Documents Sequence
+Primary somatosensory area layer 6a of ABA 2009
+Mushroom body ventral lobe arborizing neuron 3
+Fraction Number
+Adult tachykinin neuron of the central nervous system
+Relationship Type
+Image Origin
+Mediodorsal nucleus of the thalamus lateral part of ABA 2009
+Paraventricular hypothalamic nucleus descending division dorsal parvicellular part of ABA 2009
+Lateral septal nucleus ventral part of ABA 2009
+Regional Health Agency of Tuscany
+Failure Reason
+Performed Procedure Step Start Time
+Positioner Primary Angle
+Immediate recall test
+Pleomorphic Vesicle Quality
+Non-DICOM Output Code Sequence
+Encrypted Content Transfer Syntax UID
+Indirect flight muscle motor neuron MN5
+Dibucaine
+Ciprofloxacin
+Balloon analogue risk task (BART)
+Median preoptic nucleus of ABA 2009
+National Institute of Health Sciences; Tokyo; Japan
+Neuronal acetylcholine receptor subunit alpha-1
+Coding Scheme Version
+French Health Products Safety Agency
+National Institute of Health and Medical Research; Rennes; France
+Nucleus of the posterior commissure of ABA 2009
+Howard University; Washington D.C.; USA
+Nucleus of the lateral olfactory tract molecular layer of ABA 2009
+Mature Insulin Granule
+Mushroom body medial lobe arborizing neuron 2
+Detector Active Shape
+Network ID
+R-R Interval Vector
+Annotation Group Number
+Primary somatosensory area mouth of ABA 2009
+Early social communications scales
+Orbital area layer 5 of ABA 2009
+Macula of eye
+Referenced Wedge Number
+Fourth ventricle of WHS11
+Ponce School of Medicine and Health Sciences; Puerto Rico; USA
+Dentate gyrus mossy cell
+Radionuclide Positron Fraction
+Dieldrin
+Expected Completion Date and Time
+Interpretation ID Issuer
+Interpretation Recorder
+Central medial nucleus of the thalamus of ABA 2009
+Eo neuron
+Medullary reticular nucleus of ABA 2009
+Primary somatosensory area trunk layer 2/3 of ABA 2009
+Main olfactory bulb granule layer of ABA 2009
+Primary motor area Layer 5 of ABA 2009
+Fraction Group Summary Sequence
+Fasciola cinereum-CA1 of RHA11
+Image Position (Patient)
+In-concatenation Number
+Epigenomics
+Gustatory receptor neuron of the epiphysis
+Patients Mothers Birth Name
+Action observation task
+Bed nuclei of the stria terminalis posterior division strial extension of ABA 2009
+Oxymetazoline
+Anterior cingulate area dorsal part layer 2/3 of ABA 2009
+Nevirapine
+Channel Definition Sequence
+Oxamniquine
+Multidendritic neuron
+Lobules IV-V of ABA 2009
+Muromonab
+Interpretation Status ID
+Lateral posterior nucleus of the thalamus of ABA 2009
+Cingulum of CIVM postnatal rat brain atlas
+Detector ID
+Anterior cingulate area layer 2/3 of ABA 2009
+Anteromedial nucleus of ABA 2009
+Practolol
+Contribution Description
+National Institute on Disability and Rehabilitation Research
+Magnetic resonance angiography
+Microsyringe Pump
+Bevacizumab
+Frame Reference Time
+Gracile fasiculus of the spinal cord
+Ministry of Health and Family Welfare - Government of India
+Paliperidone
+Mimosine
+Greek General Secretariat of Research and Technology
+Knife
+Original Image Identification
+Anterior olfactory nucleus medial part of ABA 2009
+RTI International
+Motor neuron (FBbt Term)
+Mercer University College of Pharmacy and Health Sciences; Georgia; USA
+Nonword repetition task
+Marshall University; West Virginia; USA
+Ministry of Education and Science of the Russian Federation
+Neocortex primary visual layer 5 corticopontine/tectal pyramidal cell
+Anterolateral visual area layer 6b of ABA 2009
+Neuronal nuclear antigen
+Brain Matrics
+Registration required
+Basolateral amygdalar nucleus ventral part of ABA 2009
+Cibarial pump muscle neuron
+Nucleus raphe pontis of ABA 2009
+Eculizumab
+Augmentation
+Dentate nucleus of ABA 2009
+Neurosecretory cell
+Ergonovine
+Fan-shaped neuron F1
+Cyclobenzaprine
+Proximal Dendrite
+Referring Physician's Name
+Neocortex primary motor area pyramidal layer 5 corticostriate cell
+Fluphenazine
+Cincinnati Childrens Hospital Medical Center; Ohio; USA
+Paraventricular hypothalamic nucleus parvicellular division anterior parvicellular part of ABA 2009
+Pinealocyte
+Positive and negative affect scale
+Foscarnet
+Cefditoren
+Dialysis Clinic Inc.
+Cortical amygdalar area posterior part medial zone layer 2 of ABA 2009
+Hagedorn Research Institute; Gentofte; Denmark
+Lateral habenula of ABA 2009
+Prilocaine
+RT Image SID
+MAP04002 oculomotor nerve or its root
+Adult drosophila melanogaster
+Leibniz Association
+Large field neuron of the central complex
+Lissauer's tract of medulla
+Adult lateral horn LHKL leucokinin neuron
+Larval olfactory receptor neuron Or33a
+Pattern comparison
+Request Attributes Sequence
+ROI Area
+Capreomycin
+Electrophysiology theory
+Hindbrain of WHS11
+Filter High Frequency
+Adalimumab
+Other Magnification Types Available
+Referenced Raw Data Sequence
+Health Canada
+OTKA Foundation
+Filler Order Number / Procedure
+Recorded Brachy Accessory Device Sequence
+Aix-Marseille University; Provence-Alpes-Cote d'Azur; France
+Max Planck Institute of Biochemistry; Martinsried; Germany
+Benzidine
+Interpretation Transcriber
+Endopiriform nucleus ventral part of ABA 2009
+Anteromedial nucleus dorsal part of ABA 2009
+Image Index
+Needle and Holder
+Performed Station Geographic Location Code Sequence
+Dorsal auditory area layer 4 of ABA 2009
+Referenced Treatment Record Sequence
+D Dopa
+DN3a neuron
+Novartis
+Recommended Viewing Mode
+Microscope Light Source
+Midbrain of CIVM postnatal rat brain atlas
+Horizontal fiber system neuron
+Operators Name
+Nucleus ambiguus ventral division of ABA 2009
+Preparasubthalamic nucleus of ABA 2009
+LUT Data
+Alefacept
+Institute of Cytology and Genetics of the Siberian Branch of the RAS; Novosibirsk; Russia
+Calcium Chloride
+Lateral fan-shaped neuron Fl3
+Operating Mode Sequence
+Anterior cingulate area ventral part layer 5 of ABA 2009
+Adult olfactory receptor neuron
+Lateral fan-shaped neuron Fl2
+Nathan S. Kline Institute for Psychiatric Research; New York; USA
+B6CBA-Tg(HDexon1)62Gpb/1J mouse
+Primary auditory area layer 4 of ABA 2009
+Neocortex stellate layer 4 cell
+Nucleus of the solitary tract gelatinous part of ABA 2009
+Perirhinal area of ABA 2009
+Primary somatosensory area lower limb layer 6a of ABA 2009
+Dartmouth-Hitchcock Medical Center
+Pupal Pdf neuron close to calyx
+Alignment software
+Metharbital
+Microubule destabilizing protein
+Ectorhinal area/Layer 1 of ABA 2009
+Massachusetts Institute of Technology; Massachusetts; USA
+Cholinergic agonist role
+Directed forgetting task
+Annotation Flag
+Parallel processing
+Centre Hospitalier Universitaire Vaudois; Lausanne; Switzerland
+Histogram Data
+Lower bank of the intraparietal sulcus
+Butler University; Indiana; USA
+Dorsolateral striatum
+Neuronal birthday
+Colorado College; Colorado; USA
+Amygdala intercalated nuclei small spiny neuron
+Dose Reference Structure Type
+Pegvisomant
+Hydration sphere
+National Medicines Institute; Warsaw; Poland
+Cortical amygdalar area posterior part medial zone layer 1-3 of ABA 2009
+Methoxamine
+Gustatory areas layer 6b of ABA 2009
+Aminosalicylic Acid
+Rescale Slope
+Requested Media Application Profile
+Gray oral reading test - 4
+Referenced Patient Alias Sequence
+Primary auditory area layer 1 of ABA 2009
+Hamner Institutes for Health Sciences; North Carolina; USA
+Adult tachykinin neuron of the thoracic-abdominal ganglion
+Rapid serial object transformation
+CeCILL-B license
+Lateral visual area layer 6a of ABA 2009
+Lateral cortex
+Nonporous
+Des1 neuron
+Radboud University Nijmegen; Nijmegen; Netherlands
+Fiducial Sequence
+LUT Explanation
+Methyl aminolevulinate
+Dose Summation Type
+Chemical Shifts Maximum Integration Limit in ppm
+Cefazolin
+Face n-back task
+Parabrachial nucleus lateral division central lateral part of ABA 2009
+Fraunhofer Institute for Toxicology and Experimental Medicine
+Dichotic listening task
+Interferon Alfa-2b, Recombinant
+Admitting Diagnoses Code Sequence
+Immature mouse
+Nembutol
+Alcohol-nonpreferring rat
+Bed nuclei of the stria terminalis posterior division interfascicular nucleus of ABA 2009
+Caspofungin
+Cortical parcel
+Pixel Component Organization
+Filter order
+Entorhinal area lateral part layer 6b of ABA 2009
+Child
+Operation span task
+Hippocampal region of ABA 2009
+L2 GRN
+Anatomic Region Modifier Sequence
+Extrafusal fiber
+Medical University Innsbruck; Innsbruck; Austria
+Continuity Of Content
+Creative Commons Attribution-ShareAlike License
+Nucleus sagulum of ABA 2009
+Long Island University; Arnold & Marie Schwartz College of Pharmacy & Health Sciences
+Mushroom body medial lobe arborizing neuron 4
+Anterior olfactory nucleus layer 2 of ABA 2009
+Isotope Number
+Osaka Medical Center for Cancer and Cardiovascular Diseases; Osaka; Japan
+Antennal lobe (Manduca) interneuron
+Indiana University Bloomington; Indiana; USA
+Nucleus of the lateral olfactory tract of ABA 2009
+Nucleus accumbens of ABA 2009
+Estimated Radiographic Magnification Factor
+Miglitol
+Catalog
+Identifier mapping resource
+Los Alamos National Laboratory
+Institute of Biological Sciences
+Journal article resource
+Electrophysiology concept
+Immature dog
+Overlay Subtype
+Otto-von-Guericke University Magdeburg; Saxony-Anhalt; Germany
+Olfactory cortex multipolar cell
+Recorded Wedge Sequence
+Lateral paragigantocellular nucleus of PHT00
+Planar Configuration
+Electrosurgical instrument
+Pupal DN3 period neuron
+Embryo human
+Pupal DN1 period neuron
+Diencephalon of WHS11
+Pegademase bovine
+Axial Hindbrain of CIVM postnatal rat brain atlas
+MAP2004 parcel
+1J mouse
+Piriform area molecular layer of ABA 2009
+Gray Scale
+Loyola University Chicago Stritch School of Medicine; Illinois; USA
+Carpenter 1976 Parcellation scheme region
+Input InformationSequence
+RT Image Description
+Frame of Reference Transformation Comment
+Embryonic dog
+Posterior parietal association areas layer 6b of ABA 2009
+Cerebral cortex of PHT00
+Medial corticohypothalamic tract
+Parallel Acquisition
+Antennal lobe (Honey bee) principal neuron
+Brain region role
+Beam Limiting Device Position Tolerance
+Peter MacCallum Cancer Centre; Victoria; Australia
+Diatrizoate
+Referenced Calculated Dose Reference Number
+Central amygdalar nucleus capsular part of ABA 2009
+Colliculus superior deep vertical fusiform cell
+Dorsal column nuclei of ABA 2009
+Primary somatosensory area nose layer 2/3 of ABA 2009
+Nucleus of the stria medullaris
+Jozef Stefan Institute; Ljubljana; Slovenia
+Person Identification Code Sequence
+BIRN-INCF Derived Data Project
+Olfactory tubercle layers 1-3 of ABA 2009
+Biofeedback
+Discharge Time
+Distance Source to Detector
+Image acquisition protocol
+Entorhinal area medial part dorsal zone layer 5 of ABA 2009
+Gustatory areas layer 2/3 of ABA 2009
+Chemosensory neuron of adult labial sensillum 9
+Pixel Intensity Relationship Sign
+Primary somatosensory area nose layer 6b of ABA 2009
+Epithelial Voltage Clamp
+Mushroom body medial lobe arborizing neuron 3
+Region Location Min Y0
+Ax-cpt task
+Pemoline
+Olfactory bulb (main) internal plexiform layer
+129
+Anticonvulsant drug
+Digital Object Identifier
+Pupal protocerebral LPP2 tachykinin neuron
+Asian Biobank
+Loracarbef
+Isoflurophate
+Radial Position
+Cerebellum of CIVM postnatal rat brain atlas
+Mefloquine
+Number of Compensators
+Dopaminergic A13 group of ABA 2009
+Adult DN period neuron
+Block Sequence
+Cumulative Time Weight
+Distal Dendrite
+Neocortex Dorsolateral prefrontal area layer 2 Calbindin cell
+Larval olfactory receptor neuron Or59a
+Prepubescent human
+Cochlear nucleus (dorsal) Golgi cell
+Dorsal root ganglion C nociceptive neuron
+Orbital area ventral part of ABA 2009
+Disposition to shed
+Lateral fan-shaped neuron Fl
+Medial habenula of ABA 2009
+Content Creators Name
+Mushroom body (Honey bee) Kenyon cell
+Glycopyrrolate
+Parabrachial nucleus medial division external medial part of ABA 2009
+Metal Electrode
+Moexipril
+Posterior fascicle sensory neuron
+Midbrain reticular nucleus retrorubral area of ABA 2009
+Entorhinal area medial part dorsal zone layer 2a of ABA 2009
+Pedunculated Spine Quality
+Carbidopa
+Area 4 of cortex primary motor of PHT00
+Bed nucleus of the anterior commissure of ABA 2009
+Accessory olfactory bulb of ABA 2009
+B6CBAF1/J
+MR Averages Sequence
+Ramelteon
+Patient Comments
+Amygdala basolateral nuclear complex pyramidal neuron
+G-Protein
+Medial group of the dorsal thalamus of ABA 2009
+Field CA3 stratum lucidum of ABA 2009
+Conivaptan
+Connectionist model
+Dysmetria
+Orbital area layer 6a of ABA 2009
+Overlay Rows
+E-1 neuron
+Ganglion cell
+Postpiriform transition area layers 2 of ABA 2009
+Isocortex of PHT00
+Block Divergence
+Dorsal peduncular area of ABA 2009
+Hammersmith functional motor scale
+B6129SF1/Tac
+Blastula human
+Principal sensory nucleus of the trigeminal of ABA 2009
+Referenced RT Plan Sequence
+Order Callback Phone Number
+CA2 stratum pyramidale
+Bennett Cancer Center; Connecticut; USA
+FVB-Tg(YAC128)53Hay/J
+Displayed Area Top Left Hand Corner
+Cortical plate of ABA 2009
+Patients Weight
+Flashing checkerboard
+Elevated plus maze test
+Eriksen flanker task
+German Cancer Research Center
+RIKEN
+Primary somatosensory area upper limb layer 6a of ABA 2009
+Janssen
+Drug administration paradigm
+LP2 neuron
+Guys Hospital; London; United Kingdom
+Cuneate nucleus of ABA 2009
+Carbon Fiber Electrode
+Oxygen Sensor
+Moxifloxacin
+Northeastern University, Bouve College of Health Sciences
+Immunoadsorption
+Fixation Device Position
+Deferoxamine
+Conditioned place preference paradigm
+Intrafusal fiber
+Fluence Map Sequence
+DesA neuron
+Greek Ministry of National Education and Religious Affairs
+Local interneuron of adult antennal lobe
+Hydrochlorothiazide
+Piriform-amygdalar area molecular layer of ABA 2009
+Indirect flight muscle motor neuron MN1
+Flow Compensation Direction
+Fondaparinux sodium
+Dentate gyrus lateral blade granule cell layer of ABA 2009
+Microelectrode array
+Medial mammillary nucleus median part of ABA 2009
+Allodynia
+Capacitence
+Pipobroman
+Bentoquatam
+Medial entorhinal area
+Electron tomography imaging protocol
+Catholic University of Leuven; Flemish Brabant; Belgium
+Primaquine
+Clinical evaluation of language fundamentals-3
+Intra Ocular Pressure
+Olfactory bulb (main) tufted cell (middle)
+Fasciola cinereum-DG of RHA11
+Nicergoline
+Inha University; Incheon; South Korea
+Epoprostenol
+Issue Date of Imaging Service Request
+Intervention Status
+Amygdala of PHT00
+Behavioral investment allocation strategy (BIAS)
+Medial amygdalar nucleus posterodorsal part sublayer b of ABA 2009
+FVB.Cg-Tg(SMN2*delta7)4299Ahmb Tg(SMN2)89Ahmb Smn1tm1Msd/J mouse
+Referenced Brachy Accessory Device Number
+Lateral fan-shaped neuron ExFl1
+NHLBI Division of Blood Diseases and Resources
+Cochlea inner hair cell
+Percent Sampling
+Bilkent University; Ankara; Turkey
+Eptifibatide
+Primary motor area Layer 2/3 of ABA 2009
+Kansas State University; Kansas; USA
+Ectorhinal area/Layer 5 of ABA 2009
+Anterolateral visual area layer 2/3 of ABA 2009
+Interpretation Transcription Date
+Primary somatosensory area upper limb layer 4 of ABA 2009
+Modifying Device ID
+Dyphylline
+Referenced Sample Positions
+Nalidixic Acid
+General Purpose Scheduled Procedure Step Status
+Pyridoxal Phosphate
+Dead Time Factor
+Ganciclovir
+Campaniform sensillum L3-3 of wing vein L3 neuron
+Korea National Institute of Health
+Device Serial Number
+Cerebellar cortex Purkinje layer of ABA 2009
+Lateral tegmentum
+Embryonic rabbit
+Methylscopolamine
+Pyramus (VIII) of ABA 2009
+Print Queue ID
+De-coupling
+Glial specific marker
+Anterior tegmental nucleus of ABA 2009
+Infant rat
+Cornell University College of Veterinary Medicine
+Array tomography
+Peptidergic Receptor
+Cromoglicate
+Pituitary of CIVM postnatal rat brain atlas
+Hexachlorobutadiene
+Medial terminal nucleus of the accessory optic tract of ABA 2009
+Passive listening
+Dorsal cibarial sense organ neuron
+Deviation(from normal)
+Benchmark
+Alglucosidase alfa
+Parallel Reduction Factor In-plane
+Nucleus of the lateral lemniscus ventral part of ABA 2009
+National Institute for Health and Welfare; Helsinki; Finland
+California Lutheran University; California; USA
+Glibenclamide
+Caudal nucleus tractus solitarius
+National Institute on Minority Health and Health Disparities
+New York University School of Medicine; New York; USA
+Middle East Biobank
+Dorsomedial nucleus of the hypothalamus of ABA 2009
+Carbon tetrachloride
+Number of Control Points
+Catholic University of Louvain; Louvain-la-Neuve; Belgium
+Chemical Shifts Minimum Integration Limit in ppm
+Aarhus University Hospital; Aarhus; Denmark
+Pogonophora group
+Cystatin C
+Michigan State University College of Veterinary Medicine
+DN3 neuron
+Nucleus of the lateral lemniscus of ABA 2009
+Posterior limiting nucleus of the thalamus of ABA 2009
+Bed nuclei of the stria terminalis posterior division principal nucleus of ABA 2009
+Number of Frames in Phase
+Mature human
+Mapping Resource
+Largest Pixel Value in Series
+Posterior limitans nucleus
+Exposure Control Mode
+Overlay Time
+Larval Pdf neuron close to calyx
+Anthony Nolan Research Institute
+Channel Shield Sequence
+Cell sorting
+Paraflocculus of ABA 2009
+Performed Station Class Code Sequence
+Max Planck Institute for Heart and Lung Research; Bad Nauheim; Germany
+Relative Image Position Code Sequence
+Lingula (I) of ABA 2009
+Asian Hospital
+Overlay Origin
+Herpes simplex virus I
+Genome Institute of Singapore; Singapore; Singapore
+Larval dorsomedial neurosecretory cell
+Memorial Sloan Kettering Cancer Center; New York; USA
+Cefotiam
+Alcohol-preferring rat
+Perirhinal area layer 5 of ABA 2009
+Recitation-repetition (Overt)
+Reboxetine
+Ciclopirox
+Query / Retrieve Level
+I h
+Pupil Dilated
+Fetus human
+Insulin, porcine
+James Hutton Institute; Scotland; United Kingdom
+Gachon University; Seongnam; South Korea
+Clark University; Massachusetts; USA
+Infralimbic area layer 6b of ABA 2009
+Requested Procedure Location
+Dimethylthiambutene
+Epirubicin
+DVH Normalization Dose Value
+Piriform area pyramidal layer of ABA 2009
+Pre-Medication
+Referenced Performed Procedure Step Sequence
+Mushroom body medial lobe arborizing neuron 1
+Cerebellar nuclei of ABA 2009
+Macropatch voltage clamp recording protocol
+Burst firing pattern
+Prostriate area
+Medial septal complex of ABA 2009
+Image Positionâ€“Patient
+Medial amygdalar nucleus posterodorsal part of ABA 2009
+Agranular insular area posterior part layer 6a of ABA 2009
+Dorsal longitudinal fasciculus of PHT00
+Jewish General Hospital; Quebec; Canada
+Louisiana State University School of Medicine; Louisiana; USA
+Olfactory tubercle cortical region of Meyer et al 1989
+Lateral septal nucleus of ABA 2009
+Context Identifier
+Lateral reticular nucleus of ABA 2009
+Ergotamine
+Lossy Image Compression Ratio
+Mesenchymal stem cell
+King Abdullah University of Science and Technology; Makkah Province; Saudi Arabia
+National Research Foundation - Republic of Singapore
+Mammillary body of ABA 2009
+Gliquidone
+Mechanosensory neuron of adult labial sensillum 8
+Boston naming test
+Imperial College London; London; United Kingdom
+Other Patient IDs
+Cumulative Meterset Weight
+Dorsal anterior lateral neuron of the protocerebrum
+Halofantrine
+Manual Micromanipulator
+Organism-related portal
+Hypoglossal nucleus of ABA 2009
+Hippocampus CA2 pyramidal neuron
+Plasmalemmal precursor vesicle
+Insulin Lyspro recombinant
+Mayo Graduate School; Minnesota; USA
+Green Palette Color Lookup Table Descriptor
+Referenced Frame of Reference Sequence
+Mushroom body alpha / beta neuron
+Dorsal tp motor neuron
+Physiology Instrument
+Hydroflumethiazide
+Referenced Waveform Sequence
+Olfactory receptor neuron (FBbt Term)
+DeltaFosB
+Interpretation Author
+Chlordane, cis-
+Dose Reference Number
+Hoehn and Yahr scale
+Referenced Source Number
+Image Path Filter Pass-Through Wavelength
+RT Image Orientation
+Auditory areas of ABA 2009
+Dorsal bank of the principal sulcus
+MR-proADM
+Content Template Sequence
+Phase Contrast
+Open Government Licence
+Barcelona MAR Health Park Consortium
+Basomedial amygdalar nucleus posterior part of ABA 2009
+Memory Bit Depth
+Other Orphan Gene receptor - unspecified 30 (nifext 6647)
+Larval olfactory receptor neuron Or63a
+NIF annotation standard for treatment paradigm
+De-coupling Chemical Shift Reference
+A4 neuron
+Accessory facial nucleus of PHT00
+Flow Compensation
+Mushroom body anterior inferior medial cell
+Accessory nucleus motor neuron
+Metipranolol
+Original Specialized SOP Class UID
+Execution Status Info
+Arformoterol
+Fiducial Set Sequence
+Cisapride
+Cylinder Lens Power
+Input Resistance
+Conversion Type
+MR Spectroscopy FOV/Geometry Sequence
+Output Information Sequence
+Bowling Green State University; Ohio; USA
+Innovation Norway
+Micturition task
+Professional program
+Graphic Annotation Units
+Levamisole
+Interstitial nucleus of the posterior limb of the anterior commissure
+PONS reference structure
+Availability annotation standard
+Basket Cell Morphology
+Primary motor area Layer 6b of ABA 2009
+Frame Primary Angle Vector
+Action potential characteristic
+Indirect flight muscle motor neuron MN3
+Clarithromycin
+Frovatriptan
+III1 motor neuron
+Cerebellar cortex of ABA 2009
+Luer and Fitting
+Hypothalamus of CIVM postnatal rat brain atlas
+Orbital area layer 1 of ABA 2009
+Do not exist. See PS 3.5 for explanation.
+Interpretation Text
+Department for International Development
+Horizontal (PATO 0001855)
+Distributed processing
+Histogram Number of Bins
+Dipivefrin
+Anteromedial visual area layer 4 of ABA 2009
+Red Nucleus of ABA 2009
+French National Center for Scientific Research
+Patients Birth Date
+Alternating runs paradigm
+Axodendritic synapse
+Referenced Fraction Group Number
+Application Setup Manufacturer
+Diflorasone
+Image Box Presentation LUT Flag
+Median fan-shaped neuron Fm1
+Clark WELeG 1951 Parcellation scheme region
+Cefixime
+Date of Last Calibration
+I p,q
+Fimbria Fornix of CIVM postnatal rat brain atlas
+Cabergoline
+Images in Acquisition
+Indiana University School of Medicine; Indiana; USA
+Auburn University; Alabama; USA
+Destination AE
+Clomifene
+Posterior parietal association areas layer 1 of ABA 2009
+Posterolateral visual area layer 6b of ABA 2009
+Collimator Shape
+Mental rotation task
+Creative Commons Attribution-NonCommercial-ShareAlike License
+Left Image Sequence
+Referenced Print Job Sequence
+Paraventricular hypothalamic nucleus descending division forniceal part of ABA 2009
+Asymmetrical Chemical Synapse Quality
+Caudal midbrain
+Collation Flag
+National Institute of Advanced Industrial Science and Technology
+GABAergic neuron (FBbt Term)
+Bumetanide
+Embryonic chimpanzee
+DVH Volume Units
+Cerebellum nucleus reciprocal projections neuron
+Acquisition
+Bed nucleus of the stria terminalis superficial spiny neuron
+Anchor Point Visibility
+Dorsal peduncular area layer 6a of ABA 2009
+Primary somatosensory area lower limb layer 5 of ABA 2009
+Frame Dimension Pointer
+Number of Beams
+Mefenamic acid
+Number of Table Entries
+Monocular deprivation paradigm
+Medical University of South Carolina; South Carolina; USA
+Picture naming task
+Childrens National Medical Center; Washington D.C.; USA
+Meperidine
+Anterodorsal preoptic nucleus
+Contour Uncertainty Radius
+City University of New York; New York; USA
+Performed Station AE Title
+Harvard Medical School; Massachusetts; USA
+Patient Eye Movement Commanded
+California State University Channel Islands; California; USA
+Radiation Machine Name
+Orbital area lateral part layer 6b of ABA 2009
+National Health Research Institutes; Zhunan; Taiwan
+Necessity of occurent
+Entorhinal area medial part dorsal zone layer 1 of ABA 2009
+California verbal learning test-ii
+First Order Phase Correction Angle
+Imaging procedure attribute
+Postsynaptic inhibition
+Channel Label
+Delivery Warning Dose
+Notch filter
+Pubescent rabbit
+Block Number
+Medulla behavioral state related of ABA 2009
+Pentolinium
+After-potential
+Grid Frame Offset Vector
+Block design test
+Father's occupation (birnlex 3022)
+Anterior olfactory nucleus pars externa
+C57BL/6J
+Myosin
+Haloprogin
+Differential gene expression
+Failed SOP Instance UID List
+Oak Ridge National Laboratory
+Referenced Bolus Sequence
+Attribute entity role
+Echo Planar Pulse Sequence
+Gradient Echo Train Length
+Interanterodorsal nucleus of the thalamus of ABA 2009
+Binary executable
+Channel Description Code Sequence
+Anterior cingulate area dorsal part layer 1 of ABA 2009
+Relational behavioral quality
+Brachy Accessory Device Number
+PHT00 macaque brain parcel
+Bromodiphenhydramine
+Cerebellum of ABA 2009
+Globus pallidus of WHS11
+Medial amygdalar nucleus posterodorsal part sublayer a of ABA 2009
+MR-proANP
+Chemical Shifts Minimum Integration Limit in Hz
+I L high threshold
+Lateral visual area layer 4 of ABA 2009
+Perirhinal area layer 6a of ABA 2009
+Posterodorsal preoptic nucleus of ABA 2009
+Necessary (occurent)
+Leiden University; Leiden; Netherlands
+Filter Low Frequency
+Inferior olivary complex of ABA 2009
+Receptive field
+Red Palette Color Lookup Table Descriptor
+B6;D2-Tg(Thy-1-SNCA*A30P)44Ema
+Multiplex Group Time Offset
+Fetus rat
+Carbetocin
+Axosomatic synapse
+Olfactory bulb of ABA 2009
+Desonide
+Grid Thickness
+Peginterferon alfa-2a
+Radionuclide Code Sequence
+Modifier Code Sequence
+Curve Data
+Posterior parietal association areas layer 4 of ABA 2009
+Institute of Biology and Chemistry of Proteins; Lyon; France
+Anterior commisure
+Guru Gobind Singh Indraprastha University; Delhi; India
+Carpenter 1976 Parcellation scheme
+Harvard University; Massachusetts; USA
+Fields of Forel of ABA 2009
+Fundus of striatum of ABA 2009
+Control Point Sequence
+Graphic Layer Recommended Display Grayscale Value
+DB/dt
+Anterior Paravermal Cortex
+Patients Size
+Chimeric animal stroop task
+Central amygdalar nucleus medial part of ABA 2009
+Larval olfactory receptor neuron Or45b
+Medical College of Georgia; Georgia; USA
+Horizontal fiber system neuron pb2
+Lomefloxacin
+Region Flags
+Bed nuclei of the stria terminalis anterior division oval nucleus of ABA 2009
+Dichlorphenamide
+Entorhinal cortex of RHA11
+Mammalian Structure Nomenclature Parcellation scheme
+Caudoputamen of ABA 2009
+Kumamoto University; Kumamoto; Japan
+Nystatin
+Depolarization
+Bayer HealthCare Pharmaceuticals
+Nucleus of the lateral olfactory tract pyramidal layer of ABA 2009
+Anterior cingulate area layer 6a of ABA 2009
+Nucleus of Roller of ABA 2009
+Referenced Block Number
+Medial preoptic nucleus lateral part of ABA 2009
+Chinese Academy of Sciences; Beijing; China
+Neuronal acetylcholine receptor subunit alpha-8
+Neostriatum direct pathway spiny neuron
+Duration (birnlex 2052)
+Adult cat
+Darbepoetin alfa
+Bretylium
+Baylor College of Medicine; Texas; USA
+Lossy Image Compression Method
+Referenced Calculated Dose Reference Sequence
+Graduate School of Arts and Sciences at Columbia University Medical Center
+Follitropin beta
+Docetaxel
+Block Name
+Reporting Priority
+Alosetron
+Immuno detection protocol
+Motor sequencing task
+Oculomotor delayed response
+Diffusion b-value
+Evoked potential
+Channel Shield ID
+Channel Sensitivity Correction Factor
+B6
+Measured Dose Type
+Positioner Motion
+Placer Order Number / Procedure
+Imaging Device-Specific Acquisition Parameters
+Bitolterol
+National Center for Safety Evaluation of Drugs - China
+Field CA1 of ABA 2009
+GNU Affero General Public License
+Fornix of WHS11
+Distance Source to Support
+Muscarine
+Centers for Medicare and Medicaid Services
